@@ -29,8 +29,9 @@ const bank = JSON.parse(
 
 validateBank(bank);
 const rooms = new Map();
-const DURATION = 20;
-const TOTAL = 20;
+const DURATION = 25;
+const MAX_PLAYERS = 8;
+const QUESTION_COUNTS = [10, 20, 30, 40, 50];
 
 // Persistent history is mandatory on Render/production; never silently fall back.
 const persistent = Boolean(process.env.DATABASE_URL);
@@ -67,13 +68,15 @@ function emitRoom(r) {
     difficulty: r.difficulty,
     hostId: r.players[0].id,
     round: r.round + 1,
-    total: TOTAL
+    total: r.total,
+    duration: DURATION,
+    maxPlayers: MAX_PLAYERS
   });
 }
 
 // Enviar una pregunta a ambos jugadores
 function question(r) {
-  if (r.round >= TOTAL) {
+  if (r.round >= r.total) {
     r.status = 'finished';
     clearTimeout(r.timer);
 
@@ -85,6 +88,7 @@ function question(r) {
     });
 
     emitRoom(r);
+    setTimeout(() => { if (rooms.get(r.code) === r) rooms.delete(r.code); }, 15 * 60 * 1000).unref();
     return;
   }
 
@@ -97,7 +101,9 @@ function question(r) {
 
   io.to(r.code).emit('question', {
     round: r.round + 1,
-    total: TOTAL,
+    total: r.total,
+    duration: DURATION,
+    maxPlayers: MAX_PLAYERS,
     category: q.category,
     difficulty: q.difficulty,
     cefr: q.cefr,
@@ -165,7 +171,8 @@ io.on('connection', socket => {
   });
 
   // Crear una sala
-  socket.on('create', ({ name, difficulty = 'mixed' } = {}) => {
+  socket.on('create', ({ name, difficulty = 'mixed', total = 20 } = {}) => {
+    if (!QUESTION_COUNTS.includes(total)) return err(socket, 'Elige 10, 20, 30, 40 o 50 preguntas.');
     if (socket.data.room) return err(socket, 'Ya estás en una sala. Recarga para salir.');
     if (!['mixed','easy','medium','hard'].includes(difficulty)) return err(socket, 'Nivel no válido.');
     name = typeof name === 'string' ? name.trim().slice(0, 22) : '';
@@ -190,6 +197,7 @@ io.on('connection', socket => {
       }],
       questions: [],
       difficulty,
+      total,
       round: 0,
       status: 'waiting',
       timer: null,
@@ -219,7 +227,7 @@ io.on('connection', socket => {
       return err(socket, 'Sala no encontrada.');
     }
 
-    if (r.status !== 'waiting' || r.players.length >= 2) {
+    if (r.status !== 'waiting' || r.players.length >= MAX_PLAYERS) {
       return err(
         socket,
         'La sala ya está completa o ha comenzado.'
@@ -246,23 +254,26 @@ io.on('connection', socket => {
     if (
       !r ||
       r.players[0]?.id !== socket.id ||
-      r.players.length !== 2 ||
+      r.players.length < 2 ||
       r.status !== 'waiting'
     ) {
       return err(
         socket,
-        'Deben estar los dos jugadores para comenzar.'
+        'Solo el creador puede comenzar, con al menos dos jugadores conectados.'
       );
     }
 
+    const startToken = {};
+    r.startToken = startToken;
     r.status = 'starting';
     emitRoom(r);
     try {
-      r.questions = await history.reserve(bank, r.difficulty);
-      if (!r.players.every(p => p.connected) || rooms.get(r.code) !== r || r.status !== 'starting') return;
+      const reserved = await history.reserve(bank, r.difficulty, r.total);
+      if (rooms.get(r.code) !== r || r.status !== 'starting' || r.startToken !== startToken) return;
+      r.questions = reserved;
       question(r);
     } catch {
-      if (r.status !== 'starting') return;
+      if (r.status !== 'starting' || r.startToken !== startToken) return;
       r.status = 'waiting';
       emitRoom(r);
       err(socket, 'No se pudo reservar el historial. Inténtalo de nuevo; no se ha iniciado la partida.');
@@ -290,57 +301,61 @@ io.on('connection', socket => {
 
     socket.emit('answered', { index });
 
-    // Revelar cuando ambos hayan respondido
-    if (Object.keys(r.answers).length === 2) {
+    // Revelar cuando hayan respondido todos los jugadores conectados
+    if (r.players.filter(p => p.connected).every(p => Object.hasOwn(r.answers, p.id))) {
       reveal(r);
     }
   });
 
-  // Gestionar desconexiones
+  // Lobby departures free a slot. Started matches never admit late joiners.
   socket.on('disconnect', () => {
     const r = rooms.get(socket.data.room);
-
     if (!r) return;
+    const p = r.players.find(p => p.id === socket.id);
+    if (!p) return;
+    p.connected = false;
 
-    const p = r.players.find(
-      p => p.id === socket.id
-    );
-
-    if (p) p.connected = false;
-
-    emitRoom(r);
-
-    if (r.status === 'waiting') {
-      rooms.delete(r.code);
-
-      io.to(r.code).emit(
-        'errorMessage',
-        'Se ha cerrado la sala porque se desconectó un jugador.'
-      );
-
-    } else if (r.status !== 'finished') {
-      clearTimeout(r.timer);
-
-      r.status = 'finished';
-
-      io.to(r.code).emit(
-        'errorMessage',
-        'Un jugador se ha desconectado. La partida ha terminado.'
-      );
-
-      io.to(r.code).emit('finished', {
-        players: r.players.map(p => ({
-          name: p.name,
-          score: p.score
-        }))
-      });
+    if (r.status === 'waiting' && r.players[0].id !== socket.id) {
+      r.players = r.players.filter(player => player.id !== socket.id);
+      emitRoom(r);
+      return;
     }
-
-    setTimeout(() => {
-      if (rooms.get(r.code) === r) {
-        rooms.delete(r.code);
+    if ((r.status === 'waiting' || r.status === 'starting') && r.players[0].id === socket.id) {
+      clearTimeout(r.timer);
+      r.status = 'finished';
+      io.to(r.code).emit('roomClosed', { message: 'El creador ha cerrado la sala. Puedes crear otra.' });
+      io.to(r.code).emit('errorMessage', 'El creador ha cerrado la sala.');
+      for (const player of r.players) {
+        const member = io.sockets.sockets.get(player.id);
+        if (member) { member.leave(r.code); member.data.room = null; }
       }
-    }, 15 * 60 * 1000);
+      rooms.delete(r.code);
+      return;
+    }
+    if (r.status === 'starting') {
+      // A reservation may be in flight: cancel this start rather than leave it stuck.
+      r.status = 'waiting';
+      r.players = r.players.filter(player => player.connected);
+      emitRoom(r);
+      io.to(r.code).emit('errorMessage', 'Un jugador salió al comenzar. El creador puede volver a iniciar.');
+      return;
+    }
+    const connected = r.players.filter(player => player.connected);
+    if (r.status !== 'finished' && connected.length < 2) {
+      clearTimeout(r.timer);
+      r.status = 'finished';
+      io.to(r.code).emit('errorMessage', 'Quedan menos de dos jugadores conectados. La partida ha terminado.');
+      io.to(r.code).emit('finished', {
+        players: r.players.map(player => ({ name: player.name, score: player.score, connected: player.connected }))
+      });
+    } else if (r.status === 'playing' && connected.every(player => Object.hasOwn(r.answers, player.id))) {
+      reveal(r);
+    }
+    emitRoom(r);
+    if (!connected.length) {
+      clearTimeout(r.timer);
+      rooms.delete(r.code);
+    }
   });
 
 });

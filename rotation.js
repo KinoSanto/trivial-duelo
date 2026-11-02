@@ -1,6 +1,7 @@
 import { randomInt } from 'node:crypto';
 
 export function selectQuestions(bank, used, count = 20, difficulty = 'mixed') {
+  if (!Number.isInteger(count) || count < 1 || count > 50) throw new Error('Cantidad no válida');
   const eligible = bank.filter(q => difficulty === 'mixed' || q.difficulty === difficulty);
   if (eligible.length < count) throw new Error('Banco insuficiente para este nivel');
   let remaining = eligible.filter(q => !used.has(q.id));
@@ -30,10 +31,10 @@ export class MemoryHistory {
   constructor() { this.used = new Set(); this.queue = Promise.resolve(); }
   async ready() {}
   async healthy() { return true; }
-  reserve(bank, difficulty) {
+  reserve(bank, difficulty, count = 20) {
     const job = this.queue.then(() => {
       const used = this.used;
-      const result = selectQuestions(bank, used, 20, difficulty);
+      const result = selectQuestions(bank, used, count, difficulty);
       if (result.reset) bank.filter(q => difficulty === 'mixed' || q.difficulty === difficulty).forEach(q => used.delete(q.id));
       result.newCycleIds.forEach(id => used.add(id));
       return result.selected;
@@ -53,7 +54,7 @@ export class PostgresHistory {
     )`);
   }
   async healthy() { await this.pool.query('SELECT 1'); return true; }
-  async reserve(bank, difficulty) {
+  async reserve(bank, difficulty, count = 20) {
     const client = await this.pool.connect();
     try {
       await client.query('BEGIN');
@@ -61,7 +62,7 @@ export class PostgresHistory {
       await client.query('INSERT INTO trivia_rotation_v1(scope) VALUES ($1) ON CONFLICT DO NOTHING', ['global']);
       const { rows: [row] } = await client.query('SELECT used_ids FROM trivia_rotation_v1 WHERE scope=$1 FOR UPDATE', ['global']);
       const used = new Set(row.used_ids);
-      const result = selectQuestions(bank, used, 20, difficulty);
+      const result = selectQuestions(bank, used, count, difficulty);
       if (result.reset) bank.filter(q => difficulty === 'mixed' || q.difficulty === difficulty).forEach(q => used.delete(q.id));
       result.newCycleIds.forEach(id => used.add(id));
       await client.query(`UPDATE trivia_rotation_v1 SET used_ids=$2, cycle=cycle+$3, updated_at=now() WHERE scope=$1`,

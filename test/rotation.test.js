@@ -85,3 +85,22 @@ test('failed transaction rolls back and releases its connection', async () => {
   assert.ok(calls.includes('ROLLBACK'));
   assert.equal(calls.at(-1),'release');
 });
+
+test('variable match lengths share a persistent deck across a database restart', async () => {
+  const dir = mkdtempSync(path.join(tmpdir(), 'trivia-counts-'));
+  let history = new PostgresHistory(poolFor(new PGlite(dir)));
+  try {
+    await history.ready();
+    const first = await history.reserve(bank,'mixed',50);
+    assert.equal(first.length,50);
+    await history.close();
+    history = new PostgresHistory(poolFor(new PGlite(dir)));
+    await history.ready();
+    const all = [...first];
+    for (const count of [10,20,30,40]) {
+      const questions = await history.reserve(bank,'mixed',count);
+      assert.equal(questions.length,count); all.push(...questions);
+    }
+    assert.equal(new Set(all.map(q=>q.id)).size,150);
+  } finally { await history.close(); rmSync(dir,{recursive:true,force:true}); }
+});
