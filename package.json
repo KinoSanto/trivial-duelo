@@ -1,1 +1,22 @@
-{"name":"trivial-duelo","version":"1.0.0","type":"module","scripts":{"start":"node server.js"},"engines":{"node":">=18"},"dependencies":{"express":"^4.21.2","socket.io":"^4.8.1"}}
+{
+  "name": "trivial-duelo",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/rotation.test.js test/game.test.js",
+    "validate": "node scripts/validate-bank.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.1",
+    "@electric-sql/pglite": "^0.3.14"
+  }
+}

@@ -1,34 +1,58 @@
-# Trivial Duelo — dos móviles en tiempo real
+# Trivial Duelo
 
-Juego web en español para 2 jugadores con 20 preguntas aleatorias (de un banco de 36), 20 segundos por pregunta y puntuación de 100 puntos por acierto. Ambos jugadores ven la misma pregunta y responden simultáneamente. Si ambos responden, se revela la solución inmediatamente; si no, se revela al acabar el tiempo. La siguiente pregunta aparece después de 4,5 segundos.
+Dos jugadores en tiempo real, 20 preguntas por partida, 20 segundos por pregunta y 100 puntos por acierto. Se conserva el protocolo Socket.IO anterior con campos nuevos aditivos. Tras revelar se esperan 4,5 segundos. Una desconexión termina la partida, igual que antes.
 
-## Ejecutar en ordenador
+## Banco de 2000 preguntas
 
-Necesitas Node.js 18 o superior. En la carpeta del proyecto:
+| Categoría | Preguntas |
+|---|---:|
+| Historia | 200 |
+| Geografía | 200 |
+| Ciencia y naturaleza | 200 |
+| Arte y literatura | 150 |
+| Deportes | 150 |
+| Entretenimiento y cultura general | 150 |
+| Cine | 200 |
+| Filosofía | 150 |
+| CrossFit | 200 |
+| Matemáticas | 200 |
+| Gramática de inglés | 200 |
 
-```bash
+El anfitrión elige fácil, medio, difícil o mixto. Inglés incluye 100 ítems B1 y 100 B2. CrossFit tiene 100 preguntas técnicas y 100 situaciones de registro y cálculo. Matemáticas incluye 200 problemas de diez familias. Varias preguntas exploran facetas distintas de un tema: no se afirma que sean 2000 temas independientes.
+
+Enunciados redactados para este proyecto, sin importar bancos de terceros. `content/` conserva las fichas editoriales. `python scripts/build-bank.py` reproduce el JSON de forma determinista. Los IDs dependen de categoría y enunciado: no cambies IDs al corregir únicamente una respuesta o explicación. Si cambias un enunciado, conserva manualmente su ID si quieres conservar su historial.
+
+La validación comprueba recuentos, unicidad, opciones y niveles; no demuestra corrección factual. Consulta [CONTENT_REVIEW.md](CONTENT_REVIEW.md) para el alcance de la revisión.
+
+## Arranque local
+
+Node.js 22 o superior:
+
+```sh
 npm install
+npm run validate
+npm test
 npm start
 ```
 
-Abre `http://localhost:3000`.
+También se incluye `pnpm-lock.yaml`: `pnpm install --frozen-lockfile`, `pnpm test`, `pnpm start`. Python no es necesario para jugar o desplegar.
 
-## Publicar para jugar en dos móviles (Render)
+Abre `http://localhost:3000`. Sin `DATABASE_URL`, únicamente en desarrollo, se usa historial en memoria que se pierde al reiniciar. El programa no carga `.env` automáticamente: configura el entorno o usa `node --env-file=.env server.js` localmente. No compartas la URL de la base.
 
-1. Crea una cuenta en GitHub y un repositorio nuevo.
-2. Sube al repositorio `package.json`, `server.js`, `questions.json` y la carpeta `public`.
-3. En https://render.com crea **New > Web Service**, conecta el repositorio.
-4. Selecciona **Node**, comando de instalación `npm install` y comando de inicio `npm start`.
-5. Cuando termine el despliegue, Render te proporcionará una URL `https://...onrender.com` (el nombre exacto depende de tu servicio).
-6. Abre la URL en el móvil 1, introduce un nombre y pulsa **Crear sala**.
-7. Pulsa **Compartir invitación** y envía el enlace al móvil 2. El segundo jugador introduce su nombre y pulsa **Unirse**. El anfitrión pulsa **Empezar partida**.
+## Rotación persistente
 
-**Importante:** el servidor mantiene las partidas en memoria. Reiniciar el servidor termina las partidas activas. En planes gratuitos de hosting puede haber pausas de inactividad; el primer acceso puede tardar. El juego no admite reconexión de partidas interrumpidas. Para producción con alta disponibilidad sería necesario almacenamiento compartido y recuperación de sesiones.
+En Render o con `NODE_ENV=production`, `DATABASE_URL` es obligatoria. No se sustituye silenciosamente por memoria ni por archivos efímeros. El proceso crea la tabla aditiva `trivia_rotation_v1`; no modifica tablas existentes. La cuenta necesita permisos para crearla y leer/escribir sus filas.
 
-## Probar en la misma red wifi
+El historial es **global para todas las salas**, sin identificar personas ni almacenar sus nombres. Se reserva un lote al iniciar, dentro de una transacción con bloqueo de fila. Los inicios concurrentes no pueden reservar las mismas preguntas antes de agotar el conjunto. Las reservas de partidas abandonadas también se consumen para priorizar evitar repeticiones.
 
-Con ambos móviles conectados a la misma wifi que el ordenador, abre `http://IP_LOCAL_DEL_ORDENADOR:3000` (permitiendo el puerto 3000 en el cortafuegos).
+Mixto permite 100 partidas de 20 antes del reinicio, si solo se juega en ese modo. Los niveles comparten historial; cambiar de nivel no crea otro vacío. Si se agota el conjunto elegible para un nivel, se reinicia ese nivel y se conserva el historial de los demás. Una partida que cruza el límite consume primero las preguntas restantes y completa el lote desde el siguiente ciclo, sin duplicados internos. Después del límite pueden reaparecer preguntas de ciclos anteriores.
 
-## Personalizar preguntas
+No es un historial por pareja: una pareja puede no ver preguntas consumidas por otra sala. Las partidas activas siguen en memoria y un reinicio las termina. Mantén una sola instancia de aplicación porque salas y temporizadores no se comparten entre procesos.
 
-Edita `questions.json`. Cada pregunta lleva `category`, `text`, `options` (4 respuestas), `correct` (índice 0–3) y `explanation`. Mantén al menos 20 preguntas.
+## Render
+
+La conexión queda preparada **sin crear bases ni contratar servicios**. El titular elige PostgreSQL persistente. El PostgreSQL gratuito de Render caduca a los 30 días. No uses SQLite ni JSON en el contenedor para este historial. Configura TLS según el proveedor manteniendo la validación de certificados.
+
+Sigue [DEPLOYMENT.md](DEPLOYMENT.md). No combines esta actualización en `main` antes de configurar y probar la base en un servicio separado. La versión publicada original es el punto de retorno.
+
+`GET /health` devuelve 200 solo si el banco validado está cargado y la base responde; en producción incluye `persistent: true`. Una caída de base devuelve 503 e impide nuevas partidas. Las partidas ya reservadas pueden continuar durante el fallo.
