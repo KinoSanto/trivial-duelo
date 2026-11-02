@@ -1,0 +1,50 @@
+el método socrático|Sócrates|Examinar creencias mediante preguntas y refutaciones|Justificación de lo que creemos saber
+la teoría platónica de las Ideas|Platón|Las realidades inteligibles sirven de modelo a lo sensible|Relación entre conocimiento y realidad
+el hilemorfismo|Aristóteles|Las sustancias sensibles se entienden mediante materia y forma|Constitución de los seres naturales
+la ética aristotélica de la virtud|Aristóteles|Los hábitos virtuosos se adquieren mediante la práctica|Cómo alcanzar una vida humana lograda
+el jardín epicúreo|Epicuro|El placer estable requiere moderar deseos y temores|Condiciones de una vida sin perturbación
+el estoicismo de la dicotomía del control|Epicteto|Distinguir lo que depende de nosotros de lo que no|Actitud ante acontecimientos externos
+el escepticismo pirrónico|Pirrón|Suspender el juicio ante argumentos opuestos|Límites de las afirmaciones dogmáticas
+el cinismo antiguo|Diógenes de Sinope|Cuestionar convenciones y reducir necesidades artificiales|Autonomía respecto de normas sociales
+el neoplatonismo del Uno|Plotino|La realidad procede de un principio supremo unitario|Origen y jerarquía de lo real
+la iluminación agustiniana|Agustín de Hipona|La verdad se comprende con referencia a la luz divina|Fundamento del conocimiento de verdades necesarias
+el argumento ontológico medieval|Anselmo de Canterbury|Intentar demostrar la existencia de Dios desde su concepto|Relación entre pensamiento y existencia divina
+las cinco vías|Tomás de Aquino|Argumentar hacia Dios desde rasgos del mundo|Fundamentación racional de la teología natural
+el nominalismo de Ockham|Guillermo de Ockham|Los universales no son cosas comunes separadas|Estatus de los conceptos generales
+la docta ignorancia|Nicolás de Cusa|Reconocer los límites del saber humano sobre lo infinito|Posibilidad de conocer lo absoluto
+el realismo político de El príncipe|Nicolás Maquiavelo|Analizar la conservación del poder atendiendo a sus condiciones efectivas|Acción política y estabilidad del gobierno
+la utopía renacentista de la isla Utopía|Tomás Moro|Imaginar una sociedad alternativa para examinar la propia|Organización social e instituciones
+la duda metódica|René Descartes|Poner en duda creencias para buscar una certeza firme|Fundamento seguro del conocimiento
+el monismo de la sustancia|Baruch Spinoza|Existe una sola sustancia con infinitos atributos|Relación entre Dios naturaleza y realidad
+las mónadas|Gottfried Wilhelm Leibniz|Las sustancias simples no tienen partes materiales|Composición metafísica del universo
+el contrato social del Leviatán|Thomas Hobbes|Un poder soberano común evita la inseguridad del estado de naturaleza|Origen y autoridad del Estado
+el empirismo del Ensayo sobre el entendimiento humano|John Locke|La experiencia proporciona los materiales del conocimiento|Origen de las ideas
+el idealismo de esse est percipi|George Berkeley|El ser de los objetos sensibles consiste en ser percibidos|Estatus de los objetos de percepción
+la crítica humeana de la causalidad|David Hume|La necesidad causal no se observa directamente en los hechos|Justificación de inferencias causales
+la voluntad general|Jean-Jacques Rousseau|La legitimidad política exige orientación al interés común|Soberanía y comunidad política
+el imperativo categórico|Immanuel Kant|Obrar según máximas que puedan valer como ley universal|Fundamento del deber moral
+el idealismo trascendental|Immanuel Kant|La experiencia está condicionada por formas y categorías del sujeto|Condiciones de posibilidad de la experiencia
+la dialéctica del amo y el esclavo|Georg Wilhelm Friedrich Hegel|La autoconciencia se desarrolla en relaciones de reconocimiento|Reconocimiento y dependencia entre conciencias
+la voluntad como fondo del mundo|Arthur Schopenhauer|Un impulso ciego subyace a la representación|Origen metafísico del deseo y el sufrimiento
+la crítica marxiana de la alienación|Karl Marx|El trabajador puede quedar separado del producto y sentido de su actividad|Trabajo y relaciones sociales de producción
+la angustia existencial de la posibilidad|Søren Kierkegaard|La libertad abre posibilidades que pueden producir vértigo|Existencia individual y decisión
+la genealogía de la moral|Friedrich Nietzsche|Investigar la formación histórica de valores morales|Origen y transformación de las valoraciones
+el utilitarismo de la mayor felicidad|Jeremy Bentham|Evaluar acciones según consecuencias de placer y dolor|Criterio para juzgar acciones e instituciones
+el principio del daño|John Stuart Mill|La coerción sobre un individuo requiere prevenir daño a otros|Límites de la intervención sobre la libertad
+el pragmatismo de la máxima pragmática|Charles Sanders Peirce|Aclarar conceptos mediante sus consecuencias prácticas concebibles|Significado de los conceptos
+el pragmatismo de la experiencia|William James|Considerar el valor de ideas en el curso de la experiencia|Relación entre verdad y práctica
+el instrumentalismo educativo|John Dewey|Aprender mediante investigación y resolución de problemas|Educación y vida democrática
+la intencionalidad fenomenológica|Edmund Husserl|La conciencia es siempre conciencia de algo|Descripción de la experiencia consciente
+el ser-en-el-mundo|Martin Heidegger|La existencia humana ya está implicada en un mundo significativo|Modo de ser de la existencia humana
+la existencia precede a la esencia|Jean-Paul Sartre|Las personas se definen mediante sus elecciones|Libertad y responsabilidad individual
+la alteridad en El segundo sexo|Simone de Beauvoir|La condición femenina se construye históricamente como lo Otro|Género libertad y situación social
+el absurdo en El mito de Sísifo|Albert Camus|La búsqueda humana de sentido choca con el silencio del mundo|Cómo vivir ante la ausencia de un sentido dado
+los juegos de lenguaje|Ludwig Wittgenstein|El significado se vincula al uso en prácticas compartidas|Lenguaje y formas de vida
+la falsabilidad|Karl Popper|Una teoría científica debe exponerse a posibles refutaciones|Demarcación entre ciencia y otras propuestas
+los paradigmas científicos|Thomas Kuhn|La ciencia normal trabaja dentro de marcos compartidos|Cambio histórico de las comunidades científicas
+el velo de ignorancia|John Rawls|Elegir principios sin conocer la propia posición social|Imparcialidad en la justicia distributiva
+la banalidad del mal|Hannah Arendt|La irreflexión puede acompañar la participación en crímenes|Responsabilidad personal bajo estructuras burocráticas
+la ética de la responsabilidad ante el rostro|Emmanuel Levinas|La relación con el otro exige una responsabilidad originaria|Prioridad ética de la alteridad
+el poder disciplinario|Michel Foucault|Vigilancia y normalización producen conductas y sujetos|Relación entre poder saber e instituciones
+la acción comunicativa|Jürgen Habermas|La coordinación social puede orientarse al entendimiento racional|Condiciones del diálogo y la legitimidad
+la razón poética|María Zambrano|Integrar pensamiento y experiencia mediante una razón abierta a lo poético|Formas de comprensión de la vida humana

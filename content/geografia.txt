@@ -1,0 +1,50 @@
+España|Madrid|Euro|Europa|Sierra de Gredos
+Portugal|Lisboa|Euro|Europa|Valle del Duero portugués
+Francia|París|Euro|Europa|Macizo Central francés
+Italia|Roma|Euro|Europa|Los Apeninos
+Grecia|Atenas|Euro|Europa|Península del Peloponeso
+Alemania|Berlín|Euro|Europa|Selva Negra
+Austria|Viena|Euro|Europa|Valle de Wachau
+Suiza|Berna|Franco suizo|Europa|Lago de los Cuatro Cantones
+Polonia|Varsovia|Zloty|Europa|Montes Tatras polacos
+Chequia|Praga|Corona checa|Europa|Región de Bohemia
+Hungría|Budapest|Forinto|Europa|Lago Balatón
+Rumanía|Bucarest|Leu rumano|Europa|Delta rumano del Danubio
+Bulgaria|Sofía|Euro|Europa|Montes Ródope búlgaros
+Noruega|Oslo|Corona noruega|Europa|Fiordo de Geiranger
+Suecia|Estocolmo|Corona sueca|Europa|Isla de Gotland
+Dinamarca|Copenhague|Corona danesa|Europa|Isla de Fionia
+Islandia|Reikiavik|Corona islandesa|Europa|Cascada de Gullfoss
+Irlanda|Dublín|Euro|Europa|Acantilados de Moher
+Reino Unido|Londres|Libra esterlina|Europa|Distrito de los Lagos inglés
+Marruecos|Rabat|Dírham marroquí|África|Cordillera del Rif
+Argelia|Argel|Dinar argelino|África|Macizo del Hoggar
+Túnez|Túnez|Dinar tunecino|África|Isla de Yerba
+Egipto|El Cairo|Libra egipcia|África|Depresión de Qattara
+Senegal|Dakar|Franco CFA de África Occidental|África|Delta del Saloum
+Ghana|Acra|Cedi|África|Lago Volta
+Nigeria|Abuya|Naira|África|Meseta de Jos
+Kenia|Nairobi|Chelín keniano|África|Parque nacional del monte Kenia
+Tanzania|Dodoma|Chelín tanzano|África|Archipiélago de Zanzíbar
+Etiopía|Adís Abeba|Birr|África|Depresión de Danakil etíope
+Madagascar|Antananarivo|Ariary|África|Avenida de los Baobabs
+Canadá|Ottawa|Dólar canadiense|América del Norte|Bahía de Hudson
+Estados Unidos|Washington D. C.|Dólar estadounidense|América del Norte|Gran Cañón del Colorado
+México|Ciudad de México|Peso mexicano|América del Norte|Sierra Madre Occidental
+Guatemala|Ciudad de Guatemala|Quetzal|América del Norte|Lago de Atitlán
+Costa Rica|San José|Colón costarricense|América del Norte|Volcán Arenal
+Cuba|La Habana|Peso cubano|América del Norte|Valle de Viñales
+Colombia|Bogotá|Peso colombiano|América del Sur|Sierra Nevada de Santa Marta
+Venezuela|Caracas|Bolívar|América del Sur|Salto Ángel
+Ecuador|Quito|Dólar estadounidense|América del Sur|Islas Galápagos
+Perú|Lima|Sol|América del Sur|Cañón del Colca
+Chile|Santiago|Peso chileno|América del Sur|Desierto de Atacama chileno
+Argentina|Buenos Aires|Peso argentino|América del Sur|Península Valdés
+Brasil|Brasilia|Real brasileño|América del Sur|Pantanal brasileño
+Uruguay|Montevideo|Peso uruguayo|América del Sur|Laguna de Rocha
+Japón|Tokio|Yen|Asia|Isla de Hokkaido
+Corea del Sur|Seúl|Won surcoreano|Asia|Isla de Jeju
+India|Nueva Delhi|Rupia india|Asia|Desierto del Thar indio
+Tailandia|Bangkok|Baht|Asia|Bahía de Phang Nga
+Vietnam|Hanói|Dong|Asia|Delta vietnamita del Mekong
+Nueva Zelanda|Wellington|Dólar neozelandés|Oceanía|Fiordo de Milford Sound

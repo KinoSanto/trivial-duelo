@@ -1,0 +1,50 @@
+Los Simpson|Springfield|Serie animada|Una familia de piel amarilla con tres hijos
+Friends|Central Perk|Comedia televisiva|Seis amigos con vida cotidiana en Nueva York
+The Big Bang Theory|Sheldon Cooper|Comedia televisiva|Un grupo de científicos y sus relaciones personales
+Doctor Who|TARDIS|Serie de ciencia ficción|Una máquina del tiempo con aspecto de cabina policial
+Star Trek|Spock|Franquicia de ciencia ficción|Exploración espacial vinculada a la Flota Estelar
+Pokémon|Pikachu|Franquicia de videojuegos y animación|Criaturas que se capturan y entrenan
+Super Mario|Luigi|Franquicia de videojuegos|Un héroe que suele rescatar a la princesa Peach
+The Legend of Zelda|Link|Franquicia de videojuegos|Aventuras asociadas al reino de Hyrule
+Sonic the Hedgehog|Dr. Eggman|Franquicia de videojuegos|Un erizo azul de gran velocidad
+Minecraft|Creeper|Videojuego de construcción|Un mundo compuesto principalmente de bloques
+Tetris|Tetrominó|Videojuego de puzles|Piezas que caen y completan líneas horizontales
+Pac-Man|Blinky|Videojuego de laberintos|Un personaje amarillo que come puntos y evita fantasmas
+Animal Crossing|Tom Nook|Franquicia de videojuegos|Vida cotidiana en una comunidad de animales antropomorfos
+Street Fighter|Ryu|Franquicia de lucha|Combates con técnicas como el hadouken
+The Sims|Plumbob|Videojuego de simulación social|Gestión de necesidades y relaciones de personajes virtuales
+Cluedo|Coronel Rubio|Juego de mesa de deducción|Resolver un crimen identificando persona arma y habitación
+Scrabble|Atril de letras|Juego de mesa de palabras|Formar palabras cruzadas con fichas de valor distinto
+Catan|Ladrillo y madera|Juego de mesa de estrategia|Construcción de poblados y carreteras mediante recursos
+Risk|Ejércitos de colores|Juego de mesa de conquista|Control de territorios sobre un mapa
+Dixit|Cartas ilustradas|Juego de mesa de asociación|Interpretación de imágenes a partir de pistas
+Carcassonne|Meeple|Juego de mesa de colocación de losetas|Formación de caminos ciudades y campos
+Dominó|Ficha doble seis|Juego de mesa de fichas|Unión de extremos con el mismo número
+Ajedrez|Alfil|Juego de estrategia abstracta|Un rey amenazado sin salida está en jaque mate
+Go|Piedras blancas y negras|Juego de estrategia abstracta|Rodear territorio sobre intersecciones de un tablero
+Backgammon|Cubo de doblaje|Juego de tablero con dados|Sacar todas las fichas tras moverlas por puntos
+Tarot tradicional|El Loco|Baraja de cartas|Una estructura que incluye arcanos mayores y menores
+Origami|Grulla de papel|Arte del plegado|Creación de figuras a partir de pliegues en papel
+Sudoku|Cuadrícula de nueve por nueve|Pasatiempo lógico|No repetir cifras en filas columnas y subcuadrículas
+Crucigrama|Casilla negra|Pasatiempo de palabras|Respuestas que se cruzan horizontal y verticalmente
+Tangram|Siete piezas geométricas|Puzle de disección|Construcción de siluetas con todas las piezas
+Circo tradicional|Trapecio|Espectáculo de variedades|Acrobacias equilibrismo y números de pista
+Comedia del arte|Arlequín|Tradición teatral|Personajes tipificados y uso frecuente de máscaras
+Teatro de marionetas|Títere de hilos|Teatro de animación de objetos|Personajes movidos mediante mecanismos o manipulación
+Mimo escénico|Marcel Marceau|Arte escénico corporal|Gestos que sugieren objetos y acciones sin diálogo hablado
+Ópera de Pekín|Máscara facial pintada|Teatro musical chino|Combinación de canto gesto acrobacia y vestuario simbólico
+Jazz|Improvisación|Género musical|Desarrollo de variaciones durante la interpretación
+Blues|Progresión de doce compases|Género musical|Uso expresivo de blue notes
+Reggae|Contratiempo|Género musical|Acentos característicos fuera de los tiempos fuertes
+Flamenco|Compás de bulería|Tradición de cante toque y baile|Palmas y guitarra en varios de sus estilos
+Tango rioplatense|Bandoneón|Tradición musical y de baile|Abrazo y diálogo de la pareja al bailar
+Samba brasileña|Surdo|Tradición musical y de baile|Percusión característica de escuelas de samba
+Música clásica de la India|Raga|Tradición musical|Marcos melódicos con reglas de desarrollo
+Gamelán de Indonesia|Gong|Conjunto musical|Ensamble de instrumentos con destacado papel de la percusión metálica
+Haiku japonés|Kigo|Forma poética breve|Uso tradicional de una referencia estacional
+Caligrafía china|Pincel de tinta|Arte de la escritura|Importancia expresiva del trazo
+Ceremonia japonesa del té|Matcha|Práctica cultural|Preparación ritual de té verde en polvo
+Carnaval de Venecia|Bauta|Fiesta popular|Máscaras asociadas al anonimato de los participantes
+Día de Muertos mexicano|Ofrenda|Celebración conmemorativa|Altares que recuerdan a personas fallecidas
+Inti Raymi|Inti|Celebración de origen andino|Homenaje al Sol en la tradición inca
+Diwali|Lámparas de aceite|Celebración del sur de Asia|Festividad conocida por su simbolismo de la luz

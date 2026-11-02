@@ -1,0 +1,50 @@
+fútbol asociación|Balón esférico y porterías|Un jugador de campo no puede usar deliberadamente la mano salvo excepciones reglamentarias|Fuera de juego
+baloncesto|Canasta elevada y balón|Un tiro libre convertido suma un punto|Doble drible
+voleibol de pista|Red alta y balón|Un equipo dispone normalmente de tres contactos para devolver el balón|Rotación de saque
+balonmano de pista|Portería y balón manejable con una mano|El área de portería está reservada al portero salvo situaciones permitidas|Lanzamiento de siete metros
+tenis|Raqueta encordada y pelota con fieltro|Un saque válido debe entrar en el cuadro de servicio diagonal|Deuce
+bádminton|Raqueta ligera y volante|El volante no puede tocar el suelo dentro de tu campo sin perder el intercambio|Clear
+tenis de mesa|Pala y pelota ligera sobre una mesa|El saque debe botar primero en el lado del servidor y luego en el contrario|Topspin
+pádel|Pala sin cuerdas y pista con paredes|El saque se realiza por debajo o a la altura de la cintura|Bandeja
+squash|Raqueta y pelota de goma contra una pared frontal|La pelota puede rebotar en paredes laterales antes de volver a la frontal|Let
+golf|Palos y bola con hoyuelos|Se busca completar el recorrido con el menor número de golpes|Birdie
+béisbol|Bate y guante de captura|Tres strikes pueden eliminar al bateador|Home run
+sóftbol|Bate y pelota de mayor tamaño que la de béisbol|El lanzamiento del pitcher se realiza por debajo del brazo|Fastpitch
+críquet|Bate de cara plana y wickets|El bateador protege el wicket de los lanzamientos|Over
+hockey sobre hierba|Stick curvado y pelota dura|Se golpea la pelota con la cara plana permitida del stick|Penalty córner
+hockey sobre hielo|Patines cuchilla y disco|Se utiliza un disco que se desliza sobre el hielo|Icing
+waterpolo|Porterías flotantes y balón acuático|Los jugadores de campo no pueden sujetar el balón con ambas manos|Exclusión temporal
+rugby union|Balón ovalado y postes en H|Un pase con las manos hacia delante es ilegal|Melé
+fútbol americano|Casco protector y balón ovalado|Un touchdown vale seis puntos antes de la conversión|Down
+fútbol sala|Balón de bote reducido y pista cubierta|Cada equipo juega con cinco participantes contando al portero|Doble penalti
+fútbol playa|Balón y terreno de arena|Se juega sin calzado|Tijera en la arena
+boxeo|Guantes acolchados y ring|Los golpes válidos no se dirigen por debajo del cinturón|Jab
+judo|Judogi y tatami|Una proyección puede decidir el combate con la máxima puntuación|Ippon
+taekwondo|Protector de tronco y dobok|Las patadas son una parte central de la competición|Dollyo chagi
+karate deportivo|Karategi y protecciones de combate|Se compite en modalidades de kata y kumite|Kata
+lucha grecorromana|Maillot y tapiz circular|No se permiten ataques a las piernas con las extremidades inferiores|Suplé
+esgrima con florete|Florete y máscara metálica|El blanco válido principal es el tronco|Derecho de ataque
+tiro con arco recurvo|Arco de palas curvas y flechas|La puntuación depende del anillo de la diana alcanzado|Suelta
+halterofilia|Barra y discos calibrados|La arrancada lleva la barra del suelo sobre la cabeza en un movimiento|Dos tiempos
+powerlifting|Barra sobre soportes de sentadilla y banco|Se suman los mejores intentos válidos de sentadilla banca y peso muerto|Total de tres levantamientos
+gimnasia artística femenina|Barra de equilibrio y barras asimétricas|La nota combina dificultad y ejecución|Salida del aparato
+gimnasia rítmica|Cinta y aro|Las rutinas combinan manejo de aparato y elementos corporales|Lanzamiento de aparato
+salto con pértiga|Pértiga flexible y listón|Se intenta superar un listón sin derribarlo|Cajetín de apoyo
+salto de longitud|Tabla de batida y foso de arena|Se mide hasta la marca más cercana dejada en la arena|Nulo de batida
+lanzamiento de martillo|Bola metálica unida a un cable|El implemento debe caer dentro del sector señalado|Jaula de lanzamiento
+carrera de relevos 4 × 100 m|Testigo cilíndrico|El intercambio del testigo debe realizarse en la zona autorizada|Posta
+natación estilo espalda|Piscina con corcheras y banderines|La salida se realiza desde dentro del agua|Viraje de espalda
+natación estilo braza|Piscina y gafas de natación|Las piernas realizan una patada simétrica característica|Tirón subacuático
+saltos de trampolín|Tabla flexible sobre una piscina|Los jueces valoran la ejecución del salto y la entrada al agua|Carpado
+remo|Remos apoyados en chumaceras|El remero suele desplazarse mirando en sentido contrario al avance|Scull
+piragüismo en kayak|Pala de doble hoja|El deportista impulsa la embarcación alternando paladas a ambos lados|Eskimo roll
+vela|Embarcación con velas y timón|El viento se aprovecha para propulsar la embarcación|Ceñida
+surf|Tabla con quillas|El deportista se desliza sobre una ola|Take off
+escalada deportiva|Presas y pies de gato|En la modalidad de dificultad se progresa por una vía asegurada|Encadenar
+ciclismo en pista|Bicicleta de piñón fijo y velódromo|En la persecución se enfrentan ciclistas desde lados opuestos|Peralte
+ciclismo de montaña|Bicicleta con neumáticos de tacos|Se compite sobre recorridos fuera del asfalto|Cross country
+biatlón|Esquís de fondo y carabina|Combina esquí de fondo y tiro|Tiro tendido
+curling|Piedras de granito y escobas|Se busca acercar las piedras al centro de la casa|Hammer
+patinaje artístico sobre hielo|Botas con cuchilla dentada|Las rutinas combinan saltos giros y pasos|Axel
+esquí alpino|Esquís con cantos y bastones|El eslalon exige pasar entre puertas|Supergigante
+triatlón|Bicicleta gafas de natación y zapatillas|Combina natación ciclismo y carrera a pie en ese orden|Transición T1
