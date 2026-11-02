@@ -1,0 +1,200 @@
+B1|Present perfect|I ___ this film twice so far, so I know the ending.|have seen|saw|am seeing|see|La experiencia hasta ahora se expresa con present perfect.
+B1|Past simple|We ___ to Lisbon last summer.|went|have gone|go|were go|Last summer es un periodo pasado terminado.
+B1|Past continuous|At eight yesterday evening, I ___ dinner.|was cooking|cook|have cooked|am cooking|Una acción en progreso en un momento pasado usa past continuous.
+B1|Present continuous|Listen! Someone ___ at the door.|is knocking|knocks|has knock|knocked|Listen sitúa la acción en este momento.
+B1|Present simple|My brother usually ___ the bus to work.|takes|is take|take|taking|La rutina y el sujeto singular requieren takes.
+B1|Since and for|She has lived here ___ 2020.|since|for|during|from|Since introduce el punto de inicio con present perfect.
+B1|Since and for|They have been married ___ ten years.|for|since|from|while|For introduce una duración.
+B1|Yet|Have you finished your report ___?|yet|already yesterday|still yet|since|Yet es habitual en preguntas sobre algo esperado hasta ahora.
+B1|Just|The floor is wet because I have ___ cleaned it.|just|yesterday|ago|last|Just expresa un pasado muy reciente con present perfect.
+B1|Past perfect|By the time we arrived, the concert ___.|had started|has started|starts|is starting|La acción anterior a otra pasada usa past perfect.
+B1|Future arrangements|We have tickets: we ___ to Rome on Friday.|are flying|fly yesterday|have fly|flying|Present continuous puede expresar un plan ya organizado.
+B1|Will|The phone is ringing. I ___ answer it.|will|am|have|was|Will permite una decisión tomada en el momento.
+B1|Going to|Look at those black clouds! It ___ rain.|is going to|going|has to be|was go to|Going to puede expresar una predicción con evidencia presente.
+B1|Used to|When I was a child, I ___ play outside every afternoon.|used to|use to|am used|was use|Used to expresa hábitos pasados que ya no se mantienen.
+B1|Be used to|I work nights, so I am used to ___ during the day.|sleeping|sleep|slept|have sleep|Be used to va seguido de sustantivo o gerundio.
+B1|Verb patterns|She enjoys ___ in the sea.|swimming|to swim|swim|swam|Enjoy se construye con gerundio.
+B1|Verb patterns|We decided ___ a taxi.|to take|taking|take|taken|Decide se construye con infinitivo con to.
+B1|Verb patterns|Would you mind ___ the window?|closing|to close|close|closed|Would you mind requiere gerundio.
+B1|Verb patterns|I hope ___ you soon.|to see|seeing|see|saw|Hope suele ir seguido de infinitivo con to.
+B1|Verb patterns|He suggested ___ a break.|taking|to take|take|taken|Suggest seguido directamente de un verbo requiere gerundio.
+B1|Modal verbs|You ___ wear a seat belt; it is required by law.|must|might|could have|would|Must expresa obligación.
+B1|Modal verbs|You ___ park here. The sign says it is forbidden.|mustn't|don't have to|needn't|might not have|Mustn't expresa prohibición.
+B1|Modal verbs|Tomorrow is a holiday, so I ___ get up early.|don't have to|mustn't|can't ever|ought not have|Don't have to indica ausencia de obligación.
+B1|Modal verbs|You look exhausted. You ___ get some rest.|should|can to|must to|ought|Should da un consejo y va con infinitivo sin to.
+B1|Modal verbs|When she was five, she ___ already read.|could|can|must to|has can|Could expresa capacidad general pasada.
+B1|First conditional|If it rains tomorrow, we ___ at home.|will stay|would stay|stayed|had stayed|La primera condicional combina presente y will.
+B1|First conditional|If you ___ now, you will catch the bus.|leave|will leave|left|had left|La cláusula con if lleva presente en esta condición futura real.
+B1|Second conditional|If I had more time, I ___ another language.|would learn|will learn|learn|had learned|Una situación hipotética presente usa would en el resultado.
+B1|Second conditional|If she ___ closer, we would visit her more often.|lived|lives|will live|has lived|El pasado expresa distancia hipotética en la segunda condicional.
+B1|Unless|We will miss the train ___ we hurry.|unless|if not to|although to|despite|Unless significa if we do not en esta oración.
+B1|Comparatives|This suitcase is ___ than mine.|heavier|heaviest|more heavy than|heavy|Con than se necesita el comparativo heavier.
+B1|Comparatives|The journey was ___ than I expected.|more expensive|most expensive|expensiver|expensive|Los adjetivos largos forman el comparativo con more.
+B1|Superlatives|This is ___ hotel in the village.|the oldest|older|the older|most old|El superlativo de old es the oldest.
+B1|As as|My new phone is as ___ as my old one.|useful|more useful|most useful|usefully|As...as requiere el adjetivo en grado positivo.
+B1|Too and enough|The box is too heavy ___ on my own.|to lift|lifting|lift|lifted|Too más adjetivo se completa aquí con infinitivo con to.
+B1|Too and enough|She isn't old ___ to drive yet.|enough|too|very|such|Enough sigue al adjetivo.
+B1|Quantifiers|There isn't ___ milk left in the fridge.|much|many|a few|several|Milk es incontable; much encaja en la negación.
+B1|Quantifiers|How ___ chairs do we need?|many|much|a little|any of|Chairs es un plural contable.
+B1|Quantifiers|I have ___ close friends, but not many.|a few|a little|much|any|A few acompaña un plural contable en una afirmación.
+B1|Quantifiers|There is ___ water in the bottle, so we can have a drink.|a little|a few|many|few|A little indica una pequeña cantidad de un incontable.
+B1|Articles|I saw ___ elephant at the wildlife park.|an|a|some an|any a|Elephant comienza con sonido vocálico y requiere an.
+B1|Articles|She is ___ honest person.|an|a|some|any|La h de honest no se pronuncia; se usa an.
+B1|Articles|___ sun rises in the east.|The|A|An|Some|Para el Sol se utiliza el artículo definido the.
+B1|Zero article|Choose the sentence with the correct general meaning.|Dogs need exercise.|The dogs needs exercise.|A dogs need exercise.|Dogs needs an exercise.|Los plurales generales pueden ir sin artículo y llevan verbo plural.
+B1|Prepositions of time|The meeting starts ___ nine o'clock.|at|in|on|to|Las horas se introducen con at.
+B1|Prepositions of time|My birthday is ___ Monday this year.|on|at|in|for|Los días de la semana se introducen con on.
+B1|Prepositions of time|It often snows here ___ January.|in|at|on|by the|Los meses se introducen con in.
+B1|Prepositions|I am interested ___ learning photography.|in|on|at|for|La expresión es interested in.
+B1|Prepositions|She is very good ___ solving problems.|at|in to|on|for to|La expresión es good at más gerundio.
+B1|Prepositions|We arrived ___ the airport two hours early.|at|to|on|into to|Arrive at se usa con puntos como un aeropuerto.
+B1|Relative clauses|The woman ___ lives next door is a doctor.|who|which|where|whose|Who se refiere a una persona y funciona como sujeto.
+B1|Relative clauses|This is the shop ___ I bought my shoes.|where|who|which in|whose|Where introduce el lugar en que ocurrió la compra.
+B1|Relative clauses|I know a boy ___ father is a pilot.|whose|who|which|whom is|Whose expresa posesión.
+B1|Relative clauses|The book ___ is on the table belongs to me.|which|who|where|whose|Which se refiere al libro y funciona como sujeto.
+B1|Passive|These bicycles ___ in Germany.|are made|make|are making|made|La pasiva presente combina are y participio.
+B1|Passive|The bridge ___ in 1920.|was built|built|has build|is building|Una pasiva con fecha pasada terminada usa was built.
+B1|Reported speech|Anna said, 'I am tired.' Report it: Anna said she ___ tired.|was|is being yesterday|has|were|Con said se realiza aquí el cambio normal de am a was.
+B1|Reported speech|He told me that he ___ coffee every morning.|drank|drink|drinking|was drink|Con sujeto he la forma pasada gramatical es drank.
+B1|Reported questions|She asked me where ___.|I lived|did I live|do I live|lived I|Las preguntas indirectas mantienen orden de sujeto y verbo.
+B1|Indirect questions|Could you tell me what time ___?|the bank closes|does the bank close|close the bank|the bank closing|La pregunta indirecta no usa inversión interrogativa.
+B1|Question tags|You are coming with us, ___?|aren't you|are you|don't you|isn't it|Una afirmación con are suele llevar coletilla negativa con are.
+B1|Question tags|She doesn't like tea, ___?|does she|doesn't she|is she|has she|La cláusula negativa con does lleva coletilla afirmativa.
+B1|So and neither|'I love cycling.' '___ do I.'|So|Neither|Either|Too|So más auxiliar expresa coincidencia afirmativa.
+B1|So and neither|'I can't swim.' 'Neither ___ I.'|can|do|am|have|La coincidencia negativa repite el auxiliar modal can.
+B1|Reflexives|He cut ___ while cooking.|himself|him|his|he|El sujeto y el objeto son la misma persona: himself.
+B1|Possessives|This coat is not yours. It is ___.|mine|my|me|I|Mine es un pronombre posesivo independiente.
+B1|Object pronouns|Please give ___ the keys.|her|she|hers|herself's|Give necesita el pronombre objeto her.
+B1|Adverbs|She speaks English very ___.|well|good|better than|best of|Well es el adverbio que modifica speaks.
+B1|Adverbs|He drove ___ because the road was icy.|carefully|careful|care|caring|El verbo drove se modifica con el adverbio carefully.
+B1|Adjective order|She bought a ___ bag.|small red|red small|smally red|redly small|En este grupo el tamaño precede al color.
+B1|Both|___ my parents work in the same hospital.|Both|Either|Neither of all|Every|Both se refiere a las dos personas y admite verbo plural.
+B1|Each|Each student ___ a locker.|has|have|are having to|having|Each student funciona como sujeto singular.
+B1|Everybody|Everybody ___ ready to leave.|is|are|be|were being now|Everybody lleva concordancia singular.
+B1|Some and any|Have you got ___ questions?|any|some of a|a|much|Any encaja con un plural en una pregunta neutral.
+B1|Offers|Would you like ___ tea?|some|many|a few|any of a|Some es habitual en ofrecimientos.
+B1|Present perfect continuous|I ___ for an hour and I am still waiting.|have been waiting|waited yesterday|am wait|had wait|El proceso empezó antes y continúa ahora.
+B1|Time clauses|I will call you when I ___ home.|get|will get|would get|gotten|La subordinada temporal futura usa presente.
+B1|Before and after|Wash your hands before ___ dinner.|eating|eat|to eat|ate|Después de before como preposición se usa gerundio.
+B1|Purpose|I went to the shop ___ some bread.|to buy|for buy|buying to|bought|El infinitivo expresa finalidad.
+B1|Because and so|The buses were on strike, ___ we walked.|so|because|although|unless|So introduce la consecuencia.
+B1|Although|___ it was cold, we went for a walk.|Although|Despite|In spite|Because of|Although introduce una oración completa de contraste.
+B1|Despite|___ the rain, the match continued.|Despite|Although|Even|However of|Despite va seguido de un grupo nominal.
+B1|Such and so|It was ___ a beautiful day that we stayed outside.|such|so|too|enough|Such precede a a más adjetivo y sustantivo singular.
+B1|Such and so|The music was ___ loud that I couldn't sleep.|so|such|enough|many|So modifica directamente el adjetivo loud.
+B1|Infinitive without to|Let me ___ you with those bags.|help|to help|helping|helped|Let más objeto lleva infinitivo sin to.
+B1|Infinitive without to|The teacher made us ___ the exercise again.|do|to do|doing|done|Make en voz activa lleva objeto e infinitivo sin to.
+B1|Gerunds|___ is not allowed in this building.|Smoking|Smoke|Smoked|To smoking|Un gerundio puede ser el sujeto de la oración.
+B1|Countability|Which sentence uses advice correctly?|I need some advice.|I need an advice.|I need many advices.|I need a few advice.|Advice es incontable en este uso.
+B1|Countability|Which sentence uses information correctly?|The information is useful.|The informations are useful.|An information is useful.|These information are useful.|Information es incontable y concuerda en singular.
+B1|Present simple questions|How often ___ your sister visit you?|does|do|is|has|La pregunta presente con sujeto singular usa does.
+B1|Past simple questions|Where ___ you spend your last holiday?|did|do|have|were|Last holiday remite a un pasado terminado y requiere did.
+B1|Subject questions|Who ___ the window yesterday?|broke|did broke|does broke|breaking|Una pregunta por el sujeto no necesita did.
+B1|There is and are|There ___ two messages for you.|are|is|has|was|Two messages requiere concordancia plural.
+B1|Future negatives|I promise I ___ tell anyone your secret.|won't|don't to|am not to|haven't|Won't expresa una promesa negativa futura.
+B1|Prepositions|She has been waiting ___ the bus for twenty minutes.|for|to|at|on to|La construcción es wait for something.
+B1|Present perfect|This is the first time I ___ sushi.|have tried|try yesterday|was try|had try|This is the first time se combina aquí con present perfect.
+B1|Past continuous|While Dad was reading, Mum ___ to music.|was listening|listen|has listen|is listen|Dos acciones en progreso en el pasado usan past continuous.
+B1|Enough|We have ___ money to buy the tickets.|enough|too|very|such|Enough precede al sustantivo money.
+B1|Comparatives|My journey is getting ___ and longer.|longer|long|longest|more long|La estructura comparativa repetida es longer and longer.
+B1|Prepositions|This present is ___ my grandmother.|for|to of|at|during|For indica la persona destinataria del regalo.
+B2|Third conditional|If I had known about the meeting, I ___ attended.|would have|will have|would|had|La tercera condicional lleva would have más participio.
+B2|Third conditional|If they ___ earlier, they wouldn't have missed the flight.|had left|left|have left|would leave|La condición irreal pasada usa past perfect.
+B2|Mixed conditionals|If I had studied medicine, I ___ a doctor now.|would be|would have been yesterday|will be|had been|Una causa irreal pasada puede tener un resultado hipotético presente.
+B2|Mixed conditionals|If she were more careful, she ___ that mistake yesterday.|wouldn't have made|won't make|doesn't make|hadn't make|Una condición general irreal puede explicar un resultado pasado.
+B2|Wish|I wish I ___ more free time now.|had|have|will have|would had|Wish sobre el presente usa una forma pasada.
+B2|Wish|I wish I ___ so much money last weekend.|hadn't spent|don't spend|haven't spent|wouldn't spend yesterday|El arrepentimiento pasado con wish requiere past perfect.
+B2|If only|If only the neighbours ___ making so much noise!|would stop|will stop|have stop|stops|Would con if only expresa el deseo de un cambio de conducta.
+B2|Would rather|I'd rather you ___ anyone about this.|didn't tell|don't tell|won't tell|not to tell|Would rather más otro sujeto usa pasado para una preferencia presente.
+B2|Had better|You had better ___ a copy before editing the file.|save|to save|saving|saved|Had better lleva infinitivo sin to.
+B2|It's time|It's time we ___ home.|went|goes|will go|have going|It's time más sujeto usa pasado para una acción pendiente.
+B2|Deduction|He knows every street here. He ___ have lived here before.|must|can't|shouldn't to|wouldn't to|Must have más participio expresa una deducción firme sobre el pasado.
+B2|Deduction|That ___ be Nina. She is abroad this week.|can't|must|has to|ought|Can't expresa imposibilidad lógica en esta situación.
+B2|Past deduction|They ___ have forgotten the date; their calendars show tomorrow.|might|must to|can to|ought|Might have expresa una explicación posible de un hecho pasado.
+B2|Past obligation|We ___ to wear uniforms at my old school.|had|must|should|ought have|Had to expresa obligación pasada.
+B2|Unnecessary past action|I needn't ___ so much food; most guests had already eaten.|have cooked|cook yesterday|to cook|cooked|Needn't have cooked indica una acción realizada que era innecesaria.
+B2|Past criticism|You ___ have told me you were coming. I could have prepared.|should|mustn't to|had to have to|can to|Should have expresa crítica o expectativa incumplida sobre el pasado.
+B2|Modal passive|The forms must ___ before Friday.|be submitted|submit|be submitting by you already|have submit|Un modal en pasiva lleva be más participio.
+B2|Perfect passive|The documents ___ already been signed.|have|are|were|had to|Have been signed es present perfect pasivo.
+B2|Reporting passive|The painting is believed ___ stolen in 1998.|to have been|to be being tomorrow|have been|that been|El infinitivo perfecto pasivo expresa anterioridad al juicio presente.
+B2|Reporting passive|It ___ that the road will reopen tomorrow.|is expected|expects|is expecting|has expect|It is expected that es una construcción impersonal pasiva.
+B2|Causative have|I'm going to have my car ___ tomorrow.|repaired|repair|repairing|to repair|Have something done indica encargar un servicio.
+B2|Causative get|We got the technician ___ the router.|to check|check|checked|checking to|Get más persona lleva infinitivo con to.
+B2|Future time clauses|Once you ___ the form, send it to the office.|have completed|will have complete|would completing|had complete|La subordinada temporal futura puede usar present perfect para marcar finalización.
+B2|Verb patterns|I cannot afford ___ a new laptop this year.|to buy|buying|buy|bought|Afford seguido de verbo requiere infinitivo con to.
+B2|Verb patterns|She avoided ___ him about the missing money.|asking|to ask|ask|asked|Avoid requiere gerundio.
+B2|Verb patterns|Do you fancy ___ for a walk after lunch?|going|to go|go|gone|Fancy en este uso coloquial se construye con gerundio.
+B2|Passive continuous|The main road is ___ repaired, so we need another route.|being|been|be|having|Is being repaired expresa una pasiva en progreso.
+B2|Passive perfect|By the time we arrived, all the tickets had ___ sold.|been|being|be|have|Had been sold es past perfect pasivo.
+B2|Relative clauses|My aunt, ___ lives in York, is visiting us.|who|that|which|what|Una relativa explicativa de persona puede usar who y no that.
+B2|Relative clauses|The report, ___ I sent yesterday, contains the figures.|which|that|what|whose it|Una relativa explicativa de cosa usa which.
+B2|Relative clauses|The colleague with ___ I travelled was very helpful.|whom|who's|that|which|Después de with antepuesto se usa whom para una persona.
+B2|Relative clauses|The town in ___ she grew up is near the coast.|which|where|that|what|Tras la preposición antepuesta in corresponde which.
+B2|Reduced relatives|Anyone ___ to attend should register today.|wishing|wished|wish|to wishing|Wishing reduce una relativa activa: anyone who wishes.
+B2|Reduced relatives|The goods ___ yesterday were damaged.|delivered|delivering|deliver|to delivering|Delivered reduce una relativa pasiva.
+B2|Participle clauses|___ finished the report, she went home.|Having|Have|Had|Has|Having más participio expresa una acción anterior a la principal.
+B2|Participle clauses|___ by the noise, he looked outside.|Alarmed|Alarming|Alarm|To alarming|Alarmed tiene sentido pasivo y describe su reacción.
+B2|Gerund or infinitive|I stopped ___ a coffee because I needed a break from driving.|to have|having|have|had|Stop to do indica detener otra actividad para realizar una nueva.
+B2|Gerund or infinitive|I stopped ___ coffee because it was keeping me awake.|drinking|to drink|drink|drank|Stop doing significa dejar de realizar la actividad.
+B2|Gerund or infinitive|Remember ___ the door when you leave.|to lock|locking yesterday|lock|locked|Remember to do recuerda una acción pendiente.
+B2|Gerund or infinitive|I remember ___ that museum as a child.|visiting|to visit tomorrow|visit|visited|Remember doing evoca una experiencia pasada.
+B2|Gerund or infinitive|We regret ___ you that your application was unsuccessful.|to inform|inform|informed|to informing|Regret to inform introduce formalmente una mala noticia.
+B2|Gerund or infinitive|She regrets ___ the job offer last year.|rejecting|to reject|reject|rejects|Regret doing expresa arrepentimiento por una acción realizada.
+B2|Perfect infinitive|He seems ___ forgotten our appointment.|to have|having|have|that have|Seem más infinitivo perfecto expresa anterioridad.
+B2|Passive infinitive|These plants need ___ twice a week.|to be watered|to water themselves by us|be watered|to been watered|Need puede llevar infinitivo pasivo cuando el sujeto recibe la acción.
+B2|Verb patterns|The manager denied ___ the confidential files.|sharing|to share|share|shared|Deny se construye con gerundio.
+B2|Verb patterns|She persuaded me ___ for the position.|to apply|applying|apply|applied|Persuade más objeto lleva infinitivo con to.
+B2|Verb patterns|They accused him of ___ the results.|falsifying|falsify|to falsify|falsified|Después de la preposición of se usa gerundio.
+B2|Verb patterns|He insisted on ___ for everyone's lunch.|paying|pay|to pay|paid|Insist on va seguido de gerundio.
+B2|Verb patterns|We look forward to ___ from you.|hearing|hear|have heard|be heard|To es preposición en look forward to y requiere gerundio.
+B2|Verb patterns|There is no point in ___ about it now.|arguing|argue|to argue|argued|There is no point in se completa con gerundio.
+B2|Contrast|___ being tired, she finished the race.|Despite|Although|Even though|However|Despite admite un grupo de gerundio.
+B2|Contrast|He studied hard. ___, he failed the exam.|Nevertheless|Although|Despite|In spite|Nevertheless enlaza dos afirmaciones en contraste.
+B2|Contrast|I like city life, ___ my sister prefers the countryside.|whereas|despite|in spite of|however of|Whereas contrasta dos cláusulas.
+B2|Concession|___ hard he tried, he couldn't open the jar.|However|Although|Despite|Whatever|However más adjetivo o adverbio expresa concesión.
+B2|Concession|___ happens, don't open this door.|Whatever|However|Despite|Whereas|Whatever funciona como sujeto con sentido de cualquier cosa que ocurra.
+B2|Purpose|We left early so that we ___ avoid the traffic.|could|to|for|able|So that introduce una cláusula de finalidad con sujeto y modal.
+B2|Purpose|I wrote it down in order ___ forget it.|not to|to not to|not|that not|In order not to expresa finalidad negativa.
+B2|Result|There was ___ little time that we couldn't check everything.|so|such|too|enough|So se utiliza con little más incontable.
+B2|Result|They were ___ difficult questions that nobody answered them.|such|so|too much|enough of|Such precede a un grupo nominal plural con adjetivo.
+B2|Comparison|The more you practise, ___ you become.|the more confident|more confident|most confident|the confident|Las dos partes de esta correlación llevan the más comparativo.
+B2|Comparison|This model is nowhere near ___ reliable as that one.|as|than|more|so much|Nowhere near as...as expresa una diferencia marcada.
+B2|Comparison|The new route is far ___ than the old one.|quicker|quick|quickest|as quick|Far puede intensificar un comparativo.
+B2|Comparison|It is by far ___ solution we have found.|the best|better|best than|as good|By far puede intensificar un superlativo.
+B2|Quantifiers|___ of the two answers is correct; both are wrong.|Neither|Either|Each|Every|Neither significa ninguno de los dos.
+B2|Quantifiers|You can take ___ of these two seats; both are free.|either|neither|every|all|Either significa cualquiera de los dos.
+B2|Quantifiers|There is very ___ evidence to support that claim.|little|few|many|a few|Evidence es incontable; very little indica escasez.
+B2|Quantifiers|Very ___ applicants had the required experience.|few|little|much|a little|Applicants es contable plural y requiere few.
+B2|Agreement|Neither the teacher nor the students ___ ready.|are|is|has|be|Con nor se aplica aquí la concordancia con el sujeto plural más cercano.
+B2|Agreement|The number of complaints ___ increased this month.|has|have|are|were|El núcleo del sujeto es the number y es singular.
+B2|Agreement|A number of students ___ applied for the grant.|have|has|is|was|A number of más plural tiene concordancia plural.
+B2|Agreement|Ten kilometres ___ a long way to walk in this heat.|is|are being|have|were being|La distancia se considera una cantidad unitaria.
+B2|Reported speech|She asked whether I ___ the email the day before.|had received|receive|have receive|would receiving|El día anterior al acto de preguntar pide anterioridad con past perfect.
+B2|Reported commands|The guard told us ___ photographs.|not to take|don't take|not take|not taking|Tell más objeto usa infinitivo negativo para una orden indirecta.
+B2|Reported suggestions|He suggested that we ___ a different route.|take|taking|to take|taken|En esta construcción that we take es una cláusula válida tras suggested.
+B2|Reporting verbs|She apologised for ___ late.|being|be|to be|been|Apologise for requiere gerundio cuando sigue un verbo.
+B2|Reporting verbs|They warned us ___ swim in that part of the river.|not to|don't|not|not to be to|Warn más objeto se completa con infinitivo negativo.
+B2|Question tags|Let's take a break, ___?|shall we|will you|do we|aren't we|La coletilla convencional de let's es shall we.
+B2|Question tags|I'm next on the list, ___?|aren't I|amn't I|don't I|isn't I|En inglés estándar la coletilla negativa de I am es aren't I.
+B2|Question tags|Nobody called, ___?|did they|didn't they|did he not|were they|Nobody aporta negación y admite they en la coletilla afirmativa.
+B2|Emphasis|What I need ___ a good night's sleep.|is|are|have|were|Esta oración escindida usa is para identificar la necesidad.
+B2|Emphasis|It was Marta ___ solved the problem.|who|which|whose|whom it|Who introduce a la persona destacada como sujeto.
+B2|Emphasis|I ___ understand your concern, but I disagree.|do|am|have to have|does|Do puede enfatizar un verbo en presente con sujeto I.
+B2|Future perfect|By Friday, we ___ completed the project.|will have|will be|would|are|Will have más participio sitúa la finalización antes de un punto futuro.
+B2|Future continuous|At this time tomorrow, I ___ flying over the Atlantic.|will be|will have|have been|am been|Will be más gerundio expresa una acción futura en progreso.
+B2|Perfect continuous|By June, she will have been working here ___ five years.|for|since|during of|from|For introduce la duración acumulada.
+B2|Past perfect continuous|He was tired because he ___ been running for two hours.|had|has|is|would|Had been running expresa un proceso anterior a un estado pasado.
+B2|Future in the past|She said she ___ call me the following day.|would|will to|had|is|Would expresa el futuro visto desde un punto pasado.
+B2|Bound to|They are bound ___ notice the missing files.|to|for|that|of|Be bound to más infinitivo expresa alta probabilidad.
+B2|Supposed to|You are supposed ___ sign on this line.|to|for|that|of|Be supposed to indica lo esperado o requerido.
+B2|Prepositions|The company is responsible ___ maintaining the equipment.|for|of|to|with|Responsible for es la combinación adecuada.
+B2|Prepositions|There has been a sharp increase ___ prices.|in|of to|at|with to|Increase in introduce la magnitud que ha aumentado.
+B2|Prepositions|Her success depends ___ how much she practises.|on|of|at|for|La construcción es depend on.
+B2|Dependent prepositions|He succeeded ___ persuading them to stay.|in|on|at to|for|Succeed in se completa con gerundio.
+B2|Dependent prepositions|I object ___ being treated like a child.|to|for|with|at|Object to lleva una preposición seguida de gerundio.
+B2|Articles|She plays ___ violin in a local orchestra.|the|an|some of|any|Con play y un instrumento se utiliza normalmente the.
+B2|Articles|He went to ___ prison as a visitor, not as a prisoner.|the|an|some|any|Un edificio concreto visitado requiere aquí the.
+B2|Determiners|I have read ___ book on this shelf, without exception.|every|all|whole|each of|Every acompaña directamente al singular book.
+B2|Determiners|I spent the ___ afternoon preparing the presentation.|whole|all|every|each|The whole afternoon expresa la totalidad del periodo.
+B2|Ellipsis|I haven't been to Iceland, but I would love ___.|to|so|it|that|To permite omitir el infinitivo repetido go allí implícito.
+B2|Substitution|Will the weather improve? I hope ___.|so|it|to|that it|Hope so sustituye una afirmación completa.

@@ -1,0 +1,50 @@
+Batalla de Maratón|490 a. C.|Ática|Milcíades|Victoria ateniense frente a una expedición persa
+Batalla de las Termópilas|480 a. C.|Grecia central|Leónidas I|Resistencia de una coalición griega en un paso estrecho
+Batalla de Gaugamela|331 a. C.|Mesopotamia|Alejandro Magno|Derrota decisiva del ejército de Darío III
+Asesinato de Julio César|44 a. C.|Roma|Bruto y Casio|Conspiración contra un dictador de la República romana
+Batalla de Accio|31 a. C.|Costa occidental de Grecia|Octaviano|Victoria naval sobre Marco Antonio y Cleopatra
+Edicto de Milán|313|Imperio romano|Constantino y Licinio|Acuerdo de tolerancia religiosa para los cristianos
+Primer Concilio de Nicea|325|Asia Menor|Constantino I|Asamblea de obispos que abordó la controversia arriana
+Caída de Rómulo Augústulo|476|Italia|Odoacro|Deposición del último emperador romano de Occidente tradicionalmente reconocido
+Coronación imperial de Carlomagno|800|Roma|León III|Restauración de un título imperial en el Occidente latino
+Batalla de Hastings|1066|Inglaterra|Guillermo de Normandía|Derrota de Harold II durante la conquista normanda
+Inicio de la primera cruzada en Clermont|1095|Francia|Urbano II|Llamamiento papal a una expedición hacia Tierra Santa
+Firma de la Carta Magna|1215|Runnymede|Juan sin Tierra|Limitación escrita de facultades del monarca inglés
+Toma de Bagdad por los mongoles|1258|Actual Irak|Hulagu|Fin del califato abasí de Bagdad
+Inicio de la peste negra en Europa mediterránea|1347|Sicilia|Mercaderes y navegantes del Mediterráneo|Llegada de una gran pandemia a puertos europeos
+Caída de Constantinopla|1453|Bósforo|Mehmed II|Conquista otomana de la capital bizantina
+Llegada del primer viaje de Colón al Caribe|1492|Bahamas|Cristóbal Colón|Contacto de una expedición castellana con islas caribeñas
+Tratado de Tordesillas|1494|Castilla|Representantes de Castilla y Portugal|Acuerdo de reparto de zonas de expansión atlántica
+Publicación de las noventa y cinco tesis|1517|Wittenberg|Martín Lutero|Crítica a las indulgencias asociada al inicio de la Reforma
+Caída de Tenochtitlan|1521|Valle de México|Hernán Cortés y aliados indígenas|Derrota de la capital mexica tras un asedio
+Fin de la primera circunnavegación|1522|Sanlúcar de Barrameda|Juan Sebastián Elcano|Regreso de la nao Victoria tras rodear el planeta
+Batalla de Lepanto|1571|Golfo de Patras|Juan de Austria|Victoria naval de la Liga Santa frente a los otomanos
+Derrota de la Armada enviada por Felipe II|1588|Canal de la Mancha y Atlántico|Felipe II|Fracaso de una expedición contra Inglaterra
+Defenestración de Praga que abrió la guerra de los Treinta Años|1618|Bohemia|Nobles protestantes bohemios|Rebelión contra representantes de los Habsburgo
+Paz de Westfalia|1648|Münster y Osnabrück|Delegaciones europeas|Tratados que cerraron la guerra de los Treinta Años
+Ejecución de Carlos I de Inglaterra|1649|Londres|Partidarios del Parlamento inglés|Muerte judicial de un rey tras las guerras civiles
+Revolución Gloriosa|1688|Inglaterra|Guillermo de Orange y María Estuardo|Sustitución de Jacobo II en el trono inglés
+Declaración de Independencia de las Trece Colonias|1776|Filadelfia|Segundo Congreso Continental|Proclamación de separación de Gran Bretaña
+Toma de la Bastilla|1789|París|Insurgentes parisinos|Asalto a una fortaleza convertido en símbolo revolucionario
+Proclamación de la independencia de Haití|1804|Gonaïves|Jean-Jacques Dessalines|Nacimiento de un Estado tras una revolución de esclavizados
+Batalla de Trafalgar|1805|Costa de Cádiz|Horatio Nelson|Victoria británica sobre una flota franco-española
+Constitución española de Cádiz|1812|Cádiz|Cortes de Cádiz|Promulgación de un texto liberal conocido como La Pepa
+Batalla de Waterloo|1815|Actual Bélgica|Wellington y Blücher|Derrota final de Napoleón Bonaparte
+Batalla de Ayacucho|1824|Actual Perú|Antonio José de Sucre|Victoria independentista frente a fuerzas realistas
+Publicación del Manifiesto comunista|1848|Londres|Karl Marx y Friedrich Engels|Programa político sobre lucha de clases y emancipación proletaria
+Abolición de la servidumbre en el Imperio ruso|1861|Rusia|Alejandro II|Reforma de la situación jurídica de los siervos
+Proclamación del Reino de Italia|1861|Turín|Víctor Manuel II|Constitución de un nuevo reino durante la unificación italiana
+Restauración Meiji|1868|Japón|Emperador Meiji|Transformación política que puso fin al shogunato Tokugawa
+Comuna de París|1871|París|Comuneros parisinos|Gobierno insurreccional surgido tras la guerra franco-prusiana
+Conferencia de Berlín sobre África|1884|Berlín|Otto von Bismarck|Negociación europea de reglas para la expansión colonial africana
+Asesinato del archiduque Francisco Fernando|1914|Sarajevo|Gavrilo Princip|Atentado que desencadenó la crisis de julio
+Revolución rusa de Octubre|1917|Petrogrado|Bolcheviques|Derrocamiento del Gobierno provisional ruso
+Firma del Tratado de Versalles con Alemania|1919|Palacio de Versalles|Potencias aliadas y delegación alemana|Tratado de paz que impuso condiciones a Alemania tras la Primera Guerra Mundial
+Marcha de la Sal|1930|India británica|Mahatma Gandhi|Desobediencia civil contra el monopolio colonial de la sal
+Inicio de la Guerra Civil española|1936|España|Militares sublevados contra la Segunda República|Golpe de Estado que desembocó en una guerra
+Desembarco de Normandía|1944|Norte de Francia|Fuerzas aliadas occidentales|Apertura de un gran frente desde el canal de la Mancha
+Conferencia de Bandung|1955|Indonesia|Delegaciones afroasiáticas|Encuentro asociado al anticolonialismo y la cooperación afroasiática
+Construcción del Muro de Berlín|1961|Berlín|Gobierno de la República Democrática Alemana|Cierre físico de la frontera entre sectores de la ciudad
+Llegada del Apolo 11 a la Luna|1969|Mar de la Tranquilidad|Neil Armstrong y Buzz Aldrin|Primer alunizaje tripulado
+Revolución de los Claveles|1974|Portugal|Movimiento de las Fuerzas Armadas|Caída de la dictadura portuguesa
+Primeras elecciones sudafricanas con sufragio universal adulto|1994|Sudáfrica|Nelson Mandela y el Congreso Nacional Africano|Transición electoral que puso fin al régimen político del apartheid

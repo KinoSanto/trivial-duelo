@@ -6,6 +6,9 @@ import { randomInt } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import pg from 'pg';
+import { validateBank } from './bank.js';
+import { MemoryHistory, PostgresHistory } from './rotation.js';
 
 const app = express();
 const http = createServer(app);
@@ -19,31 +22,30 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(root, 'index.html'));
 });
 
-// Comprobación del estado del servidor
-app.get('/health', (req, res) => {
-  res.json({ ok: true });
-});
-
 // Cargar las preguntas
 const bank = JSON.parse(
   readFileSync(path.join(root, 'questions.json'), 'utf8')
 );
 
+validateBank(bank);
 const rooms = new Map();
 const DURATION = 20;
 const TOTAL = 20;
 
-// Seleccionar 20 preguntas aleatorias
-const pick = () => {
-  const arr = [...bank];
-
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = randomInt(i + 1);
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-
-  return arr.slice(0, TOTAL);
-};
+// Persistent history is mandatory on Render/production; never silently fall back.
+const persistent = Boolean(process.env.DATABASE_URL);
+if (!persistent && (process.env.RENDER || process.env.NODE_ENV === 'production')) {
+  throw new Error('DATABASE_URL es obligatoria en producción para conservar el historial.');
+}
+const history = persistent ? new PostgresHistory(new pg.Pool({
+  connectionString: process.env.DATABASE_URL,
+  connectionTimeoutMillis: 5000, query_timeout: 10000, statement_timeout: 10000, max: 5
+})) : new MemoryHistory();
+await history.ready();
+app.get('/health', async (req, res) => {
+  try { await history.healthy(); res.json({ ok: true, persistent, questions: bank.length }); }
+  catch { res.status(503).json({ ok: false }); }
+});
 
 // Generar código de sala
 const code = () =>
@@ -62,6 +64,8 @@ function emitRoom(r) {
       connected: p.connected
     })),
     status: r.status,
+    difficulty: r.difficulty,
+    hostId: r.players[0].id,
     round: r.round + 1,
     total: TOTAL
   });
@@ -95,6 +99,8 @@ function question(r) {
     round: r.round + 1,
     total: TOTAL,
     category: q.category,
+    difficulty: q.difficulty,
+    cefr: q.cefr,
     text: q.text,
     options: q.options,
     deadline: r.deadline
@@ -149,9 +155,20 @@ function err(socket, message) {
 // Conexiones de los jugadores
 io.on('connection', socket => {
 
+  socket.use((packet, next) => {
+    if (['create','join','answer'].includes(packet[0]) &&
+        (!packet[1] || typeof packet[1] !== 'object' || Array.isArray(packet[1]))) {
+      err(socket, 'Datos no válidos.');
+      return;
+    }
+    next();
+  });
+
   // Crear una sala
-  socket.on('create', ({ name } = {}) => {
-    name = String(name || '').trim().slice(0, 22);
+  socket.on('create', ({ name, difficulty = 'mixed' } = {}) => {
+    if (socket.data.room) return err(socket, 'Ya estás en una sala. Recarga para salir.');
+    if (!['mixed','easy','medium','hard'].includes(difficulty)) return err(socket, 'Nivel no válido.');
+    name = typeof name === 'string' ? name.trim().slice(0, 22) : '';
 
     if (!name) {
       return err(socket, 'Introduce tu nombre.');
@@ -171,7 +188,8 @@ io.on('connection', socket => {
         score: 0,
         connected: true
       }],
-      questions: pick(),
+      questions: [],
+      difficulty,
       round: 0,
       status: 'waiting',
       timer: null,
@@ -187,8 +205,9 @@ io.on('connection', socket => {
 
   // Unirse a una sala
   socket.on('join', ({ code: c, name } = {}) => {
-    c = String(c || '').trim().toUpperCase();
-    name = String(name || '').trim().slice(0, 22);
+    if (socket.data.room) return err(socket, 'Ya estás en una sala. Recarga para salir.');
+    c = typeof c === 'string' ? c.trim().toUpperCase() : '';
+    name = typeof name === 'string' ? name.trim().slice(0, 22) : '';
 
     const r = rooms.get(c);
 
@@ -221,7 +240,7 @@ io.on('connection', socket => {
   });
 
   // Comenzar la partida
-  socket.on('start', () => {
+  socket.on('start', async () => {
     const r = rooms.get(socket.data.room);
 
     if (
@@ -236,7 +255,18 @@ io.on('connection', socket => {
       );
     }
 
-    question(r);
+    r.status = 'starting';
+    emitRoom(r);
+    try {
+      r.questions = await history.reserve(bank, r.difficulty);
+      if (!r.players.every(p => p.connected) || rooms.get(r.code) !== r || r.status !== 'starting') return;
+      question(r);
+    } catch {
+      if (r.status !== 'starting') return;
+      r.status = 'waiting';
+      emitRoom(r);
+      err(socket, 'No se pudo reservar el historial. Inténtalo de nuevo; no se ha iniciado la partida.');
+    }
   });
 
   // Registrar una respuesta
@@ -319,5 +349,10 @@ io.on('connection', socket => {
 const PORT = process.env.PORT || 3000;
 
 http.listen(PORT, '0.0.0.0', () => {
-  console.log(`Trivial listo en puerto ${PORT}`);
+  console.log(`Trivial listo en puerto ${http.address().port}`);
+});
+
+process.on('SIGTERM', () => {
+  io.close();
+  http.close(async () => { await history.close(); process.exit(0); });
 });

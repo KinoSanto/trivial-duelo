@@ -1,0 +1,50 @@
+la fotosíntesis oxigénica|Conversión de energía luminosa en energía química|Clorofila|Una hoja iluminada que fija CO₂|Libera oxígeno procedente del agua
+la respiración celular aerobia|Obtención de energía mediante oxidación con oxígeno|ATP|Una célula muscular que utiliza oxígeno|En eucariotas incluye procesos en las mitocondrias
+la mitosis|División del núcleo que conserva el número de cromosomas|Huso mitótico|División de células de la piel para renovarla|Da lugar normalmente a dos núcleos genéticamente equivalentes
+la meiosis|División que reduce el número de juegos cromosómicos|Recombinación genética|Formación de gametos en animales|Incluye dos divisiones nucleares después de una replicación del ADN
+la ósmosis|Movimiento neto de agua a través de una membrana selectiva|Presión osmótica|Entrada de agua en una célula en medio hipotónico|Depende de diferencias en el potencial químico del agua
+la difusión|Dispersión neta de partículas por un gradiente de concentración|Movimiento térmico|Un perfume que se extiende por una habitación|Puede ocurrir sin una membrana biológica
+la selección natural|Cambio en la frecuencia de rasgos heredables por éxito reproductivo diferencial|Adaptación|Mayor supervivencia de bacterias resistentes a un antibiótico|Actúa sobre variación heredable ya presente o surgida por mutación
+la deriva genética|Cambio aleatorio de frecuencias de variantes genéticas|Efecto fundador|Una variante que desaparece por azar en una población pequeña|Su efecto relativo suele ser mayor en poblaciones pequeñas
+la simbiosis mutualista|Relación estrecha con beneficio para ambos organismos|Cooperación interespecífica|Micorriza entre un hongo y una raíz|Los dos participantes obtienen un beneficio de la asociación
+el parasitismo|Relación en la que un organismo se beneficia perjudicando a otro|Huésped|Una tenia intestinal en un mamífero|El parásito obtiene recursos a costa de su hospedador
+la polinización|Transporte de polen hasta una estructura reproductora receptora|Estigma|Una abeja que transporta polen entre flores|No equivale por sí sola a la fecundación
+la germinación|Inicio del desarrollo de una semilla en condiciones adecuadas|Radícula|Una lenteja que emite su primera raíz|Requiere agua y condiciones ambientales apropiadas
+el xilema|Transporte de agua y sales minerales en plantas vasculares|Savia bruta|Vasos que conducen agua desde una raíz|Muchos de sus elementos conductores están muertos al madurar
+el floema|Transporte de sustancias orgánicas en plantas vasculares|Savia elaborada|Distribución de azúcares desde hojas hacia otros órganos|Incluye células conductoras vivas
+la homeostasis|Regulación del medio interno|Retroalimentación negativa|Mantenimiento de la glucemia en un intervalo|Mantiene variables dentro de márgenes compatibles con la vida
+la inmunidad adaptativa|Defensa específica con memoria|Linfocitos B y T|Respuesta más rápida tras una exposición previa a un antígeno|Puede generar células de memoria
+la digestión enzimática|Descomposición de moléculas alimentarias mediante catalizadores biológicos|Hidrólisis|Amilasa que rompe almidón|Las enzimas reducen la energía de activación de las reacciones
+la filtración glomerular|Paso de parte del plasma al inicio de la nefrona|Glomérulo renal|Formación del filtrado en la cápsula de Bowman|Las células sanguíneas normalmente quedan en la circulación
+la transmisión sináptica química|Comunicación neuronal mediante mensajeros liberados a una hendidura|Neurotransmisor|Liberación de acetilcolina en una unión neuromuscular|La señal pasa mediante receptores de la célula postsináptica
+el intercambio gaseoso alveolar|Difusión de gases entre aire pulmonar y sangre|Alvéolo|Paso de oxígeno del pulmón a capilares|Se produce a través de una superficie delgada y extensa
+la tectónica de placas|Movimiento de fragmentos de la litosfera|Subducción|Una placa oceánica que se hunde bajo otra|Explica la distribución de muchos volcanes y terremotos
+el ciclo de las rocas|Transformación entre materiales ígneos sedimentarios y metamórficos|Litificación|Sedimentos que se compactan y cementan|No sigue un único recorrido obligatorio
+la erosión|Desgaste y transporte de materiales superficiales|Agente erosivo|Un río que arrastra partículas|Se distingue de la meteorización por incluir retirada de material
+la cristalización|Formación de un sólido con estructura ordenada|Red cristalina|Cristales de sal que aparecen al evaporarse agua salada|Puede producirse a partir de una disolución
+la evaporación|Paso de líquido a gas desde la superficie|Calor latente|Un charco que se seca sin hervir|Puede ocurrir por debajo de la temperatura de ebullición
+la condensación|Paso de gas a líquido|Punto de rocío|Gotas en la cara exterior de un vaso frío|El vapor de agua puede formar gotas al enfriarse
+la sublimación|Paso directo de sólido a gas|Equilibrio de fases|Hielo seco que produce dióxido de carbono gaseoso|No necesita pasar por la fase líquida
+la conducción térmica|Transferencia de energía por interacción entre partículas vecinas|Conductividad térmica|Una cuchara metálica que se calienta en una sopa|No exige transporte macroscópico de materia
+la convección|Transferencia de energía asociada al movimiento de un fluido|Corriente convectiva|Agua caliente que asciende en una olla|Requiere movimiento de materia a escala macroscópica
+la radiación térmica|Transferencia de energía mediante ondas electromagnéticas|Emisión infrarroja|Calor del Sol que llega a la Tierra|Puede propagarse a través del vacío
+la refracción|Cambio de dirección de una onda al cambiar su velocidad entre medios|Índice de refracción|Un lápiz que parece doblado dentro del agua|Puede ocurrir cuando la luz pasa del aire al agua
+la reflexión especular|Rebote ordenado de luz en una superficie lisa|Ángulo de incidencia|Imagen en un espejo plano|El ángulo reflejado es igual al incidente respecto a la normal
+la difracción|Expansión de una onda al bordear obstáculos o cruzar aberturas|Longitud de onda|Ondas de agua que se abren tras una rendija|Es más apreciable con aberturas comparables a la longitud de onda
+la interferencia|Superposición de ondas que refuerza o reduce la amplitud|Diferencia de fase|Franjas claras y oscuras en una doble rendija|Puede ser constructiva o destructiva
+el efecto Doppler|Cambio de frecuencia observada por movimiento relativo|Velocidad radial|Cambio de tono de una sirena al pasar|Depende del movimiento entre fuente y observador
+la gravitación universal|Atracción entre cuerpos con masa|Constante gravitacional|Atracción entre la Tierra y la Luna|En el modelo newtoniano disminuye con el cuadrado de la distancia
+la inercia|Resistencia a cambiar el estado de movimiento|Primera ley de Newton|Un objeto que mantiene velocidad si la fuerza neta es cero|La masa mide la inercia traslacional en mecánica clásica
+la conservación del momento lineal|Constancia del momento total en ausencia de fuerza externa neta|Cantidad de movimiento|Retroceso de un sistema al expulsar masa|Se aplica a un sistema aislado
+la inducción electromagnética|Generación de fuerza electromotriz por cambio de flujo magnético|Ley de Faraday|Una bobina con corriente inducida al mover un imán|Es un principio de funcionamiento de generadores eléctricos
+la resistencia eléctrica|Oposición de un conductor al paso de corriente|Ohmio|Un componente que limita corriente en un circuito|En un conductor óhmico relaciona tensión e intensidad mediante V = IR
+la radiactividad|Transformación espontánea de núcleos inestables|Semivida|Emisión alfa de un núcleo pesado|Es un proceso nuclear y no una reacción química ordinaria
+la fusión nuclear|Unión de núcleos ligeros en otros más pesados|Plasma estelar|Producción de helio a partir de hidrógeno en estrellas|Puede liberar energía si aumenta la energía de enlace por nucleón
+la fisión nuclear|División de un núcleo pesado en fragmentos más ligeros|Reacción en cadena|Escisión de un núcleo de uranio inducida por un neutrón|Puede liberar neutrones además de energía
+la oxidación química|Pérdida de electrones de una especie|Número de oxidación|Hierro que pierde electrones al corroerse|Se acompaña de la reducción de otra especie
+la reducción química|Ganancia de electrones de una especie|Agente oxidante reducido|Ion cobre que gana electrones y forma cobre metálico|Disminuye el número de oxidación de la especie reducida
+la catálisis|Aumento de velocidad de reacción por una vía alternativa|Energía de activación|Una enzima que acelera una reacción|El catalizador se regenera durante el ciclo de reacción
+el enlace covalente|Unión mediante compartición de pares electrónicos|Orbital molecular|Enlace entre los átomos de una molécula de H₂|Puede existir entre átomos del mismo elemento
+el enlace iónico|Atracción electrostática entre iones de carga opuesta|Red iónica|Cristal de cloruro de sodio|En un sólido iónico los iones forman una estructura extensa
+la presión atmosférica|Fuerza por unidad de superficie ejercida por el aire|Barómetro|Una columna de mercurio sostenida por presión del aire|Generalmente disminuye al aumentar la altitud
+el ciclo del agua|Circulación de agua entre atmósfera superficie y subsuelo|Escorrentía|Agua de lluvia que fluye hacia un río|Incluye evaporación precipitación e infiltración
