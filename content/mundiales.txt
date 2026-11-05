@@ -1,0 +1,24 @@
+# Edición|Campeón|Subcampeón|Ciudad del partido decisivo|Marcador antes de penaltis|Seleccionador campeón
+1930|Uruguay|Argentina|Montevideo|4-2|Alberto Suppici
+1934|Italia|Checoslovaquia|Roma|2-1|Vittorio Pozzo
+1938|Italia|Hungría|Colombes|4-2|Vittorio Pozzo
+1950|Uruguay|Brasil|Río de Janeiro|2-1|Juan López Fontana
+1954|Alemania Federal|Hungría|Berna|3-2|Sepp Herberger
+1958|Brasil|Suecia|Solna|5-2|Vicente Feola
+1962|Brasil|Checoslovaquia|Santiago de Chile|3-1|Aymoré Moreira
+1966|Inglaterra|Alemania Federal|Londres|4-2|Alf Ramsey
+1970|Brasil|Italia|Ciudad de México|4-1|Mário Zagallo
+1974|Alemania Federal|Países Bajos|Múnich|2-1|Helmut Schön
+1978|Argentina|Países Bajos|Buenos Aires|3-1|César Luis Menotti
+1982|Italia|Alemania Federal|Madrid|3-1|Enzo Bearzot
+1986|Argentina|Alemania Federal|Ciudad de México|3-2|Carlos Bilardo
+1990|Alemania Federal|Argentina|Roma|1-0|Franz Beckenbauer
+1994|Brasil|Italia|Pasadena|0-0|Carlos Alberto Parreira
+1998|Francia|Brasil|Saint-Denis|3-0|Aimé Jacquet
+2002|Brasil|Alemania|Yokohama|2-0|Luiz Felipe Scolari
+2006|Italia|Francia|Berlín|1-1|Marcello Lippi
+2010|España|Países Bajos|Johannesburgo|1-0|Vicente del Bosque
+2014|Alemania|Argentina|Río de Janeiro|1-0|Joachim Löw
+2018|Francia|Croacia|Moscú|4-2|Didier Deschamps
+2022|Argentina|Francia|Lusail|3-3|Lionel Scaloni
+2026|España|Argentina|East Rutherford|1-0|Luis de la Fuente
