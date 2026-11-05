@@ -1,0 +1,181 @@
+# Región|País|Capital
+Europa|España|Madrid
+Europa|Portugal|Lisboa
+Europa|Francia|París
+Europa|Italia|Roma
+Europa|Grecia|Atenas
+Europa|Alemania|Berlín
+Europa|Austria|Viena
+Europa|Suiza|Berna
+Europa|Polonia|Varsovia
+Europa|Chequia|Praga
+Europa|Hungría|Budapest
+Europa|Rumanía|Bucarest
+Europa|Bulgaria|Sofía
+Europa|Noruega|Oslo
+Europa|Suecia|Estocolmo
+Europa|Dinamarca|Copenhague
+Europa|Islandia|Reikiavik
+Europa|Irlanda|Dublín
+Europa|Reino Unido|Londres
+Europa|Bélgica|Bruselas
+Europa|Países Bajos|Ámsterdam
+Europa|Luxemburgo|Luxemburgo
+Europa|Finlandia|Helsinki
+Europa|Estonia|Tallin
+Europa|Letonia|Riga
+Europa|Lituania|Vilna
+Europa|Ucrania|Kiev
+Europa|Bielorrusia|Minsk
+Europa|Moldavia|Chisináu
+Europa|Eslovaquia|Bratislava
+Europa|Eslovenia|Liubliana
+Europa|Croacia|Zagreb
+Europa|Bosnia y Herzegovina|Sarajevo
+Europa|Serbia|Belgrado
+Europa|Montenegro|Podgorica
+Europa|Albania|Tirana
+Europa|Macedonia del Norte|Skopie
+Europa|Malta|La Valeta
+Europa|Andorra|Andorra la Vieja
+Europa|Liechtenstein|Vaduz
+Europa|Rusia|Moscú
+África|Marruecos|Rabat
+África|Argelia|Argel
+África|Túnez|Túnez
+África|Egipto|El Cairo
+África|Senegal|Dakar
+África|Ghana|Acra
+África|Nigeria|Abuya
+África|Kenia|Nairobi
+África|Tanzania|Dodoma
+África|Etiopía|Adís Abeba
+África|Madagascar|Antananarivo
+África|Libia|Trípoli
+África|Mauritania|Nuakchot
+África|Malí|Bamako
+África|Níger|Niamey
+África|Chad|Yamena
+África|Burkina Faso|Uagadugú
+África|Cabo Verde|Praia
+África|Gambia|Banjul
+África|Guinea|Conakri
+África|Guinea-Bisáu|Bisáu
+África|Sierra Leona|Freetown
+África|Liberia|Monrovia
+África|Costa de Marfil|Yamusukro
+África|Togo|Lomé
+África|Benín|Porto Novo
+África|Camerún|Yaundé
+África|Gabón|Libreville
+África|República del Congo|Brazzaville
+África|República Democrática del Congo|Kinsasa
+África|República Centroafricana|Bangui
+África|Sudán del Sur|Yuba
+África|Uganda|Kampala
+África|Ruanda|Kigali
+África|Burundi|Gitega
+África|Eritrea|Asmara
+África|Yibuti|Yibuti
+África|Somalia|Mogadiscio
+África|Angola|Luanda
+África|Zambia|Lusaka
+África|Zimbabue|Harare
+África|Malaui|Lilongüe
+África|Mozambique|Maputo
+África|Namibia|Windhoek
+África|Botsuana|Gaborone
+África|Lesoto|Maseru
+África|Seychelles|Victoria
+África|Mauricio|Port Louis
+África|Comoras|Moroni
+África|Santo Tomé y Príncipe|Santo Tomé
+América|Canadá|Ottawa
+América|Estados Unidos|Washington D. C.
+América|México|Ciudad de México
+América|Guatemala|Ciudad de Guatemala
+América|Costa Rica|San José
+América|Cuba|La Habana
+América|Colombia|Bogotá
+América|Venezuela|Caracas
+América|Ecuador|Quito
+América|Perú|Lima
+América|Chile|Santiago
+América|Argentina|Buenos Aires
+América|Brasil|Brasilia
+América|Uruguay|Montevideo
+América|Belice|Belmopán
+América|El Salvador|San Salvador
+América|Honduras|Tegucigalpa
+América|Nicaragua|Managua
+América|Panamá|Ciudad de Panamá
+América|Bahamas|Nasáu
+América|Jamaica|Kingston
+América|Haití|Puerto Príncipe
+América|República Dominicana|Santo Domingo
+América|Antigua y Barbuda|Saint John's
+América|San Cristóbal y Nieves|Basseterre
+América|Dominica|Roseau
+América|Santa Lucía|Castries
+América|San Vicente y las Granadinas|Kingstown
+América|Barbados|Bridgetown
+América|Granada|Saint George's
+América|Trinidad y Tobago|Puerto España
+América|Guyana|Georgetown
+América|Surinam|Paramaribo
+América|Bolivia|Sucre
+América|Paraguay|Asunción
+Asia|Japón|Tokio
+Asia|Corea del Sur|Seúl
+Asia|India|Nueva Delhi
+Asia|Tailandia|Bangkok
+Asia|Vietnam|Hanói
+Asia|China|Pekín
+Asia|Mongolia|Ulán Bator
+Asia|Corea del Norte|Pionyang
+Asia|Filipinas|Manila
+Asia|Camboya|Nom Pen
+Asia|Laos|Vientián
+Asia|Myanmar|Naipyidó
+Asia|Malasia|Kuala Lumpur
+Asia|Singapur|Singapur
+Asia|Brunéi|Bandar Seri Begawan
+Asia|Timor Oriental|Dili
+Asia|Bangladés|Daca
+Asia|Bután|Timbu
+Asia|Nepal|Katmandú
+Asia|Pakistán|Islamabad
+Asia|Afganistán|Kabul
+Asia|Maldivas|Malé
+Asia|Kazajistán|Astaná
+Asia|Kirguistán|Biskek
+Asia|Uzbekistán|Taskent
+Asia|Tayikistán|Dusambé
+Asia|Turkmenistán|Asjabad
+Asia|Irán|Teherán
+Asia|Irak|Bagdad
+Asia|Jordania|Amán
+Asia|Líbano|Beirut
+Asia|Siria|Damasco
+Asia|Turquía|Ankara
+Asia|Arabia Saudí|Riad
+Asia|Kuwait|Ciudad de Kuwait
+Asia|Baréin|Manama
+Asia|Catar|Doha
+Asia|Emiratos Árabes Unidos|Abu Dabi
+Asia|Omán|Mascate
+Asia|Armenia|Ereván
+Asia|Azerbaiyán|Bakú
+Oceanía|Nueva Zelanda|Wellington
+Oceanía|Australia|Canberra
+Oceanía|Papúa Nueva Guinea|Puerto Moresby
+Oceanía|Fiyi|Suva
+Oceanía|Islas Salomón|Honiara
+Oceanía|Vanuatu|Port Vila
+Oceanía|Samoa|Apia
+Oceanía|Tonga|Nukualofa
+Oceanía|Tuvalu|Funafuti
+Oceanía|Kiribati|Tarawa Sur
+Oceanía|Islas Marshall|Majuro
+Oceanía|Micronesia|Palikir
+Oceanía|Palaos|Ngerulmud

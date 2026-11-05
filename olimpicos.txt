@@ -1,0 +1,32 @@
+# Edición|Ciudad|País con más oros|Prueba del dato|Pregunta sobre deportista|Respuesta|Otro hito|Respuesta
+1896|Atenas|Estados Unidos|Maratón|¿Quién ganó el primer maratón olímpico moderno?|Spyridon Louis|¿En qué estadio se celebró la inauguración?|Estadio Panatenaico
+1900|París|Francia|Tenis|¿Qué británica ganó el oro en individuales de tenis?|Charlotte Cooper|¿Con qué gran exposición coincidieron los Juegos?|Exposición Universal
+1904|San Luis|Estados Unidos|Maratón|¿A quién se descalificó del maratón tras haber recorrido parte del trayecto en coche?|Fred Lorz|¿Qué metal recibió el ganador de una prueba en el sistema de tres medallas adoptado en esa edición?|Oro
+1908|Londres|Gran Bretaña|Maratón|¿Qué italiano cruzó primero la meta del maratón y fue descalificado por recibir ayuda?|Dorando Pietri|¿En qué recinto terminó el maratón?|White City Stadium
+1912|Estocolmo|Estados Unidos|Pentatlón y decatlón|¿Quién ganó el pentatlón y el decatlón masculinos?|Jim Thorpe|¿Qué nuevo tipo de certámenes otorgó medallas por obras inspiradas en el deporte?|Concursos de arte
+1920|Amberes|Estados Unidos|Esgrima|¿Quién pronunció el primer juramento olímpico en nombre de los atletas?|Victor Boin|¿Qué bandera se izó por primera vez en unos Juegos Olímpicos?|La bandera de los cinco aros
+1924|París|Estados Unidos|Natación|¿Qué nadador ganó tres oros y también compitió en waterpolo?|Johnny Weissmuller|¿En qué comuna estaba el estadio principal de esta edición?|Colombes
+1928|Ámsterdam|Estados Unidos|Atletismo|¿Quién ganó el primer oro olímpico femenino de 100 metros lisos?|Betty Robinson|¿Qué país encabezó por primera vez el desfile inaugural según la tradición actual?|Grecia
+1932|Los Ángeles|Estados Unidos|Atletismo|¿Qué estadounidense ganó el oro en jabalina y 80 metros vallas femeninos?|Babe Didrikson|¿Cómo se llama el estadio principal de esta edición?|Los Angeles Memorial Coliseum
+1936|Berlín|Alemania|Atletismo|¿Quién ganó cuatro oros en 100 m, 200 m, longitud y relevo 4 × 100 m?|Jesse Owens|¿Desde qué lugar partió el primer relevo olímpico de la antorcha?|Olimpia
+1948|Londres|Estados Unidos|Atletismo|¿Qué neerlandesa ganó cuatro oros en atletismo?|Fanny Blankers-Koen|¿En qué estadio tuvo lugar la ceremonia inaugural?|Wembley
+1952|Helsinki|Estados Unidos|Atletismo|¿Quién ganó los 5.000 m, los 10.000 m y el maratón masculino en la misma edición?|Emil Zátopek|¿Qué delegación hizo en estos Juegos su debut olímpico y fue segunda por número de oros?|Unión Soviética
+1956|Melbourne|Unión Soviética|Atletismo|¿Qué australiana ganó los 100 m, los 200 m y el relevo 4 × 100 m femeninos?|Betty Cuthbert|¿En qué ciudad se celebraron las pruebas de hípica de esta edición?|Estocolmo
+1960|Roma|Unión Soviética|Atletismo|¿Quién ganó descalzo el maratón masculino?|Abebe Bikila|¿Qué futuro campeón mundial profesional de boxeo ganó el oro en semipesado con el nombre Cassius Clay?|Muhammad Ali
+1964|Tokio|Estados Unidos|Atletismo|¿Quién ganó el maratón masculino por segunda edición consecutiva?|Abebe Bikila|¿Qué arte marcial debutó en el programa olímpico en esta edición?|Judo
+1968|Ciudad de México|Estados Unidos|Atletismo|¿Quién saltó 8,90 m en la final de longitud masculina?|Bob Beamon|¿Qué técnica de salto de altura popularizó el ganador de la final masculina?|Fosbury flop
+1972|Múnich|Unión Soviética|Natación|¿Quién ganó siete medallas de oro en natación?|Mark Spitz|¿Qué animal representaba Waldi, la mascota de esta edición?|Un perro salchicha
+1976|Montreal|Unión Soviética|Gimnasia|¿Quién obtuvo el primer 10 perfecto en gimnasia artística olímpica?|Nadia Comăneci|¿Qué nombre recibió la mascota con forma de castor?|Amik
+1980|Moscú|Unión Soviética|Atletismo|¿Qué británico ganó los 1.500 m masculinos?|Sebastian Coe|¿Qué animal representaba la mascota Misha?|Un oso
+1984|Los Ángeles|Estados Unidos|Atletismo|¿Quién ganó el primer maratón olímpico femenino?|Joan Benoit|¿Qué disciplina de natación debutó con oros estadounidenses de Tracie Ruiz en solo y dúo?|Natación sincronizada
+1988|Seúl|Unión Soviética|Atletismo|¿Qué velocista ganó 100 m, 200 m y relevo 4 × 100 m femeninos?|Florence Griffith Joyner|¿Qué deporte de raqueta debutó como deporte de medalla y dio dos oros a Corea del Sur?|Tenis de mesa
+1992|Barcelona|Equipo Unificado|Atletismo|¿Quién ganó la final de 1.500 m masculinos para España?|Fermín Cacho|¿Qué equipo ganó el oro en el debut del béisbol como deporte oficial?|Cuba
+1996|Atlanta|Estados Unidos|Atletismo|¿Quién ganó el oro masculino tanto en 200 m como en 400 m?|Michael Johnson|¿Quién encendió el pebetero durante la ceremonia inaugural?|Muhammad Ali
+2000|Sídney|Estados Unidos|Atletismo|¿Quién encendió el pebetero y ganó el oro en 400 m femeninos?|Cathy Freeman|¿Qué prueba combinada de natación, ciclismo y carrera debutó en esta edición?|Triatlón
+2004|Atenas|Estados Unidos|Atletismo|¿Qué marroquí ganó las finales de 1.500 m y 5.000 m masculinos?|Hicham El Guerrouj|¿En qué lugar de la antigua Grecia se disputó el lanzamiento de peso?|Olimpia
+2008|Pekín|China|Natación|¿Quién ganó ocho oros en natación en una sola edición?|Michael Phelps|¿Con qué apodo se conoce el Estadio Nacional donde se inauguraron los Juegos?|Nido de Pájaro
+2012|Londres|Estados Unidos|Atletismo|¿Quién ganó los 5.000 m y 10.000 m masculinos para Gran Bretaña?|Mo Farah|¿Qué deporte incorporó por primera vez pruebas femeninas en estos Juegos?|Boxeo
+2016|Río de Janeiro|Estados Unidos|Gimnasia|¿Quién ganó el concurso completo individual femenino de gimnasia artística?|Simone Biles|¿Qué selección ganó el primer oro femenino de rugby a siete?|Australia
+2020|Tokio|Estados Unidos|Atletismo|¿Qué atleta catarí compartió el oro masculino de salto de altura con Gianmarco Tamberi?|Mutaz Essa Barshim|¿En qué año se disputaron efectivamente los Juegos de Tokio 2020?|2021
+2024|París|Estados Unidos y China, empatados|Natación|¿Qué francés ganó cuatro oros individuales de natación?|Léon Marchand|¿Por qué río desfilaron las delegaciones durante la inauguración?|Sena
+
