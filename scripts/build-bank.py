@@ -80,18 +80,9 @@ facts('filosofia.txt','Filosofía',[
     '¿Qué pensador se asocia con {t}?', '¿Qué idea se relaciona con {t}?',
     '¿Qué ámbito o problema aborda {t}?'], ['medium','hard','easy'])
 
-# 200 distinct arithmetic/algebra/geometry/probability problems, with exact solutions.
-for n in range(1, 21):
-    add('Matemáticas','Ecuaciones', f'Resuelve 3x + {n} = {4*n+6}. ¿Cuánto vale x?', n+2,[n+1,n+3,n+4],f'Restando {n} y dividiendo entre 3 se obtiene x = {n+2}.','easy')
-    add('Matemáticas','Porcentajes', f'Un artículo cuesta {20*n} €. Tiene un descuento del 15 %. ¿Cuánto pagas?',17*n,[16*n,18*n,19*n],f'El precio final es {20*n} × 0,85 = {17*n} €.','easy')
-    add('Matemáticas','Áreas', f'Un triángulo tiene base {2*n+2} cm y altura 7 cm. ¿Cuál es su área en cm²?',7*(n+1),[14*(n+1),7*(n+2),7*n],f'Área = base × altura / 2 = {7*(n+1)} cm².','easy')
-    add('Matemáticas','Medias', f'¿Cuál es la media aritmética de {n}, {n+4} y {n+11}?',n+5,[n+4,n+6,n+7],f'La suma es {3*n+15}; dividida entre 3 da {n+5}.','easy')
-    add('Matemáticas','Probabilidad', f'Una bolsa contiene {n} bolas rojas y {2*n+1} azules. ¿Qué probabilidad hay de sacar una roja?',f'{n}/{3*n+1}',[f'{n}/{2*n+1}',f'{2*n+1}/{3*n+1}',f'1/{3*n+1}' if n!=1 else '1/2'],f'Hay {n} casos favorables entre {3*n+1} bolas.','medium')
-    add('Matemáticas','Pendiente', f'¿Cuál es la pendiente de la recta que pasa por (0, {n}) y (2, {3*n+2})?',n+1,[n,n+2,2*n+2],f'Pendiente = ({3*n+2} − {n}) / 2 = {n+1}.','medium')
-    add('Matemáticas','Potencias', f'Si 2 elevado a x es {2**(n+2)}, ¿cuánto vale x?',n+2,[n+1,n+3,n+4],f'2 elevado a {n+2} es {2**(n+2)}.','medium')
-    add('Matemáticas','Derivadas', f'Si f(x) = {n+1}x² − 3x, ¿cuánto vale f′(2)?',4*(n+1)-3,[4*(n+1),2*(n+1)-3,4*(n+1)+3],f'f′(x) = {2*(n+1)}x − 3; al evaluar en 2 resulta {4*(n+1)-3}.','hard')
-    add('Matemáticas','Combinatoria', f'¿De cuántas maneras se pueden elegir 2 personas de un grupo de {n+3}, sin importar el orden?',(n+3)*(n+2)//2,[(n+3)*(n+2),n+3,(n+3)*(n+4)//2],f'Combinaciones: {n+3} × {n+2} / 2 = {(n+3)*(n+2)//2}.','hard')
-    add('Matemáticas','Progresiones', f'Una progresión geométrica empieza en {n+1} y tiene razón 3. ¿Cuál es el cuarto término?',27*(n+1),[9*(n+1),81*(n+1),3*(n+1)],f'El cuarto término es {n+1} × 3³ = {27*(n+1)}.','hard')
+# Preserve the option order of the original CrossFit and English items.
+for _ in range(200):
+    rng.shuffle([0, 1, 2, 3])
 
 # CrossFit scenarios concern scoring/notation, not medical advice or changing competition standards.
 for n in range(1,11):
@@ -118,6 +109,114 @@ for line in (ROOT/'content'/'ingles.txt').read_text(encoding='utf-8').splitlines
     if not line or line.startswith('#'): continue
     level,topic,text,answer,a,b,c,explanation=line.split('|')
     add('Gramática de inglés',topic,text,answer,[a,b,c],explanation,'medium' if level=='B1' else 'hard',level)
+
+def source_rows(filename):
+    return [line.split('|') for line in (ROOT/'content'/filename).read_text(encoding='utf-8-sig').splitlines()
+            if line.strip() and not line.startswith('#')]
+
+def alternatives(answer, candidates):
+    return rng.sample(sorted(set(candidates) - {answer}), 3)
+
+capital_category = 'Capitales de países del mundo'
+capitals = source_rows('capitales.txt')
+geography_countries = {row[0] for row in source_rows('geografia.txt')}
+hard_capitals = {'Benín', 'Costa de Marfil', 'Burundi', 'Palaos', 'Micronesia',
+                 'Kiribati', 'Islas Marshall', 'Tuvalu', 'Kazajistán', 'Myanmar',
+                 'Timor Oriental', 'Brunéi', 'Comoras', 'Gambia', 'Lesoto',
+                 'Malaui', 'Vanuatu', 'Samoa', 'Tonga', 'Surinam', 'Guyana',
+                 'San Cristóbal y Nieves', 'Santa Lucía', 'Dominica', 'Granada',
+                 'San Vicente y las Granadinas', 'Antigua y Barbuda'}
+for region, country, capital in capitals:
+    peers = [row for row in capitals if row[0] == region]
+    explanation = f'{capital} es la capital de {country}.'
+    level = 'hard' if country in hard_capitals else 'medium'
+    if country in geography_countries:
+        # Geografía already asks these in the country-to-capital direction.
+        add(capital_category, region, f'¿De qué país es capital {capital}?', country,
+            alternatives(country, [row[1] for row in peers]), explanation, 'easy')
+    else:
+        text = f'¿Cuál es la capital de {country}?'
+        if country == 'Bolivia':
+            text = '¿Cuál es la capital constitucional de Bolivia?'
+            explanation = 'Sucre es la capital constitucional de Bolivia. La Paz es la sede del Gobierno.'
+        add(capital_category, region, text, capital,
+            alternatives(capital, [row[2] for row in peers]), explanation, level)
+
+myths = source_rows('mitologia.txt')
+myth_pools = [
+    'Toro|Águila|Pavo real|Mochuelo|Ciervo|Tortuga|Vacas|Dragones|Cisne|Cierva|Osa|Asno|Cerdos|Carneros|Caballo|León|Lobo|Delfín',
+    'Tridente|Yelmo|Lira|Caduceo|Tirso|Red|Hoz|Disco|Túnica|Hilo|Argo|Escudo|Sudario|Casco|Arco|Broches|Estaca de olivo|Anillo',
+    'Trigo|Granada|Olivo|Laurel|Mirto|Ciprés|Vid|Higuera|Cebada',
+    'Sol|Luna|Amanecer|Ocaso|Firmamento|Noche|Rayo|Trueno',
+    'Eleusis|Lemnos|Corinto|Esciros|Ítaca|Ida|Troya|Creta|Sípilo|Pactolo|Eea|Ogigia|Delfos|Olimpia',
+    'Cerbero|Pitón|León de Nemea|Sirenas|Esfinge|Pegaso|Quimera|Minotauro|Hidra de Lerna|Jabalí de Erimanto',
+]
+myth_pools = [pool.split('|') for pool in myth_pools]
+people = [row[i] for row in myths for i in (2, 4)] + [row[0] for row in myths]
+for figure, *pairs in myths:
+    for index, (question, answer) in enumerate(zip(pairs[::2], pairs[1::2])):
+        candidates = next((pool for pool in myth_pools if answer in pool), None)
+        if candidates is None:
+            candidates = people if index < 2 or answer in people else [row[6] for row in myths]
+        add('Mitología griega', figure, f'{figure} · {question}', answer,
+            alternatives(answer, [value for value in candidates
+                                  if {answer, value} != {'Cierva', 'Ciervo'}]), f'{figure}: {answer}.', ['medium','hard','easy','medium'][index])
+
+sport_category = 'Historia de los mundiales de fútbol y Juegos Olímpicos de verano'
+world_cups = source_rows('mundiales.txt')
+coach_editions = {'1930', '1938', '1954', '1966', '1978', '1986', '1998', '2010'}
+for year, *values in world_cups:
+    tournament = f'Mundial masculino de fútbol {year}'
+    deciding_match = 'encuentro decisivo' if year == '1950' else 'final'
+    match_article = 'el' if year == '1950' else 'la'
+    prompts = [
+        '¿Qué selección fue campeona?',
+        '¿Qué selección fue subcampeona?',
+        f'¿En qué ciudad se disputó {match_article} {deciding_match}?',
+        f'¿Cuál fue el marcador {'del' if year == '1950' else 'de la'} {deciding_match}, con el campeón primero y sin contar los penaltis de desempate?',
+        '¿Quién dirigió a la selección campeona?'
+    ]
+    for index, (question, answer) in enumerate(zip(prompts, values)):
+        if index == 4 and year not in coach_editions:
+            continue
+        peers = [row[index + 1] for row in world_cups]
+        if index in (0, 1) and ('Alemania' in answer):
+            peers = [team for team in peers if not team.startswith('Alemania')]
+        explanation = f'{tournament}: {answer}.'
+        if index == 3 and year == '1950':
+            explanation = 'Uruguay venció a Brasil por 2-1 en el partido decisivo de la liguilla final.'
+        add(sport_category, tournament, f'{tournament} · {question}', answer,
+            alternatives(answer, peers), explanation, ['easy','medium','medium','hard','hard'][index])
+
+olympics = source_rows('olimpicos.txt')
+medal_teams = ['Estados Unidos','Francia','Gran Bretaña','Alemania','Unión Soviética','Equipo Unificado','China','Japón','Australia']
+olympic_extras = {
+    '1900': ['Exposición Colonial', 'Exposición Iberoamericana', 'Feria Mundial de Chicago'],
+    '1908': ['Wembley', 'Estadio Panatenaico', 'Estadio de Colombes'],
+    '1924': ['Versalles', 'Saint-Denis', 'Boulogne-Billancourt'],
+    '1956': ['Helsinki', 'Oslo', 'Copenhague'],
+    '1964': ['Taekwondo', 'Karate', 'Lucha grecorromana'],
+    '1972': ['Un oso', 'Un castor', 'Un tigre'],
+    '1984': ['Saltos sincronizados', 'Natación en aguas abiertas', 'Waterpolo femenino'],
+    '1992': ['Japón', 'Estados Unidos', 'China Taipéi'],
+    '2000': ['Pentatlón moderno', 'Duatlón', 'Biatlón'],
+    '2024': ['Támesis', 'Ródano', 'Loira']
+}
+for year, city, leader, event, question, athlete, extra, answer in olympics:
+    edition = f'Juegos Olímpicos de verano {year}'
+    add(sport_category, edition, f'{edition} · ¿Cuál fue la ciudad anfitriona principal?', city,
+        alternatives(city, [row[1] for row in olympics]), f'{city} fue la sede principal de {year}.', 'easy')
+    leader_question = ('¿Qué delegaciones terminaron empatadas con más oros?' if year == '2024'
+                       else '¿Qué delegación consiguió más medallas de oro?')
+    leader_peers = (['China y Japón', 'Estados Unidos y Australia', 'Francia y Gran Bretaña']
+                    if year == '2024' else alternatives(leader, medal_teams))
+    add(sport_category, edition, f'{edition} · {leader_question}', leader,
+        leader_peers, f'{edition}: {leader}.', 'hard')
+    add(sport_category, edition, f'{edition} · {question}', athlete,
+        alternatives(athlete, [row[5] for row in olympics]), f'{edition} · {event}: {athlete}.', 'medium')
+    if year in olympic_extras:
+        add(sport_category, edition, f'{edition} · {extra}', answer,
+            olympic_extras[year], f'{edition}: {answer}.', 'hard')
 
 (ROOT/'questions.json').write_text(json.dumps(bank,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'{len(bank)} preguntas generadas')
