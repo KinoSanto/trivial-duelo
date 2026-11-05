@@ -8,18 +8,18 @@ import { MemoryHistory, PostgresHistory, selectQuestions } from '../rotation.js'
 import { validateBank } from '../bank.js';
 const bank = JSON.parse(readFileSync(new URL('../questions.json', import.meta.url), 'utf8'));
 
-test('2000 questions, exact categories, valid options and English levels', () => {
-  assert.equal(validateBank(bank).total, 2000);
+test('2380 questions, exact categories, valid options and English levels', () => {
+  assert.equal(validateBank(bank).total, 2380);
   const english = bank.filter(q => q.cefr);
   assert.equal(english.filter(q => q.cefr === 'B1').length, 100);
   assert.equal(english.filter(q => q.cefr === 'B2').length, 100);
 });
 
-test('100 simultaneous reservations exhaust the bank without repetitions', async () => {
+test('119 simultaneous reservations exhaust the bank without repetitions', async () => {
   const history = new MemoryHistory();
-  const matches = await Promise.all(Array.from({ length: 100 }, () => history.reserve(bank, 'mixed')));
+  const matches = await Promise.all(Array.from({ length: 119 }, () => history.reserve(bank, 'mixed')));
   assert.ok(matches.every(qs => qs.length === 20));
-  assert.equal(new Set(matches.flat().map(q => q.id)).size, 2000);
+  assert.equal(new Set(matches.flat().map(q => q.id)).size, 2380);
   assert.equal(new Set((await history.reserve(bank, 'mixed')).map(q => q.id)).size, 20);
 });
 
