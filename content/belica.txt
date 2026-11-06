@@ -1,0 +1,51 @@
+# Época|Acontecimiento|Año|Lugar concreto|Figura o fuerza participante|Descripción distintiva
+Antigüedad|Batalla de Maratón|490 a. C.|Llanura de Maratón|Milcíades|Una fuerza de Atenas y Platea rechazó un desembarco persa
+Antigüedad|Batalla de las Termópilas|480 a. C.|Paso de las Termópilas|Leónidas I|Una fuerza griega defendió un paso estrecho hasta que los persas la flanquearon
+Antigüedad|Batalla de Salamina|480 a. C.|Estrecho entre Salamina y el Ática|Temístocles|La flota griega venció a la persa en aguas estrechas
+Antigüedad|Batalla de Queronea|338 a. C.|Queronea, Beocia|Filipo II de Macedonia|Macedonia derrotó a la coalición de Atenas y Tebas
+Antigüedad|Batalla de Gaugamela|331 a. C.|Norte de Mesopotamia|Alejandro Magno|La derrota persa abrió a Alejandro el camino hacia Babilonia
+Antigüedad|Batalla del Hidaspes|326 a. C.|Río Jhelum|Poro|El ejército macedonio se enfrentó a un rey indio que desplegó elefantes
+Antigüedad|Batalla de Cannas|216 a. C.|Apulia|Aníbal Barca|Cartago cercó a un gran ejército romano con una doble envolvente
+Antigüedad|Batalla de Zama|202 a. C.|Norte de África, en el entorno de Cartago|Escipión el Africano|La derrota de Aníbal precipitó el final de la segunda guerra púnica
+Antigüedad|Batalla de Alesia|52 a. C.|Actual Borgoña|Vercingétorix|Las fortificaciones romanas contuvieron a los sitiados y a un ejército galo de socorro
+Antigüedad|Batalla de Accio|31 a. C.|Entrada del golfo de Ambracia|Marco Vipsanio Agripa|La flota de Octaviano derrotó a Marco Antonio y Cleopatra
+Antigüedad|Batalla del bosque de Teutoburgo|9 d. C.|Germania, al este del Rin|Arminio|Una emboscada destruyó las tres legiones de Varo
+Antigüedad|Batalla de los Acantilados Rojos|208 d. C.|Río Yangtsé|Zhou Yu|La alianza de Sun Quan y Liu Bei frustró el avance de Cao Cao hacia el sur
+Antigüedad|Batalla de Adrianópolis|378 d. C.|Tracia, cerca de la actual Edirne|Emperador Valente|La derrota ante los godos causó la muerte del emperador romano de Oriente
+Edad Media|Batalla del Yarmuk|636|Cercanías del río Yarmuk|Jálid ibn al-Walid|La victoria del califato sobre Bizancio facilitó la conquista de Siria
+Edad Media|Batalla de Talas|751|Valle del río Talas|Fuerzas del califato abasí|Una fuerza abasí se enfrentó a un ejército de la dinastía Tang
+Edad Media|Batalla de Hastings|1066|Battle, en el actual Sussex Oriental|Guillermo de Normandía|La derrota y muerte de Haroldo II abrió el camino a la conquista normanda
+Edad Media|Batalla de Manzikert|1071|Cerca del lago Van|Alp Arslan|Los selyúcidas capturaron al emperador bizantino Romano IV
+Edad Media|Batalla de Hattin|1187|Cuernos de Hattin, cerca del mar de Galilea|Saladino|La derrota cruzada facilitó la toma de Jerusalén por Saladino
+Edad Media|Batalla de las Navas de Tolosa|1212|Sierra Morena, en la actual Jaén|Alfonso VIII de Castilla|Una coalición cristiana derrotó al ejército almohade de al-Nasir
+Edad Media|Batalla de Ain Yalut|1260|Valle de Jezreel|Sultán Qutuz|Los mamelucos frenaron el avance mongol tras la toma de Bagdad
+Edad Media|Batalla de Bannockburn|1314|Cerca de Stirling|Roberto I de Escocia|El ejército escocés derrotó a Eduardo II de Inglaterra
+Edad Media|Batalla de Agincourt|1415|Azincourt, en el actual Paso de Calais|Enrique V de Inglaterra|Una fuerza inglesa en marcha hacia Calais venció en un campo embarrado
+Edad Media|Caída de Constantinopla|1453|Bósforo y Cuerno de Oro|Mehmed II|La conquista otomana acabó con el Imperio bizantino
+Edad Moderna|Batalla de Panipat (primera)|1526|Llanura al norte de Delhi|Babur|La derrota de Ibrahim Lodi sentó las bases del Imperio mogol
+Edad Moderna|Batalla de Lepanto|1571|Golfo de Patras|Juan de Austria|La flota de la Liga Santa derrotó a la otomana en un combate de galeras
+Edad Moderna|Batalla de Sekigahara|1600|Actual prefectura de Gifu|Tokugawa Ieyasu|La victoria de Tokugawa allanó el camino para su shogunato
+Edad Moderna|Batalla de la Montaña Blanca|1620|Afueras de Praga|Conde de Tilly|Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios
+Edad Moderna|Batalla de Rocroi|1643|Ardenas francesas|Luis de Borbón, duque de Enghien|El ejército francés derrotó al ejército de Flandes
+Edad Moderna|Batalla de Viena contra el asedio otomano|1683|Colina del Kahlenberg y alrededores de Viena|Juan III Sobieski|Un ejército de socorro levantó el sitio otomano de la capital de los Habsburgo
+Edad Moderna|Batalla de Plassey|1757|Bengala|Robert Clive|La Compañía de las Indias Orientales derrotó al nawab Siraj ud-Daulah
+Edad Moderna|Sitio de Yorktown|1781|Península de Virginia|Charles Cornwallis|La fuerza británica se rindió ante el asedio franco-estadounidense
+Siglo XIX|Batalla de Trafalgar|1805|Frente al cabo Trafalgar|Horatio Nelson|La flota británica derrotó a la combinada franco-española
+Siglo XIX|Batalla de Bailén|1808|Provincia de Jaén|Francisco Javier Castaños|El ejército francés de Dupont capituló ante fuerzas españolas
+Siglo XIX|Batalla de Waterloo|1815|Cerca de Mont-Saint-Jean, en la actual Bélgica|Duque de Wellington|La derrota francesa puso fin a los Cien Días
+Siglo XIX|Batalla de Ayacucho|1824|Pampa de la Quinua|Antonio José de Sucre|La capitulación realista consolidó la independencia del Perú
+Siglo XIX|Batalla de Gettysburg|1863|Pensilvania|George G. Meade|El ejército de la Unión detuvo la invasión confederada de Pensilvania
+Siglo XIX|Batalla de Adúa|1896|Región de Tigray|Menelik II|Etiopía derrotó al ejército italiano y afianzó su independencia
+Siglo XX|Batalla de Tsushima|1905|Estrecho de Corea|Tōgō Heihachirō|La flota japonesa derrotó a la escuadra rusa llegada desde el Báltico
+Siglo XX|Batalla del Ebro|1938|Curso bajo del Ebro|Ejército republicano español|Una gran ofensiva republicana cruzó el río y acabó en retirada
+Siglo XX|Batalla de Midway|1942|Cercanías del atolón de Midway|Chester Nimitz|Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal
+Siglo XX|Batalla de Dien Bien Phu|1954|Noroeste de Vietnam|Võ Nguyên Giáp|La derrota de la guarnición francesa precipitó el fin de la guerra de Indochina
+Siglo XX|Batalla de Inchon|1950|Costa occidental de la península de Corea|Douglas MacArthur|Un desembarco de la ONU permitió recuperar Seúl poco después
+Antigüedad|Guerra del Peloponeso (431–404 a. C.)|431 a. C.|Grecia continental y mar Egeo|Liga del Peloponeso|La rendición de Atenas ante Esparta puso fin al conflicto
+Antigüedad|Segunda guerra púnica|218 a. C.|Mediterráneo occidental|República romana|La contienda comenzó tras la crisis de Sagunto y terminó con la derrota de Cartago
+Edad Media|Primera Cruzada|1096|Anatolia, Siria y Palestina|Godofredo de Bouillón|Los cruzados capturaron Jerusalén en 1099
+Edad Media|Guerra de los Cien Años|1337|Reino de Francia y áreas vecinas|Corona inglesa|La monarquía francesa recuperó casi todos los territorios continentales en manos inglesas
+Edad Moderna|Guerra de los Treinta Años|1618|Sacro Imperio Romano Germánico|Casa de Habsburgo|Los acuerdos de Westfalia pusieron fin al conflicto en 1648
+Edad Moderna|Guerra de los Siete Años (inicio convencional)|1756|Europa, Norteamérica, el Caribe y la India|Reino de Gran Bretaña|La guerra enfrentó, entre otros, a Prusia y Austria y a británicos y franceses
+Siglo XIX|Guerra de Crimea|1853|Mar Negro y península de Crimea|Imperio ruso|La coalición de Francia, Gran Bretaña, el Imperio otomano y Piamonte-Cerdeña asedió Sebastopol
+Siglo XX|Primera Guerra Mundial|1914|Europa, Oriente Próximo, África y otros frentes|Imperio alemán|El asesinato del archiduque Francisco Fernando desencadenó una crisis que desembocó en la guerra

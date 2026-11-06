@@ -1,0 +1,26 @@
+# Tema|Enunciado|Respuesta|Distractor 1|Distractor 2|Distractor 3|Explicación|Nivel
+Estrellas|¿En qué constelación está la estrella Sirio?|Can Mayor|Can Menor|Orión|Liebre|Sirio es Alfa del Can Mayor.|easy
+Estrellas|¿En qué constelación está la estrella Vega?|Lira|Cisne|Águila|Dragón|Vega es Alfa de la Lira.|easy
+Estrellas|¿En qué constelación se encuentra Polaris?|Osa Menor|Osa Mayor|Casiopea|Cefeo|Polaris es Alfa de la Osa Menor y se encuentra cerca del polo norte celeste.|easy
+Estrellas|¿Cuál de estas estrellas pertenece a Tauro?|Aldebarán|Antares|Régulo|Espiga|Aldebarán es Alfa de Tauro.|medium
+Estrellas|¿Cuál de estas estrellas pertenece al Escorpión?|Antares|Deneb|Capella|Arturo|Antares es Alfa del Escorpión.|medium
+Estrellas|¿Qué estrella marca uno de los hombros de Orión?|Betelgeuse|Rígel|Saiph|Alnilam|Betelgeuse marca un hombro; Rígel y Saiph están en la parte inferior de la figura.|medium
+Estrellas|¿Qué estrella del Cisne forma parte del Triángulo de Verano?|Deneb|Albireo|Sadr|Gienah|Deneb forma el triángulo con Vega y Altair.|medium
+Cúmulos|¿En qué constelación están las Pléyades?|Tauro|Géminis|Aries|Cáncer|Las Pléyades son el cúmulo abierto M45, en Tauro.|easy
+Galaxias|¿Qué número del catálogo Messier identifica la galaxia de Andrómeda?|M31|M33|M51|M81|M31 es Andrómeda; M33 es la galaxia del Triángulo.|hard
+Nebulosas|¿Qué clase de objeto es la Nebulosa del Cangrejo?|Remanente de supernova|Cúmulo globular|Galaxia elíptica|Disco protoplanetario|La nebulosa es el remanente de una explosión observada en 1054.|medium
+Observación|¿En qué constelación se encuentra la Gran Nebulosa M42?|Orión|Unicornio|Can Mayor|Tauro|M42 está en la región de la espada de Orión.|medium
+Observación|¿Cómo se llama el conjunto de estrellas popularmente conocido como el Carro, que forma parte de la Osa Mayor?|Asterismo|Cúmulo globular|Galaxia satélite|Sistema planetario|Un asterismo es una figura reconocible en el cielo. El Carro es parte de una constelación oficial.|easy
+Sistema solar|¿Qué planeta tiene el día sideral más largo, medido como una rotación respecto a las estrellas?|Venus|Mercurio|Marte|Saturno|Venus tarda unos 243 días terrestres en completar una rotación respecto a las estrellas.|hard
+Sistema solar|¿En qué planeta está el monte Olimpo, un volcán gigantesco?|Marte|Venus|Mercurio|Tierra|Olympus Mons se alza en Marte, cerca de la región de Tharsis.|easy
+Sistema solar|¿Qué planeta orbita el satélite Tritón?|Neptuno|Urano|Saturno|Júpiter|Tritón es una luna de Neptuno y describe una órbita retrógrada.|medium
+Sistema solar|¿Qué luna de Saturno tiene una atmósfera densa dominada por nitrógeno?|Titán|Encélado|Mimas|Jápeto|Titán tiene una atmósfera espesa rica en nitrógeno.|easy
+Sistema solar|¿En qué luna galileana se observa un vulcanismo particularmente intenso?|Ío|Europa|Ganímedes|Calisto|Las fuerzas de marea de Júpiter y otras lunas calientan el interior de Ío.|easy
+Sistema solar|¿Qué planeta enano orbita dentro del cinturón principal de asteroides?|Ceres|Plutón|Eris|Makemake|Ceres orbita entre Marte y Júpiter, en el cinturón principal.|easy
+Sistema solar|¿Cómo se llama la mayor luna de Plutón?|Caronte|Nix|Hidra|Estigia|Caronte es el mayor satélite de Plutón.|medium
+Sistema solar|¿Qué orientación aproximada tiene la cola de iones de un cometa activo?|Se aleja del Sol|Apunta al Sol|Apunta a la Tierra|Sigue siempre la trayectoria ya recorrida|El viento solar arrastra los iones en sentido aproximadamente opuesto al Sol.|medium
+Medición|¿Qué magnitud mide un año luz?|Distancia|Tiempo|Luminosidad|Velocidad|Un año luz es la distancia recorrida por la luz en un año juliano.|easy
+Medición|¿Qué fenómeno se mide comparando la posición aparente de una estrella cercana desde dos puntos de la órbita terrestre?|Paralaje estelar|Corrimiento gravitacional|Precesión terrestre|Rotación diferencial|El desplazamiento aparente por cambio de punto de observación permite calcular la distancia.|hard
+Exoplanetas|¿Qué señal busca el método de tránsito para detectar un exoplaneta?|Una caída periódica del brillo estelar|Una lluvia de meteoros en la Tierra|Una explosión de rayos gamma|Un aumento del brillo de la Luna|El planeta bloquea una fracción de la luz estelar al pasar por delante.|medium
+Estrellas|¿Qué proceso suministra la mayor parte de la energía del Sol en su núcleo?|Fusión de hidrógeno en helio|Fisión del uranio|Combustión de oxígeno|Desintegración de carbono radiactivo|La cadena protón-protón convierte hidrógeno en helio y libera energía.|easy
+Eclipses|¿Qué fase lunar es necesaria para que ocurra un eclipse de Luna?|Luna llena|Luna nueva|Cuarto creciente|Cuarto menguante|La Tierra debe quedar entre el Sol y la Luna, una alineación posible en luna llena.|easy

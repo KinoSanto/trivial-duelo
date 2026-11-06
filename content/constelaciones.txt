@@ -1,0 +1,51 @@
+# Nombre latino|Abreviatura UAI|Figura representada
+Andromeda|And|La princesa encadenada
+Antlia|Ant|La bomba de aire
+Apus|Aps|El ave del paraíso
+Aquarius|Aqr|El portador de agua
+Aquila|Aql|El águila
+Pegasus|Peg|El caballo alado
+Aries|Ari|El carnero
+Auriga|Aur|El cochero
+Boötes|Boo|El boyero
+Caelum|Cae|El buril
+Camelopardalis|Cam|La jirafa
+Cancer|Cnc|El cangrejo
+Canes Venatici|CVn|Los perros de caza
+Canis Major|CMa|El perro mayor
+Canis Minor|CMi|El perro menor
+Capricornus|Cap|La cabra marina
+Carina|Car|La quilla
+Centaurus|Cen|El centauro
+Chamaeleon|Cha|El camaleón
+Circinus|Cir|El compás
+Columba|Col|La paloma
+Coma Berenices|Com|La cabellera de Berenice
+Corona Australis|CrA|La corona austral
+Corona Borealis|CrB|La corona boreal
+Corvus|Crv|El cuervo
+Crater|Crt|La copa
+Crux|Cru|La cruz del sur
+Cygnus|Cyg|El cisne
+Delphinus|Del|El delfín
+Dorado|Dor|El dorado, un pez
+Draco|Dra|El dragón
+Equuleus|Equ|El caballito
+Eridanus|Eri|El río Erídano
+Fornax|For|El horno
+Gemini|Gem|Los gemelos
+Grus|Gru|La grulla
+Horologium|Hor|El reloj
+Hydra|Hya|La serpiente acuática
+Lacerta|Lac|La lagartija
+Phoenix|Phe|El ave fénix
+Libra|Lib|La balanza
+Lupus|Lup|El lobo
+Lynx|Lyn|El lince
+Lyra|Lyr|La lira
+Microscopium|Mic|El microscopio
+Musca|Mus|La mosca
+Octans|Oct|El octante
+Ophiuchus|Oph|El portador de la serpiente
+Pavo|Pav|El pavo real
+Pictor|Pic|El caballete del pintor

@@ -1,0 +1,26 @@
+# Misión|Lanzamiento|Responsable principal|Destino o ámbito|Hito
+Sputnik 1|1957|Unión Soviética|Órbita terrestre|Primer satélite artificial en órbita
+Luna 2|1959|Unión Soviética|Luna|Primer artefacto humano que alcanzó la superficie lunar
+Luna 3|1959|Unión Soviética|Luna|Primeras fotografías de la cara oculta lunar
+Vostok 1|1961|Unión Soviética|Órbita terrestre|Primer ser humano en órbita
+Vostok 6|1963|Unión Soviética|Órbita terrestre|Primera mujer en el espacio
+Mariner 4|1964|NASA|Marte|Primeras fotografías cercanas de Marte transmitidas a la Tierra
+Luna 9|1966|Unión Soviética|Luna|Primer alunizaje suave de una sonda
+Apollo 8|1968|NASA|Luna|Primera tripulación que orbitó la Luna
+Apollo 11|1969|NASA|Luna|Primer alunizaje tripulado
+Venera 7|1970|Unión Soviética|Venus|Primera transmisión desde la superficie de otro planeta
+Pioneer 10|1972|NASA|Júpiter|Primer sobrevuelo cercano de Júpiter
+Mariner 10|1973|NASA|Venus y Mercurio|Primer sobrevuelo de Mercurio
+Viking 1|1975|NASA|Marte|Primer aterrizaje estadounidense exitoso en Marte
+Voyager 2|1977|NASA|Júpiter, Saturno, Urano y Neptuno|Única sonda de su programa que visitó Urano y Neptuno
+Hipparcos|1989|ESA|Órbita terrestre|Mediciones de posición estelar reunidas en un catálogo publicado en 1997
+Hubble|1990|NASA y ESA|Órbita terrestre|Observatorio reparado por astronautas en 1993 para corregir su óptica
+Ulysses|1990|ESA y NASA|Regiones polares del Sol|Primera sonda dedicada a estudiar el Sol desde altas latitudes heliográficas
+SOHO|1995|ESA y NASA|Punto L1 del sistema Sol-Tierra|Vigilancia solar continua desde las inmediaciones de L1
+Mars Pathfinder|1996|NASA|Marte|Llevó el pequeño rover Sojourner
+Cassini-Huygens|1997|NASA, ESA y ASI|Saturno y Titán|Primer aterrizaje de una sonda en Titán
+Rosetta|2004|ESA|Cometa 67P/Churyumov-Gerasimenko|Desplegó el módulo de aterrizaje Philae
+New Horizons|2006|NASA|Plutón y Arrokoth|Primer sobrevuelo de Plutón
+Hayabusa2|2014|JAXA|Asteroide Ryugu|Devolvió muestras de Ryugu en 2020
+OSIRIS-REx|2016|NASA|Asteroide Bennu|Devolvió muestras de Bennu en 2023
+DART|2021|NASA|Dimorphos|Alteró la órbita de Dimorphos mediante un impacto deliberado
