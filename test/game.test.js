@@ -48,7 +48,7 @@ async function error(socket,event,payload) {
 
 test('complete matches of 10,20,30,40,50 questions with 2,3,4,6,8 players', {timeout:30000}, async()=>{
   await withServer(async({url,connect})=>{
-    assert.deepEqual(await (await fetch(url+'/health')).json(),{ok:true,persistent:false,questions:2380});
+    assert.deepEqual(await (await fetch(url+'/health')).json(),{ok:true,persistent:false,questions:2780});
     assert.equal((await fetch(url+'/questions.json')).status,404);
     const seen=new Set();
     for (const [total,count] of [[10,2],[20,3],[30,4],[40,6],[50,8]]) {
