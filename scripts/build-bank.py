@@ -218,5 +218,90 @@ for year, city, leader, event, question, athlete, extra, answer in olympics:
         add(sport_category, edition, f'{edition} · {extra}', answer,
             olympic_extras[year], f'{edition}: {answer}.', 'hard')
 
+astronomy_category = 'Constelaciones y Astronomía'
+constellations = source_rows('constelaciones.txt')
+for name, abbreviation, figure in constellations:
+    add(astronomy_category, 'Constelaciones',
+        f'¿Cuál es la abreviatura oficial de la constelación {name}?', abbreviation,
+        alternatives(abbreviation, [row[1] for row in constellations]),
+        f'La Unión Astronómica Internacional abrevia {name} como {abbreviation}.', 'hard')
+    add(astronomy_category, 'Constelaciones',
+        f'¿Qué figura da nombre a la constelación {name}?', figure,
+        alternatives(figure, [row[2] for row in constellations]),
+        f'{name} representa esta figura: {figure.lower()}.', 'medium')
+
+missions = source_rows('misiones.txt')
+for name, year, _, target, milestone in missions:
+    for index, question, answer, level in [
+        (1, f'¿En qué año se lanzó la misión {name}?', year, 'hard'),
+        (3, f'¿Cuál fue el destino o ámbito de observación principal de {name}?', target, 'medium'),
+        (4, f'¿Qué hito corresponde a la misión {name}?', milestone, 'medium')
+    ]:
+        peers = [row[index] for row in missions]
+        if index == 3:
+            # Keep combinations and their component destinations out of the same question.
+            peers = [value for value in peers if value not in answer and answer not in value]
+        add(astronomy_category, 'Exploración espacial', question, answer,
+            alternatives(answer, peers), f'{name}: {answer}.', level)
+
+for topic, question, answer, a, b, c, explanation, level in source_rows('astronomia.txt'):
+    add(astronomy_category, topic, question, answer, [a,b,c], explanation, level)
+
+war_category = 'Historia Bélica'
+conflicts = source_rows('belica.txt')
+for era, event, year, location, figure, description in conflicts:
+    peers = [row for row in conflicts if row[0] == era]
+    war_ends = {
+        'Guerra del Peloponeso (431–404 a. C.)': '404 a. C.',
+        'Segunda guerra púnica': '201 a. C.',
+        'Primera Cruzada': '1099',
+        'Guerra de los Cien Años': '1453',
+        'Guerra de los Treinta Años': '1648',
+        'Guerra de los Siete Años (inicio convencional)': '1763',
+        'Guerra de Crimea': '1856',
+        'Primera Guerra Mundial': '1918',
+    }
+    end = war_ends.get(event)
+    label = event.split(' (431')[0]
+    year_question = (f'{label} · ¿En qué año comenzó?' if end
+                     else f'{label} · ¿En qué año tuvo lugar?')
+    add(war_category, era, year_question, year,
+        alternatives(year, [row[2] for row in peers]), f'{event}: {year}.', 'hard')
+    if end:
+        other_ends = [value for value in war_ends.values() if ('a. C.' in value) == ('a. C.' in end)]
+        year_peers = other_ends + [row[2] for row in peers if ('a. C.' in row[2]) == ('a. C.' in end)]
+        end_question = ('¿En qué año se firmó el armisticio de Compiègne?' if event == 'Primera Guerra Mundial'
+                        else '¿En qué año terminó el conflicto?')
+        add(war_category, era, f'{label} · {end_question}', end,
+            alternatives(end, year_peers), f'{label}: {end}.', 'medium')
+    else:
+        add(war_category, era, f'{label} · ¿En qué lugar tuvo lugar?', location,
+            alternatives(location, [row[3] for row in peers if row[1] not in war_ends]),
+            f'{label}: {location}.', 'medium')
+    for index, question, answer, level in [
+        (4, '¿Qué figura o fuerza participó directamente en este acontecimiento?', figure, 'medium'),
+        (5, '¿Qué descripción corresponde a este acontecimiento?', description, 'easy')
+    ]:
+        # The same person may have fought in other battles of the same era.
+        # Ask about a particular side or use a distinct role instead of a second valid participant.
+        options = [row[index] for row in peers]
+        if index == 4:
+            exclusions = {
+                'Batalla de Maratón': ['Temístocles'],
+                'Batalla de Gaugamela': ['Darío III'],
+                'Batalla del Hidaspes': ['Alejandro Magno'],
+                'Batalla de Zama': ['Aníbal Barca'],
+                'Batalla de Cannas': ['Escipión el Africano'],
+                'Segunda guerra púnica': ['Aníbal Barca', 'Escipión el Africano'],
+                'Batalla de las Termópilas': ['Temístocles', 'Pausanias de Esparta'],
+                'Batalla de Waterloo': ['Napoleón Bonaparte'],
+                'Guerra de los Cien Años': ['Enrique V de Inglaterra'],
+                'Batalla de Agincourt': ['Corona inglesa'],
+                'Guerra de los Treinta Años': ['Conde de Tilly'],
+            }
+            options = [value for value in options if value not in exclusions.get(event, [])]
+        add(war_category, era, f'{label} · {question}', answer,
+            alternatives(answer, options), f'{event}: {answer}.', level)
+
 (ROOT/'questions.json').write_text(json.dumps(bank,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'{len(bank)} preguntas generadas')
