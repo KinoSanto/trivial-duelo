@@ -35898,5 +35898,6005 @@
     ],
     "correct": 3,
     "explanation": "Juegos Olímpicos de verano 2024: Sena."
+  },
+  {
+    "id": "adb48fdebbe505a8b13c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Andromeda?",
+    "options": [
+      "And",
+      "Boo",
+      "Mic",
+      "Aql"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Andromeda como And."
+  },
+  {
+    "id": "ccceb32f3f0c58936729",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Andromeda?",
+    "options": [
+      "Los perros de caza",
+      "El dragón",
+      "La princesa encadenada",
+      "La jirafa"
+    ],
+    "correct": 2,
+    "explanation": "Andromeda representa esta figura: la princesa encadenada."
+  },
+  {
+    "id": "875c7957664c4e05a205",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Antlia?",
+    "options": [
+      "Com",
+      "Pav",
+      "For",
+      "Ant"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Antlia como Ant."
+  },
+  {
+    "id": "c77794fe86b8e88b6c9a",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Antlia?",
+    "options": [
+      "La lira",
+      "El centauro",
+      "La bomba de aire",
+      "La quilla"
+    ],
+    "correct": 2,
+    "explanation": "Antlia representa esta figura: la bomba de aire."
+  },
+  {
+    "id": "bbb26786d13173852340",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Apus?",
+    "options": [
+      "Hya",
+      "Aps",
+      "Lac",
+      "Phe"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Apus como Aps."
+  },
+  {
+    "id": "539f08cd4e48e85d0796",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Apus?",
+    "options": [
+      "El portador de agua",
+      "El ave del paraíso",
+      "La balanza",
+      "El ave fénix"
+    ],
+    "correct": 1,
+    "explanation": "Apus representa esta figura: el ave del paraíso."
+  },
+  {
+    "id": "8373b63dda264f317b55",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Aquarius?",
+    "options": [
+      "Lup",
+      "Ant",
+      "Aqr",
+      "CrA"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Aquarius como Aqr."
+  },
+  {
+    "id": "7cb59f866d20fbfdc382",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Aquarius?",
+    "options": [
+      "El portador de agua",
+      "La copa",
+      "El delfín",
+      "El dorado, un pez"
+    ],
+    "correct": 0,
+    "explanation": "Aquarius representa esta figura: el portador de agua."
+  },
+  {
+    "id": "0f621f9063ac76364851",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Aquila?",
+    "options": [
+      "Eri",
+      "Aql",
+      "Cnc",
+      "Aur"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Aquila como Aql."
+  },
+  {
+    "id": "1c91485d00050994fcc8",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Aquila?",
+    "options": [
+      "La lagartija",
+      "El lobo",
+      "La corona austral",
+      "El águila"
+    ],
+    "correct": 3,
+    "explanation": "Aquila representa esta figura: el águila."
+  },
+  {
+    "id": "000b05a9e975eb4d1e03",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Pegasus?",
+    "options": [
+      "Aps",
+      "Gem",
+      "Pic",
+      "Peg"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Pegasus como Peg."
+  },
+  {
+    "id": "38b9fbf09b1dc8e8826f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Pegasus?",
+    "options": [
+      "La balanza",
+      "El caballo alado",
+      "La bomba de aire",
+      "El cisne"
+    ],
+    "correct": 1,
+    "explanation": "Pegasus representa esta figura: el caballo alado."
+  },
+  {
+    "id": "8fdf6e0223b9db17018e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Aries?",
+    "options": [
+      "Cam",
+      "Cen",
+      "Aql",
+      "Ari"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Aries como Ari."
+  },
+  {
+    "id": "75e180c493d038e3c91e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Aries?",
+    "options": [
+      "El águila",
+      "El carnero",
+      "La cabellera de Berenice",
+      "El buril"
+    ],
+    "correct": 1,
+    "explanation": "Aries representa esta figura: el carnero."
+  },
+  {
+    "id": "de9fc532a19be233e938",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Auriga?",
+    "options": [
+      "Aqr",
+      "Cru",
+      "Aur",
+      "Del"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Auriga como Aur."
+  },
+  {
+    "id": "89ab9f181f824f700bf7",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Auriga?",
+    "options": [
+      "El cochero",
+      "El portador de la serpiente",
+      "El cangrejo",
+      "La copa"
+    ],
+    "correct": 0,
+    "explanation": "Auriga representa esta figura: el cochero."
+  },
+  {
+    "id": "db20578196f67c501d09",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Boötes?",
+    "options": [
+      "Pic",
+      "Mic",
+      "Dor",
+      "Boo"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Boötes como Boo."
+  },
+  {
+    "id": "83db93dc6fbdc1936865",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Boötes?",
+    "options": [
+      "El boyero",
+      "La lagartija",
+      "La balanza",
+      "La bomba de aire"
+    ],
+    "correct": 0,
+    "explanation": "Boötes representa esta figura: el boyero."
+  },
+  {
+    "id": "d9a16a58045d4359f577",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Caelum?",
+    "options": [
+      "Phe",
+      "Cir",
+      "Cae",
+      "Aql"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Caelum como Cae."
+  },
+  {
+    "id": "31d9f92adbefe2480166",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Caelum?",
+    "options": [
+      "El camaleón",
+      "El buril",
+      "El boyero",
+      "La princesa encadenada"
+    ],
+    "correct": 1,
+    "explanation": "Caelum representa esta figura: el buril."
+  },
+  {
+    "id": "7d9a3bb8a3bd5f11bf21",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Camelopardalis?",
+    "options": [
+      "Equ",
+      "Peg",
+      "Cam",
+      "CMi"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Camelopardalis como Cam."
+  },
+  {
+    "id": "0ffa4ad84c8d218c976f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Camelopardalis?",
+    "options": [
+      "La jirafa",
+      "La grulla",
+      "El buril",
+      "El boyero"
+    ],
+    "correct": 0,
+    "explanation": "Camelopardalis representa esta figura: la jirafa."
+  },
+  {
+    "id": "561e5e2169c3a8ea4a36",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Cancer?",
+    "options": [
+      "Phe",
+      "Com",
+      "Cnc",
+      "Cir"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Cancer como Cnc."
+  },
+  {
+    "id": "93884f70e0d018ff13bf",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Cancer?",
+    "options": [
+      "El cangrejo",
+      "La cabellera de Berenice",
+      "La mosca",
+      "El camaleón"
+    ],
+    "correct": 0,
+    "explanation": "Cancer representa esta figura: el cangrejo."
+  },
+  {
+    "id": "4d8225f7e63fdd9f6ccc",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Canes Venatici?",
+    "options": [
+      "Gem",
+      "CVn",
+      "Mus",
+      "Dra"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Canes Venatici como CVn."
+  },
+  {
+    "id": "b5bd52d0889d27cfaf60",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Canes Venatici?",
+    "options": [
+      "La lira",
+      "La jirafa",
+      "Los perros de caza",
+      "El buril"
+    ],
+    "correct": 2,
+    "explanation": "Canes Venatici representa esta figura: los perros de caza."
+  },
+  {
+    "id": "a811747ea94661d2fcae",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Canis Major?",
+    "options": [
+      "Cnc",
+      "CMa",
+      "CrA",
+      "Aql"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Canis Major como CMa."
+  },
+  {
+    "id": "f825a38e07387b86eba9",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Canis Major?",
+    "options": [
+      "La princesa encadenada",
+      "El lince",
+      "El perro mayor",
+      "La copa"
+    ],
+    "correct": 2,
+    "explanation": "Canis Major representa esta figura: el perro mayor."
+  },
+  {
+    "id": "b252594758a5c444134f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Canis Minor?",
+    "options": [
+      "CMa",
+      "Col",
+      "CMi",
+      "Cae"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Canis Minor como CMi."
+  },
+  {
+    "id": "a0f585db794b49fb98c5",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Canis Minor?",
+    "options": [
+      "El perro menor",
+      "El cochero",
+      "El buril",
+      "El caballo alado"
+    ],
+    "correct": 0,
+    "explanation": "Canis Minor representa esta figura: el perro menor."
+  },
+  {
+    "id": "fc58db034653f60ff82f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Capricornus?",
+    "options": [
+      "Lib",
+      "Mic",
+      "Cap",
+      "Aur"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Capricornus como Cap."
+  },
+  {
+    "id": "285b62c9fbeb1246267e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Capricornus?",
+    "options": [
+      "El dorado, un pez",
+      "La bomba de aire",
+      "La cabra marina",
+      "El carnero"
+    ],
+    "correct": 2,
+    "explanation": "Capricornus representa esta figura: la cabra marina."
+  },
+  {
+    "id": "3f08e421046c33742408",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Carina?",
+    "options": [
+      "Cam",
+      "Cap",
+      "Car",
+      "Col"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Carina como Car."
+  },
+  {
+    "id": "42b247ee2d4b984134a1",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Carina?",
+    "options": [
+      "La quilla",
+      "La jirafa",
+      "El cuervo",
+      "El perro mayor"
+    ],
+    "correct": 0,
+    "explanation": "Carina representa esta figura: la quilla."
+  },
+  {
+    "id": "3b9eced60643217afbb8",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Centaurus?",
+    "options": [
+      "Cen",
+      "CVn",
+      "And",
+      "Aqr"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Centaurus como Cen."
+  },
+  {
+    "id": "7f46f2062201ff6b3838",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Centaurus?",
+    "options": [
+      "La copa",
+      "El boyero",
+      "El centauro",
+      "La princesa encadenada"
+    ],
+    "correct": 2,
+    "explanation": "Centaurus representa esta figura: el centauro."
+  },
+  {
+    "id": "33fee8a587d86f2a10a5",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Chamaeleon?",
+    "options": [
+      "Cha",
+      "Mus",
+      "Cen",
+      "Lac"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Chamaeleon como Cha."
+  },
+  {
+    "id": "4cff4398d8b65a23ef7d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Chamaeleon?",
+    "options": [
+      "El camaleón",
+      "El río Erídano",
+      "La grulla",
+      "El reloj"
+    ],
+    "correct": 0,
+    "explanation": "Chamaeleon representa esta figura: el camaleón."
+  },
+  {
+    "id": "934b16f77433b4187f88",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Circinus?",
+    "options": [
+      "Dra",
+      "Cir",
+      "Del",
+      "Lib"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Circinus como Cir."
+  },
+  {
+    "id": "1dc2afbb0883b7491760",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Circinus?",
+    "options": [
+      "El cuervo",
+      "El compás",
+      "El río Erídano",
+      "Los perros de caza"
+    ],
+    "correct": 1,
+    "explanation": "Circinus representa esta figura: el compás."
+  },
+  {
+    "id": "fdbcaa2d646f2e2cca2f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Columba?",
+    "options": [
+      "Col",
+      "Cyg",
+      "Peg",
+      "Cap"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Columba como Col."
+  },
+  {
+    "id": "893d62208eab7f43942d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Columba?",
+    "options": [
+      "El buril",
+      "La paloma",
+      "El reloj",
+      "El centauro"
+    ],
+    "correct": 1,
+    "explanation": "Columba representa esta figura: la paloma."
+  },
+  {
+    "id": "6b25ce28326647f3f179",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Coma Berenices?",
+    "options": [
+      "Com",
+      "Mic",
+      "CrB",
+      "Pic"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Coma Berenices como Com."
+  },
+  {
+    "id": "77203fe8bf9d0b41c8d4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Coma Berenices?",
+    "options": [
+      "La cabellera de Berenice",
+      "La cabra marina",
+      "La serpiente acuática",
+      "El perro menor"
+    ],
+    "correct": 0,
+    "explanation": "Coma Berenices representa esta figura: la cabellera de berenice."
+  },
+  {
+    "id": "068985fbaa729da34af0",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Corona Australis?",
+    "options": [
+      "Ari",
+      "CrA",
+      "Com",
+      "Crv"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Corona Australis como CrA."
+  },
+  {
+    "id": "49ef7b5501a8aab5c1d0",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Corona Australis?",
+    "options": [
+      "La corona austral",
+      "El reloj",
+      "La balanza",
+      "La serpiente acuática"
+    ],
+    "correct": 0,
+    "explanation": "Corona Australis representa esta figura: la corona austral."
+  },
+  {
+    "id": "3b56849fa48943f44010",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Corona Borealis?",
+    "options": [
+      "CVn",
+      "Oct",
+      "Crt",
+      "CrB"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Corona Borealis como CrB."
+  },
+  {
+    "id": "fc7ff58c41b24ec0f07a",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Corona Borealis?",
+    "options": [
+      "La paloma",
+      "El cangrejo",
+      "La corona boreal",
+      "El centauro"
+    ],
+    "correct": 2,
+    "explanation": "Corona Borealis representa esta figura: la corona boreal."
+  },
+  {
+    "id": "02687ea85b58da3b35ea",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Corvus?",
+    "options": [
+      "Pic",
+      "Cen",
+      "Crv",
+      "Cnc"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Corvus como Crv."
+  },
+  {
+    "id": "0b2e6f64a1eceb073282",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Corvus?",
+    "options": [
+      "La quilla",
+      "La princesa encadenada",
+      "El ave fénix",
+      "El cuervo"
+    ],
+    "correct": 3,
+    "explanation": "Corvus representa esta figura: el cuervo."
+  },
+  {
+    "id": "18dd96b947b50e0c14bc",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Crater?",
+    "options": [
+      "Crt",
+      "Cha",
+      "Crv",
+      "Lyr"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Crater como Crt."
+  },
+  {
+    "id": "8d6286498c8034b104b4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Crater?",
+    "options": [
+      "La lagartija",
+      "La copa",
+      "La grulla",
+      "La jirafa"
+    ],
+    "correct": 1,
+    "explanation": "Crater representa esta figura: la copa."
+  },
+  {
+    "id": "69ad59ee4eb937300268",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Crux?",
+    "options": [
+      "Lyn",
+      "CrA",
+      "Col",
+      "Cru"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Crux como Cru."
+  },
+  {
+    "id": "bd62f6eb2bc4f5c6fb5d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Crux?",
+    "options": [
+      "El lobo",
+      "La corona boreal",
+      "El dragón",
+      "La cruz del sur"
+    ],
+    "correct": 3,
+    "explanation": "Crux representa esta figura: la cruz del sur."
+  },
+  {
+    "id": "a9f5f145070058d88c2e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Cygnus?",
+    "options": [
+      "Cyg",
+      "CrA",
+      "Cap",
+      "Dra"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Cygnus como Cyg."
+  },
+  {
+    "id": "63f75733566fd1b061d2",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Cygnus?",
+    "options": [
+      "El cochero",
+      "La serpiente acuática",
+      "La copa",
+      "El cisne"
+    ],
+    "correct": 3,
+    "explanation": "Cygnus representa esta figura: el cisne."
+  },
+  {
+    "id": "d70f4095ad6c07dee3e0",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Delphinus?",
+    "options": [
+      "Lup",
+      "Cir",
+      "Aqr",
+      "Del"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Delphinus como Del."
+  },
+  {
+    "id": "a526466412d4c85d7bfb",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Delphinus?",
+    "options": [
+      "La grulla",
+      "El cuervo",
+      "La cruz del sur",
+      "El delfín"
+    ],
+    "correct": 3,
+    "explanation": "Delphinus representa esta figura: el delfín."
+  },
+  {
+    "id": "68bb544ff068aee86e6e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Dorado?",
+    "options": [
+      "Dor",
+      "Cnc",
+      "Eri",
+      "Cam"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Dorado como Dor."
+  },
+  {
+    "id": "a7f6b26ff069fc999d7b",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Dorado?",
+    "options": [
+      "Los perros de caza",
+      "El dorado, un pez",
+      "El águila",
+      "La princesa encadenada"
+    ],
+    "correct": 1,
+    "explanation": "Dorado representa esta figura: el dorado, un pez."
+  },
+  {
+    "id": "c278b30f3622fa76c8bd",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Draco?",
+    "options": [
+      "Boo",
+      "Gru",
+      "Dra",
+      "Lup"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Draco como Dra."
+  },
+  {
+    "id": "9dcbfbe4029ef70eecb7",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Draco?",
+    "options": [
+      "El perro menor",
+      "El dragón",
+      "Los perros de caza",
+      "El cangrejo"
+    ],
+    "correct": 1,
+    "explanation": "Draco representa esta figura: el dragón."
+  },
+  {
+    "id": "692de85e8f0aee7a1a16",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Equuleus?",
+    "options": [
+      "Crv",
+      "Equ",
+      "Ari",
+      "Cae"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Equuleus como Equ."
+  },
+  {
+    "id": "d7a0738387aab87ea4cb",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Equuleus?",
+    "options": [
+      "Los perros de caza",
+      "La quilla",
+      "El caballito",
+      "El portador de la serpiente"
+    ],
+    "correct": 2,
+    "explanation": "Equuleus representa esta figura: el caballito."
+  },
+  {
+    "id": "c8fea37a460cf963c7eb",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Eridanus?",
+    "options": [
+      "Peg",
+      "Cha",
+      "Hor",
+      "Eri"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Eridanus como Eri."
+  },
+  {
+    "id": "c95ff875b948cf484285",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Eridanus?",
+    "options": [
+      "La mosca",
+      "El dragón",
+      "El río Erídano",
+      "El carnero"
+    ],
+    "correct": 2,
+    "explanation": "Eridanus representa esta figura: el río erídano."
+  },
+  {
+    "id": "bc54280a67b6e66c971a",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Fornax?",
+    "options": [
+      "Ari",
+      "Car",
+      "For",
+      "Cyg"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Fornax como For."
+  },
+  {
+    "id": "1f8f536990801728d44c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Fornax?",
+    "options": [
+      "La bomba de aire",
+      "El ave del paraíso",
+      "El perro mayor",
+      "El horno"
+    ],
+    "correct": 3,
+    "explanation": "Fornax representa esta figura: el horno."
+  },
+  {
+    "id": "e21f51b8391ee0a2802c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Gemini?",
+    "options": [
+      "Lyn",
+      "Gem",
+      "Equ",
+      "Aqr"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Gemini como Gem."
+  },
+  {
+    "id": "9a4125fdbcca78f5d344",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Gemini?",
+    "options": [
+      "La bomba de aire",
+      "El dragón",
+      "La corona austral",
+      "Los gemelos"
+    ],
+    "correct": 3,
+    "explanation": "Gemini representa esta figura: los gemelos."
+  },
+  {
+    "id": "227de888b817695842d6",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Grus?",
+    "options": [
+      "Ant",
+      "CMi",
+      "Aur",
+      "Gru"
+    ],
+    "correct": 3,
+    "explanation": "La Unión Astronómica Internacional abrevia Grus como Gru."
+  },
+  {
+    "id": "5102394866da3bb0714a",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Grus?",
+    "options": [
+      "El carnero",
+      "La grulla",
+      "La bomba de aire",
+      "El cangrejo"
+    ],
+    "correct": 1,
+    "explanation": "Grus representa esta figura: la grulla."
+  },
+  {
+    "id": "7d940b27ef67a03a6fa4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Horologium?",
+    "options": [
+      "Com",
+      "Hor",
+      "Crv",
+      "Cam"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Horologium como Hor."
+  },
+  {
+    "id": "50704bf5e73d8071ae97",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Horologium?",
+    "options": [
+      "El portador de la serpiente",
+      "El boyero",
+      "El reloj",
+      "El centauro"
+    ],
+    "correct": 2,
+    "explanation": "Horologium representa esta figura: el reloj."
+  },
+  {
+    "id": "9697ef6b3ea8ce01909d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Hydra?",
+    "options": [
+      "Ant",
+      "Dra",
+      "Hya",
+      "CrA"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Hydra como Hya."
+  },
+  {
+    "id": "8561f899a9a44395512c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Hydra?",
+    "options": [
+      "La lira",
+      "El boyero",
+      "La serpiente acuática",
+      "El perro menor"
+    ],
+    "correct": 2,
+    "explanation": "Hydra representa esta figura: la serpiente acuática."
+  },
+  {
+    "id": "c47014f4ad27b0f21b0c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Lacerta?",
+    "options": [
+      "Lib",
+      "CrA",
+      "Lac",
+      "Aql"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Lacerta como Lac."
+  },
+  {
+    "id": "4d45dcbee49d286afacf",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Lacerta?",
+    "options": [
+      "La lagartija",
+      "El portador de agua",
+      "Los gemelos",
+      "El cangrejo"
+    ],
+    "correct": 0,
+    "explanation": "Lacerta representa esta figura: la lagartija."
+  },
+  {
+    "id": "79438ac3a9bb0a384231",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Phoenix?",
+    "options": [
+      "Oct",
+      "Ari",
+      "Phe",
+      "Crv"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Phoenix como Phe."
+  },
+  {
+    "id": "b4de10528c54b2a92902",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Phoenix?",
+    "options": [
+      "La balanza",
+      "El ave fénix",
+      "El cangrejo",
+      "El dragón"
+    ],
+    "correct": 1,
+    "explanation": "Phoenix representa esta figura: el ave fénix."
+  },
+  {
+    "id": "60ea131d32cdfecfaae9",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Libra?",
+    "options": [
+      "Lib",
+      "Car",
+      "CMi",
+      "Cam"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Libra como Lib."
+  },
+  {
+    "id": "1930cc37d04d6e83fb61",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Libra?",
+    "options": [
+      "El caballete del pintor",
+      "El cangrejo",
+      "La lagartija",
+      "La balanza"
+    ],
+    "correct": 3,
+    "explanation": "Libra representa esta figura: la balanza."
+  },
+  {
+    "id": "39554d25dd898854156c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Lupus?",
+    "options": [
+      "Car",
+      "Lup",
+      "CrB",
+      "Hya"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Lupus como Lup."
+  },
+  {
+    "id": "6442bf9b8af23bdaf781",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Lupus?",
+    "options": [
+      "El lobo",
+      "La corona boreal",
+      "El delfín",
+      "La cabra marina"
+    ],
+    "correct": 0,
+    "explanation": "Lupus representa esta figura: el lobo."
+  },
+  {
+    "id": "53de4444ee993e632fb7",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Lynx?",
+    "options": [
+      "Del",
+      "Aps",
+      "Lyn",
+      "Dra"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Lynx como Lyn."
+  },
+  {
+    "id": "d6500dd1d6cd26f60abe",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Lynx?",
+    "options": [
+      "La grulla",
+      "El buril",
+      "El lince",
+      "El reloj"
+    ],
+    "correct": 2,
+    "explanation": "Lynx representa esta figura: el lince."
+  },
+  {
+    "id": "f412f1982dd5c8c67e24",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Lyra?",
+    "options": [
+      "Lyr",
+      "Aql",
+      "Gru",
+      "Cru"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Lyra como Lyr."
+  },
+  {
+    "id": "00bfbca0d2c318257c1f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Lyra?",
+    "options": [
+      "El camaleón",
+      "El lince",
+      "La lira",
+      "El carnero"
+    ],
+    "correct": 2,
+    "explanation": "Lyra representa esta figura: la lira."
+  },
+  {
+    "id": "dcb6537f872054859777",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Microscopium?",
+    "options": [
+      "Mic",
+      "Mus",
+      "Aps",
+      "Lac"
+    ],
+    "correct": 0,
+    "explanation": "La Unión Astronómica Internacional abrevia Microscopium como Mic."
+  },
+  {
+    "id": "be641dccdf29df3a0f97",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Microscopium?",
+    "options": [
+      "El microscopio",
+      "El ave del paraíso",
+      "El dragón",
+      "El boyero"
+    ],
+    "correct": 0,
+    "explanation": "Microscopium representa esta figura: el microscopio."
+  },
+  {
+    "id": "40275248089e6ec02c4f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Musca?",
+    "options": [
+      "Com",
+      "Mus",
+      "Cru",
+      "Peg"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Musca como Mus."
+  },
+  {
+    "id": "f8c4ea6266ad961b948a",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Musca?",
+    "options": [
+      "La mosca",
+      "El portador de agua",
+      "El camaleón",
+      "El cuervo"
+    ],
+    "correct": 0,
+    "explanation": "Musca representa esta figura: la mosca."
+  },
+  {
+    "id": "307400a42cc51c382e35",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Octans?",
+    "options": [
+      "CrA",
+      "Eri",
+      "Oct",
+      "Pic"
+    ],
+    "correct": 2,
+    "explanation": "La Unión Astronómica Internacional abrevia Octans como Oct."
+  },
+  {
+    "id": "c4a73167f99ac3028720",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Octans?",
+    "options": [
+      "El río Erídano",
+      "El carnero",
+      "El cangrejo",
+      "El octante"
+    ],
+    "correct": 3,
+    "explanation": "Octans representa esta figura: el octante."
+  },
+  {
+    "id": "fcef93935fccf524926c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Ophiuchus?",
+    "options": [
+      "Cir",
+      "Oph",
+      "And",
+      "Cyg"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Ophiuchus como Oph."
+  },
+  {
+    "id": "07af441129c5038b2e30",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Ophiuchus?",
+    "options": [
+      "El carnero",
+      "La balanza",
+      "El cochero",
+      "El portador de la serpiente"
+    ],
+    "correct": 3,
+    "explanation": "Ophiuchus representa esta figura: el portador de la serpiente."
+  },
+  {
+    "id": "f46cd17f2dad33c198d9",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Pavo?",
+    "options": [
+      "Aps",
+      "Pav",
+      "Lyr",
+      "For"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Pavo como Pav."
+  },
+  {
+    "id": "9027b489c372ef6e8ccb",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Pavo?",
+    "options": [
+      "El portador de agua",
+      "El carnero",
+      "El pavo real",
+      "El boyero"
+    ],
+    "correct": 2,
+    "explanation": "Pavo representa esta figura: el pavo real."
+  },
+  {
+    "id": "27bb4ab6afb3cd4cdd84",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "hard",
+    "text": "¿Cuál es la abreviatura oficial de la constelación Pictor?",
+    "options": [
+      "Boo",
+      "Pic",
+      "Dra",
+      "Phe"
+    ],
+    "correct": 1,
+    "explanation": "La Unión Astronómica Internacional abrevia Pictor como Pic."
+  },
+  {
+    "id": "8901885f25ab200532ac",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Constelaciones",
+    "difficulty": "medium",
+    "text": "¿Qué figura da nombre a la constelación Pictor?",
+    "options": [
+      "El caballete del pintor",
+      "La balanza",
+      "El pavo real",
+      "La paloma"
+    ],
+    "correct": 0,
+    "explanation": "Pictor representa esta figura: el caballete del pintor."
+  },
+  {
+    "id": "138c6da4420618e5c5cc",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Sputnik 1?",
+    "options": [
+      "1966",
+      "2014",
+      "1972",
+      "1957"
+    ],
+    "correct": 3,
+    "explanation": "Sputnik 1: 1957."
+  },
+  {
+    "id": "f02b392779c5da8d8c7d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Sputnik 1?",
+    "options": [
+      "Regiones polares del Sol",
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Órbita terrestre",
+      "Dimorphos"
+    ],
+    "correct": 2,
+    "explanation": "Sputnik 1: Órbita terrestre."
+  },
+  {
+    "id": "df6c774e4161c07596b4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Sputnik 1?",
+    "options": [
+      "Devolvió muestras de Ryugu en 2020",
+      "Observatorio reparado por astronautas en 1993 para corregir su óptica",
+      "Mediciones de posición estelar reunidas en un catálogo publicado en 1997",
+      "Primer satélite artificial en órbita"
+    ],
+    "correct": 3,
+    "explanation": "Sputnik 1: Primer satélite artificial en órbita."
+  },
+  {
+    "id": "aca301081ba2f12bce87",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Luna 2?",
+    "options": [
+      "2014",
+      "2021",
+      "1959",
+      "1970"
+    ],
+    "correct": 2,
+    "explanation": "Luna 2: 1959."
+  },
+  {
+    "id": "83cfe12fe2c1d9bcba72",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Luna 2?",
+    "options": [
+      "Asteroide Ryugu",
+      "Júpiter",
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Luna"
+    ],
+    "correct": 3,
+    "explanation": "Luna 2: Luna."
+  },
+  {
+    "id": "0b43d3644c39d5af3c9d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Luna 2?",
+    "options": [
+      "Observatorio reparado por astronautas en 1993 para corregir su óptica",
+      "Primer aterrizaje de una sonda en Titán",
+      "Vigilancia solar continua desde las inmediaciones de L1",
+      "Primer artefacto humano que alcanzó la superficie lunar"
+    ],
+    "correct": 3,
+    "explanation": "Luna 2: Primer artefacto humano que alcanzó la superficie lunar."
+  },
+  {
+    "id": "255b6257ee983276aa16",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Luna 3?",
+    "options": [
+      "2016",
+      "1975",
+      "2006",
+      "1959"
+    ],
+    "correct": 3,
+    "explanation": "Luna 3: 1959."
+  },
+  {
+    "id": "b286de320be392425e53",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Luna 3?",
+    "options": [
+      "Asteroide Bennu",
+      "Luna",
+      "Punto L1 del sistema Sol-Tierra",
+      "Asteroide Ryugu"
+    ],
+    "correct": 1,
+    "explanation": "Luna 3: Luna."
+  },
+  {
+    "id": "f2a2a716c949882ae8ae",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Luna 3?",
+    "options": [
+      "Primer aterrizaje estadounidense exitoso en Marte",
+      "Observatorio reparado por astronautas en 1993 para corregir su óptica",
+      "Primeras fotografías de la cara oculta lunar",
+      "Primera tripulación que orbitó la Luna"
+    ],
+    "correct": 2,
+    "explanation": "Luna 3: Primeras fotografías de la cara oculta lunar."
+  },
+  {
+    "id": "bf574f66e77ff31513e3",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Vostok 1?",
+    "options": [
+      "1989",
+      "2006",
+      "1961",
+      "1977"
+    ],
+    "correct": 2,
+    "explanation": "Vostok 1: 1961."
+  },
+  {
+    "id": "f392c60e7814892b28e6",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Vostok 1?",
+    "options": [
+      "Punto L1 del sistema Sol-Tierra",
+      "Regiones polares del Sol",
+      "Venus",
+      "Órbita terrestre"
+    ],
+    "correct": 3,
+    "explanation": "Vostok 1: Órbita terrestre."
+  },
+  {
+    "id": "820e777776cccc21580a",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Vostok 1?",
+    "options": [
+      "Observatorio reparado por astronautas en 1993 para corregir su óptica",
+      "Primer ser humano en órbita",
+      "Primer sobrevuelo de Plutón",
+      "Primer artefacto humano que alcanzó la superficie lunar"
+    ],
+    "correct": 1,
+    "explanation": "Vostok 1: Primer ser humano en órbita."
+  },
+  {
+    "id": "43fd5268adcb8a5cabec",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Vostok 6?",
+    "options": [
+      "1963",
+      "1961",
+      "1969",
+      "1997"
+    ],
+    "correct": 0,
+    "explanation": "Vostok 6: 1963."
+  },
+  {
+    "id": "7bd949dc86fa29e78404",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Vostok 6?",
+    "options": [
+      "Órbita terrestre",
+      "Luna",
+      "Asteroide Bennu",
+      "Regiones polares del Sol"
+    ],
+    "correct": 0,
+    "explanation": "Vostok 6: Órbita terrestre."
+  },
+  {
+    "id": "586e5ece0be06bda74b3",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Vostok 6?",
+    "options": [
+      "Desplegó el módulo de aterrizaje Philae",
+      "Primeras fotografías cercanas de Marte transmitidas a la Tierra",
+      "Primera mujer en el espacio",
+      "Mediciones de posición estelar reunidas en un catálogo publicado en 1997"
+    ],
+    "correct": 2,
+    "explanation": "Vostok 6: Primera mujer en el espacio."
+  },
+  {
+    "id": "e4a32032a59b2a13ef08",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Mariner 4?",
+    "options": [
+      "1990",
+      "1964",
+      "1977",
+      "1963"
+    ],
+    "correct": 1,
+    "explanation": "Mariner 4: 1964."
+  },
+  {
+    "id": "afa54ffd292a99a8f1a9",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Mariner 4?",
+    "options": [
+      "Marte",
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Órbita terrestre",
+      "Luna"
+    ],
+    "correct": 0,
+    "explanation": "Mariner 4: Marte."
+  },
+  {
+    "id": "b613cacc102f85218b46",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Mariner 4?",
+    "options": [
+      "Mediciones de posición estelar reunidas en un catálogo publicado en 1997",
+      "Primer sobrevuelo cercano de Júpiter",
+      "Vigilancia solar continua desde las inmediaciones de L1",
+      "Primeras fotografías cercanas de Marte transmitidas a la Tierra"
+    ],
+    "correct": 3,
+    "explanation": "Mariner 4: Primeras fotografías cercanas de Marte transmitidas a la Tierra."
+  },
+  {
+    "id": "d387e82b29eb15d29efc",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Luna 9?",
+    "options": [
+      "1966",
+      "2021",
+      "1957",
+      "2006"
+    ],
+    "correct": 0,
+    "explanation": "Luna 9: 1966."
+  },
+  {
+    "id": "b17d311f78e5e5368de4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Luna 9?",
+    "options": [
+      "Júpiter",
+      "Luna",
+      "Asteroide Ryugu",
+      "Asteroide Bennu"
+    ],
+    "correct": 1,
+    "explanation": "Luna 9: Luna."
+  },
+  {
+    "id": "3ac258f39669eccf670d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Luna 9?",
+    "options": [
+      "Primera transmisión desde la superficie de otro planeta",
+      "Primer artefacto humano que alcanzó la superficie lunar",
+      "Primer alunizaje suave de una sonda",
+      "Primeras fotografías cercanas de Marte transmitidas a la Tierra"
+    ],
+    "correct": 2,
+    "explanation": "Luna 9: Primer alunizaje suave de una sonda."
+  },
+  {
+    "id": "2274054f4c1fd4f37055",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Apollo 8?",
+    "options": [
+      "2006",
+      "1997",
+      "1990",
+      "1968"
+    ],
+    "correct": 3,
+    "explanation": "Apollo 8: 1968."
+  },
+  {
+    "id": "70b90914118c4f3c3115",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Apollo 8?",
+    "options": [
+      "Asteroide Ryugu",
+      "Luna",
+      "Marte",
+      "Júpiter"
+    ],
+    "correct": 1,
+    "explanation": "Apollo 8: Luna."
+  },
+  {
+    "id": "129f6eb6407329c721e2",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Apollo 8?",
+    "options": [
+      "Primera tripulación que orbitó la Luna",
+      "Primera sonda dedicada a estudiar el Sol desde altas latitudes heliográficas",
+      "Primer artefacto humano que alcanzó la superficie lunar",
+      "Primer alunizaje tripulado"
+    ],
+    "correct": 0,
+    "explanation": "Apollo 8: Primera tripulación que orbitó la Luna."
+  },
+  {
+    "id": "b1248194572efd1e90ec",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Apollo 11?",
+    "options": [
+      "1969",
+      "1996",
+      "1957",
+      "2021"
+    ],
+    "correct": 0,
+    "explanation": "Apollo 11: 1969."
+  },
+  {
+    "id": "fbf130a774cc9ed6e425",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Apollo 11?",
+    "options": [
+      "Regiones polares del Sol",
+      "Punto L1 del sistema Sol-Tierra",
+      "Luna",
+      "Plutón y Arrokoth"
+    ],
+    "correct": 2,
+    "explanation": "Apollo 11: Luna."
+  },
+  {
+    "id": "186ab4defce5628dc63e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Apollo 11?",
+    "options": [
+      "Primer alunizaje suave de una sonda",
+      "Observatorio reparado por astronautas en 1993 para corregir su óptica",
+      "Primer artefacto humano que alcanzó la superficie lunar",
+      "Primer alunizaje tripulado"
+    ],
+    "correct": 3,
+    "explanation": "Apollo 11: Primer alunizaje tripulado."
+  },
+  {
+    "id": "1785a8c436f7d07f79ce",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Venera 7?",
+    "options": [
+      "1970",
+      "1973",
+      "1968",
+      "1964"
+    ],
+    "correct": 0,
+    "explanation": "Venera 7: 1970."
+  },
+  {
+    "id": "c9e2fd6d050bc27830d6",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Venera 7?",
+    "options": [
+      "Punto L1 del sistema Sol-Tierra",
+      "Venus",
+      "Cometa 67P/Churyumov-Gerasimenko",
+      "Júpiter"
+    ],
+    "correct": 1,
+    "explanation": "Venera 7: Venus."
+  },
+  {
+    "id": "2fd56279dcb20acc6a14",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Venera 7?",
+    "options": [
+      "Devolvió muestras de Ryugu en 2020",
+      "Primera transmisión desde la superficie de otro planeta",
+      "Primer aterrizaje estadounidense exitoso en Marte",
+      "Vigilancia solar continua desde las inmediaciones de L1"
+    ],
+    "correct": 1,
+    "explanation": "Venera 7: Primera transmisión desde la superficie de otro planeta."
+  },
+  {
+    "id": "04fec140d540345718c1",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Pioneer 10?",
+    "options": [
+      "1972",
+      "1964",
+      "1997",
+      "1990"
+    ],
+    "correct": 0,
+    "explanation": "Pioneer 10: 1972."
+  },
+  {
+    "id": "d8a17fc826b703a4f260",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Pioneer 10?",
+    "options": [
+      "Dimorphos",
+      "Plutón y Arrokoth",
+      "Júpiter",
+      "Venus y Mercurio"
+    ],
+    "correct": 2,
+    "explanation": "Pioneer 10: Júpiter."
+  },
+  {
+    "id": "28d2947b6b77d0726200",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Pioneer 10?",
+    "options": [
+      "Primera mujer en el espacio",
+      "Primer aterrizaje estadounidense exitoso en Marte",
+      "Primer sobrevuelo cercano de Júpiter",
+      "Primeras fotografías de la cara oculta lunar"
+    ],
+    "correct": 2,
+    "explanation": "Pioneer 10: Primer sobrevuelo cercano de Júpiter."
+  },
+  {
+    "id": "96d9ee05d143e148a981",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Mariner 10?",
+    "options": [
+      "1975",
+      "1970",
+      "1973",
+      "1977"
+    ],
+    "correct": 2,
+    "explanation": "Mariner 10: 1973."
+  },
+  {
+    "id": "7a3bd7e357c6cfc9361c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Mariner 10?",
+    "options": [
+      "Órbita terrestre",
+      "Venus y Mercurio",
+      "Júpiter",
+      "Punto L1 del sistema Sol-Tierra"
+    ],
+    "correct": 1,
+    "explanation": "Mariner 10: Venus y Mercurio."
+  },
+  {
+    "id": "eb6229afc0b0127cf787",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Mariner 10?",
+    "options": [
+      "Primera transmisión desde la superficie de otro planeta",
+      "Primer sobrevuelo de Mercurio",
+      "Vigilancia solar continua desde las inmediaciones de L1",
+      "Observatorio reparado por astronautas en 1993 para corregir su óptica"
+    ],
+    "correct": 1,
+    "explanation": "Mariner 10: Primer sobrevuelo de Mercurio."
+  },
+  {
+    "id": "1f57f609374936b3ea55",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Viking 1?",
+    "options": [
+      "1961",
+      "1966",
+      "1964",
+      "1975"
+    ],
+    "correct": 3,
+    "explanation": "Viking 1: 1975."
+  },
+  {
+    "id": "2f004726bd99b667dfe0",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Viking 1?",
+    "options": [
+      "Marte",
+      "Luna",
+      "Saturno y Titán",
+      "Venus y Mercurio"
+    ],
+    "correct": 0,
+    "explanation": "Viking 1: Marte."
+  },
+  {
+    "id": "91b376f31ca9956d5685",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Viking 1?",
+    "options": [
+      "Primer artefacto humano que alcanzó la superficie lunar",
+      "Devolvió muestras de Ryugu en 2020",
+      "Primer aterrizaje estadounidense exitoso en Marte",
+      "Primer aterrizaje de una sonda en Titán"
+    ],
+    "correct": 2,
+    "explanation": "Viking 1: Primer aterrizaje estadounidense exitoso en Marte."
+  },
+  {
+    "id": "d69e369618be12a13c22",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Voyager 2?",
+    "options": [
+      "1963",
+      "1964",
+      "1966",
+      "1977"
+    ],
+    "correct": 3,
+    "explanation": "Voyager 2: 1977."
+  },
+  {
+    "id": "eee32a55f26cf0ed5826",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Voyager 2?",
+    "options": [
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Asteroide Ryugu",
+      "Asteroide Bennu",
+      "Dimorphos"
+    ],
+    "correct": 0,
+    "explanation": "Voyager 2: Júpiter, Saturno, Urano y Neptuno."
+  },
+  {
+    "id": "f5da8989405ae4654aa6",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Voyager 2?",
+    "options": [
+      "Devolvió muestras de Bennu en 2023",
+      "Única sonda de su programa que visitó Urano y Neptuno",
+      "Devolvió muestras de Ryugu en 2020",
+      "Primera mujer en el espacio"
+    ],
+    "correct": 1,
+    "explanation": "Voyager 2: Única sonda de su programa que visitó Urano y Neptuno."
+  },
+  {
+    "id": "8fadbc5eafbbe54206f5",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Hipparcos?",
+    "options": [
+      "1968",
+      "1963",
+      "1989",
+      "1970"
+    ],
+    "correct": 2,
+    "explanation": "Hipparcos: 1989."
+  },
+  {
+    "id": "fa016afdac37806857a4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Hipparcos?",
+    "options": [
+      "Plutón y Arrokoth",
+      "Saturno y Titán",
+      "Órbita terrestre",
+      "Cometa 67P/Churyumov-Gerasimenko"
+    ],
+    "correct": 2,
+    "explanation": "Hipparcos: Órbita terrestre."
+  },
+  {
+    "id": "ce4844f81bfe9daacb47",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Hipparcos?",
+    "options": [
+      "Mediciones de posición estelar reunidas en un catálogo publicado en 1997",
+      "Primera transmisión desde la superficie de otro planeta",
+      "Llevó el pequeño rover Sojourner",
+      "Única sonda de su programa que visitó Urano y Neptuno"
+    ],
+    "correct": 0,
+    "explanation": "Hipparcos: Mediciones de posición estelar reunidas en un catálogo publicado en 1997."
+  },
+  {
+    "id": "7c823c85dd79f3dc83a4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Hubble?",
+    "options": [
+      "2016",
+      "1996",
+      "1990",
+      "1959"
+    ],
+    "correct": 2,
+    "explanation": "Hubble: 1990."
+  },
+  {
+    "id": "1b4b789e53bee6a8ac98",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Hubble?",
+    "options": [
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Punto L1 del sistema Sol-Tierra",
+      "Órbita terrestre",
+      "Luna"
+    ],
+    "correct": 2,
+    "explanation": "Hubble: Órbita terrestre."
+  },
+  {
+    "id": "efb47fdaf6362640c56e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Hubble?",
+    "options": [
+      "Llevó el pequeño rover Sojourner",
+      "Primer ser humano en órbita",
+      "Observatorio reparado por astronautas en 1993 para corregir su óptica",
+      "Desplegó el módulo de aterrizaje Philae"
+    ],
+    "correct": 2,
+    "explanation": "Hubble: Observatorio reparado por astronautas en 1993 para corregir su óptica."
+  },
+  {
+    "id": "8871aa573327c27b4316",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Ulysses?",
+    "options": [
+      "1997",
+      "2021",
+      "1990",
+      "1972"
+    ],
+    "correct": 2,
+    "explanation": "Ulysses: 1990."
+  },
+  {
+    "id": "78eabcf74ff4ea7c110c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Ulysses?",
+    "options": [
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Cometa 67P/Churyumov-Gerasimenko",
+      "Regiones polares del Sol",
+      "Dimorphos"
+    ],
+    "correct": 2,
+    "explanation": "Ulysses: Regiones polares del Sol."
+  },
+  {
+    "id": "7eb7cd979867dba01bcd",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Ulysses?",
+    "options": [
+      "Devolvió muestras de Bennu en 2023",
+      "Primer ser humano en órbita",
+      "Mediciones de posición estelar reunidas en un catálogo publicado en 1997",
+      "Primera sonda dedicada a estudiar el Sol desde altas latitudes heliográficas"
+    ],
+    "correct": 3,
+    "explanation": "Ulysses: Primera sonda dedicada a estudiar el Sol desde altas latitudes heliográficas."
+  },
+  {
+    "id": "38526fc309f4a6fe2bf3",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión SOHO?",
+    "options": [
+      "2016",
+      "1959",
+      "1995",
+      "2004"
+    ],
+    "correct": 2,
+    "explanation": "SOHO: 1995."
+  },
+  {
+    "id": "7a3388cbd52a7084100b",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de SOHO?",
+    "options": [
+      "Punto L1 del sistema Sol-Tierra",
+      "Dimorphos",
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Asteroide Ryugu"
+    ],
+    "correct": 0,
+    "explanation": "SOHO: Punto L1 del sistema Sol-Tierra."
+  },
+  {
+    "id": "545208ac61aafa8240fb",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión SOHO?",
+    "options": [
+      "Primer satélite artificial en órbita",
+      "Primer aterrizaje de una sonda en Titán",
+      "Vigilancia solar continua desde las inmediaciones de L1",
+      "Primera transmisión desde la superficie de otro planeta"
+    ],
+    "correct": 2,
+    "explanation": "SOHO: Vigilancia solar continua desde las inmediaciones de L1."
+  },
+  {
+    "id": "6412237154b1e57b1311",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Mars Pathfinder?",
+    "options": [
+      "1968",
+      "1996",
+      "1970",
+      "1964"
+    ],
+    "correct": 1,
+    "explanation": "Mars Pathfinder: 1996."
+  },
+  {
+    "id": "41d35f11a51f0c0ad2ce",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Mars Pathfinder?",
+    "options": [
+      "Órbita terrestre",
+      "Venus",
+      "Marte",
+      "Asteroide Bennu"
+    ],
+    "correct": 2,
+    "explanation": "Mars Pathfinder: Marte."
+  },
+  {
+    "id": "50614c0f20408c60185d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Mars Pathfinder?",
+    "options": [
+      "Llevó el pequeño rover Sojourner",
+      "Vigilancia solar continua desde las inmediaciones de L1",
+      "Primera mujer en el espacio",
+      "Primer alunizaje tripulado"
+    ],
+    "correct": 0,
+    "explanation": "Mars Pathfinder: Llevó el pequeño rover Sojourner."
+  },
+  {
+    "id": "fc272ea87e91f40ea7c5",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Cassini-Huygens?",
+    "options": [
+      "1959",
+      "1963",
+      "1972",
+      "1997"
+    ],
+    "correct": 3,
+    "explanation": "Cassini-Huygens: 1997."
+  },
+  {
+    "id": "801aa1cb6fa14baf8b8e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Cassini-Huygens?",
+    "options": [
+      "Dimorphos",
+      "Saturno y Titán",
+      "Regiones polares del Sol",
+      "Venus y Mercurio"
+    ],
+    "correct": 1,
+    "explanation": "Cassini-Huygens: Saturno y Titán."
+  },
+  {
+    "id": "72064bfd520245a1cd56",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Cassini-Huygens?",
+    "options": [
+      "Alteró la órbita de Dimorphos mediante un impacto deliberado",
+      "Llevó el pequeño rover Sojourner",
+      "Primer satélite artificial en órbita",
+      "Primer aterrizaje de una sonda en Titán"
+    ],
+    "correct": 3,
+    "explanation": "Cassini-Huygens: Primer aterrizaje de una sonda en Titán."
+  },
+  {
+    "id": "3553800c7e89e7a36cbb",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Rosetta?",
+    "options": [
+      "2004",
+      "2021",
+      "1961",
+      "1972"
+    ],
+    "correct": 0,
+    "explanation": "Rosetta: 2004."
+  },
+  {
+    "id": "8a93e9c6e5d62ced5d8e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Rosetta?",
+    "options": [
+      "Cometa 67P/Churyumov-Gerasimenko",
+      "Punto L1 del sistema Sol-Tierra",
+      "Venus y Mercurio",
+      "Luna"
+    ],
+    "correct": 0,
+    "explanation": "Rosetta: Cometa 67P/Churyumov-Gerasimenko."
+  },
+  {
+    "id": "9e5ed78d436fad12e724",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Rosetta?",
+    "options": [
+      "Primer sobrevuelo cercano de Júpiter",
+      "Primer artefacto humano que alcanzó la superficie lunar",
+      "Desplegó el módulo de aterrizaje Philae",
+      "Primera transmisión desde la superficie de otro planeta"
+    ],
+    "correct": 2,
+    "explanation": "Rosetta: Desplegó el módulo de aterrizaje Philae."
+  },
+  {
+    "id": "d94063f13df328e43fc6",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión New Horizons?",
+    "options": [
+      "1957",
+      "1966",
+      "2006",
+      "1973"
+    ],
+    "correct": 2,
+    "explanation": "New Horizons: 2006."
+  },
+  {
+    "id": "92767d5c209685f4dc38",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de New Horizons?",
+    "options": [
+      "Plutón y Arrokoth",
+      "Júpiter",
+      "Marte",
+      "Saturno y Titán"
+    ],
+    "correct": 0,
+    "explanation": "New Horizons: Plutón y Arrokoth."
+  },
+  {
+    "id": "df2e5dbbe810e117c041",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión New Horizons?",
+    "options": [
+      "Llevó el pequeño rover Sojourner",
+      "Primer sobrevuelo de Mercurio",
+      "Primer sobrevuelo cercano de Júpiter",
+      "Primer sobrevuelo de Plutón"
+    ],
+    "correct": 3,
+    "explanation": "New Horizons: Primer sobrevuelo de Plutón."
+  },
+  {
+    "id": "4a97be7bbdbb3e4e304d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión Hayabusa2?",
+    "options": [
+      "2014",
+      "1972",
+      "1995",
+      "1966"
+    ],
+    "correct": 0,
+    "explanation": "Hayabusa2: 2014."
+  },
+  {
+    "id": "a3190a95b506f0b98665",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de Hayabusa2?",
+    "options": [
+      "Asteroide Ryugu",
+      "Punto L1 del sistema Sol-Tierra",
+      "Luna",
+      "Júpiter"
+    ],
+    "correct": 0,
+    "explanation": "Hayabusa2: Asteroide Ryugu."
+  },
+  {
+    "id": "673ae9a14d1379dbccfe",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión Hayabusa2?",
+    "options": [
+      "Devolvió muestras de Ryugu en 2020",
+      "Primer artefacto humano que alcanzó la superficie lunar",
+      "Primera sonda dedicada a estudiar el Sol desde altas latitudes heliográficas",
+      "Primer satélite artificial en órbita"
+    ],
+    "correct": 0,
+    "explanation": "Hayabusa2: Devolvió muestras de Ryugu en 2020."
+  },
+  {
+    "id": "48e1212731734dd14198",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión OSIRIS-REx?",
+    "options": [
+      "2016",
+      "1968",
+      "1990",
+      "1975"
+    ],
+    "correct": 0,
+    "explanation": "OSIRIS-REx: 2016."
+  },
+  {
+    "id": "41535eddfaaaa1461c80",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de OSIRIS-REx?",
+    "options": [
+      "Júpiter, Saturno, Urano y Neptuno",
+      "Asteroide Bennu",
+      "Júpiter",
+      "Venus"
+    ],
+    "correct": 1,
+    "explanation": "OSIRIS-REx: Asteroide Bennu."
+  },
+  {
+    "id": "b86d87729f6fe00da93f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión OSIRIS-REx?",
+    "options": [
+      "Devolvió muestras de Ryugu en 2020",
+      "Devolvió muestras de Bennu en 2023",
+      "Primer sobrevuelo de Plutón",
+      "Desplegó el módulo de aterrizaje Philae"
+    ],
+    "correct": 1,
+    "explanation": "OSIRIS-REx: Devolvió muestras de Bennu en 2023."
+  },
+  {
+    "id": "d44df5684537fa2761a1",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "hard",
+    "text": "¿En qué año se lanzó la misión DART?",
+    "options": [
+      "2014",
+      "1957",
+      "2016",
+      "2021"
+    ],
+    "correct": 3,
+    "explanation": "DART: 2021."
+  },
+  {
+    "id": "eb9e73b52c4840390b03",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Cuál fue el destino o ámbito de observación principal de DART?",
+    "options": [
+      "Asteroide Bennu",
+      "Órbita terrestre",
+      "Dimorphos",
+      "Júpiter"
+    ],
+    "correct": 2,
+    "explanation": "DART: Dimorphos."
+  },
+  {
+    "id": "5a9c33005e12b71b8195",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exploración espacial",
+    "difficulty": "medium",
+    "text": "¿Qué hito corresponde a la misión DART?",
+    "options": [
+      "Llevó el pequeño rover Sojourner",
+      "Primeras fotografías de la cara oculta lunar",
+      "Primera sonda dedicada a estudiar el Sol desde altas latitudes heliográficas",
+      "Alteró la órbita de Dimorphos mediante un impacto deliberado"
+    ],
+    "correct": 3,
+    "explanation": "DART: Alteró la órbita de Dimorphos mediante un impacto deliberado."
+  },
+  {
+    "id": "ebd6bfb65fe0c5e4b39f",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "easy",
+    "text": "¿En qué constelación está la estrella Sirio?",
+    "options": [
+      "Orión",
+      "Liebre",
+      "Can Menor",
+      "Can Mayor"
+    ],
+    "correct": 3,
+    "explanation": "Sirio es Alfa del Can Mayor."
+  },
+  {
+    "id": "2fe8c0dec3155b176a20",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "easy",
+    "text": "¿En qué constelación está la estrella Vega?",
+    "options": [
+      "Cisne",
+      "Lira",
+      "Águila",
+      "Dragón"
+    ],
+    "correct": 1,
+    "explanation": "Vega es Alfa de la Lira."
+  },
+  {
+    "id": "af56d93e3d06c8055259",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "easy",
+    "text": "¿En qué constelación se encuentra Polaris?",
+    "options": [
+      "Osa Mayor",
+      "Casiopea",
+      "Osa Menor",
+      "Cefeo"
+    ],
+    "correct": 2,
+    "explanation": "Polaris es Alfa de la Osa Menor y se encuentra cerca del polo norte celeste."
+  },
+  {
+    "id": "5e0b998079827b0298b4",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "medium",
+    "text": "¿Cuál de estas estrellas pertenece a Tauro?",
+    "options": [
+      "Régulo",
+      "Espiga",
+      "Aldebarán",
+      "Antares"
+    ],
+    "correct": 2,
+    "explanation": "Aldebarán es Alfa de Tauro."
+  },
+  {
+    "id": "4a5cd12e84416fe4968d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "medium",
+    "text": "¿Cuál de estas estrellas pertenece al Escorpión?",
+    "options": [
+      "Capella",
+      "Antares",
+      "Deneb",
+      "Arturo"
+    ],
+    "correct": 1,
+    "explanation": "Antares es Alfa del Escorpión."
+  },
+  {
+    "id": "d43f3e82ae681f5556e7",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "medium",
+    "text": "¿Qué estrella marca uno de los hombros de Orión?",
+    "options": [
+      "Rígel",
+      "Saiph",
+      "Betelgeuse",
+      "Alnilam"
+    ],
+    "correct": 2,
+    "explanation": "Betelgeuse marca un hombro; Rígel y Saiph están en la parte inferior de la figura."
+  },
+  {
+    "id": "2cc4d52ef08e94df1feb",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "medium",
+    "text": "¿Qué estrella del Cisne forma parte del Triángulo de Verano?",
+    "options": [
+      "Deneb",
+      "Gienah",
+      "Albireo",
+      "Sadr"
+    ],
+    "correct": 0,
+    "explanation": "Deneb forma el triángulo con Vega y Altair."
+  },
+  {
+    "id": "4f6fd68ae47e03dfd4ac",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Cúmulos",
+    "difficulty": "easy",
+    "text": "¿En qué constelación están las Pléyades?",
+    "options": [
+      "Cáncer",
+      "Aries",
+      "Tauro",
+      "Géminis"
+    ],
+    "correct": 2,
+    "explanation": "Las Pléyades son el cúmulo abierto M45, en Tauro."
+  },
+  {
+    "id": "f3a61f8c5d6770dee697",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Galaxias",
+    "difficulty": "hard",
+    "text": "¿Qué número del catálogo Messier identifica la galaxia de Andrómeda?",
+    "options": [
+      "M31",
+      "M51",
+      "M81",
+      "M33"
+    ],
+    "correct": 0,
+    "explanation": "M31 es Andrómeda; M33 es la galaxia del Triángulo."
+  },
+  {
+    "id": "f60695f555d6af94684c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Nebulosas",
+    "difficulty": "medium",
+    "text": "¿Qué clase de objeto es la Nebulosa del Cangrejo?",
+    "options": [
+      "Galaxia elíptica",
+      "Cúmulo globular",
+      "Remanente de supernova",
+      "Disco protoplanetario"
+    ],
+    "correct": 2,
+    "explanation": "La nebulosa es el remanente de una explosión observada en 1054."
+  },
+  {
+    "id": "16726e52f94e0245a00b",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Observación",
+    "difficulty": "medium",
+    "text": "¿En qué constelación se encuentra la Gran Nebulosa M42?",
+    "options": [
+      "Tauro",
+      "Unicornio",
+      "Orión",
+      "Can Mayor"
+    ],
+    "correct": 2,
+    "explanation": "M42 está en la región de la espada de Orión."
+  },
+  {
+    "id": "016e2b2898dd6cf0dd64",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Observación",
+    "difficulty": "easy",
+    "text": "¿Cómo se llama el conjunto de estrellas popularmente conocido como el Carro, que forma parte de la Osa Mayor?",
+    "options": [
+      "Galaxia satélite",
+      "Sistema planetario",
+      "Cúmulo globular",
+      "Asterismo"
+    ],
+    "correct": 3,
+    "explanation": "Un asterismo es una figura reconocible en el cielo. El Carro es parte de una constelación oficial."
+  },
+  {
+    "id": "25e2377c8819da18f72c",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "hard",
+    "text": "¿Qué planeta tiene el día sideral más largo, medido como una rotación respecto a las estrellas?",
+    "options": [
+      "Marte",
+      "Mercurio",
+      "Venus",
+      "Saturno"
+    ],
+    "correct": 2,
+    "explanation": "Venus tarda unos 243 días terrestres en completar una rotación respecto a las estrellas."
+  },
+  {
+    "id": "d31d80cb89742a73df1d",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "easy",
+    "text": "¿En qué planeta está el monte Olimpo, un volcán gigantesco?",
+    "options": [
+      "Mercurio",
+      "Venus",
+      "Marte",
+      "Tierra"
+    ],
+    "correct": 2,
+    "explanation": "Olympus Mons se alza en Marte, cerca de la región de Tharsis."
+  },
+  {
+    "id": "1a97d37e00e20b479086",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "medium",
+    "text": "¿Qué planeta orbita el satélite Tritón?",
+    "options": [
+      "Saturno",
+      "Urano",
+      "Júpiter",
+      "Neptuno"
+    ],
+    "correct": 3,
+    "explanation": "Tritón es una luna de Neptuno y describe una órbita retrógrada."
+  },
+  {
+    "id": "7d25631202ad5a0cd077",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "easy",
+    "text": "¿Qué luna de Saturno tiene una atmósfera densa dominada por nitrógeno?",
+    "options": [
+      "Encélado",
+      "Jápeto",
+      "Titán",
+      "Mimas"
+    ],
+    "correct": 2,
+    "explanation": "Titán tiene una atmósfera espesa rica en nitrógeno."
+  },
+  {
+    "id": "390510fbf3b2e7e9b5c8",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "easy",
+    "text": "¿En qué luna galileana se observa un vulcanismo particularmente intenso?",
+    "options": [
+      "Ío",
+      "Europa",
+      "Ganímedes",
+      "Calisto"
+    ],
+    "correct": 0,
+    "explanation": "Las fuerzas de marea de Júpiter y otras lunas calientan el interior de Ío."
+  },
+  {
+    "id": "9b20bd3ade9a08372203",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "easy",
+    "text": "¿Qué planeta enano orbita dentro del cinturón principal de asteroides?",
+    "options": [
+      "Eris",
+      "Plutón",
+      "Ceres",
+      "Makemake"
+    ],
+    "correct": 2,
+    "explanation": "Ceres orbita entre Marte y Júpiter, en el cinturón principal."
+  },
+  {
+    "id": "c41795463c3ef512fecd",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "medium",
+    "text": "¿Cómo se llama la mayor luna de Plutón?",
+    "options": [
+      "Hidra",
+      "Nix",
+      "Caronte",
+      "Estigia"
+    ],
+    "correct": 2,
+    "explanation": "Caronte es el mayor satélite de Plutón."
+  },
+  {
+    "id": "0f077ef4598635270f8e",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Sistema solar",
+    "difficulty": "medium",
+    "text": "¿Qué orientación aproximada tiene la cola de iones de un cometa activo?",
+    "options": [
+      "Apunta al Sol",
+      "Apunta a la Tierra",
+      "Se aleja del Sol",
+      "Sigue siempre la trayectoria ya recorrida"
+    ],
+    "correct": 2,
+    "explanation": "El viento solar arrastra los iones en sentido aproximadamente opuesto al Sol."
+  },
+  {
+    "id": "b1cf1094a9265e09c8e3",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Medición",
+    "difficulty": "easy",
+    "text": "¿Qué magnitud mide un año luz?",
+    "options": [
+      "Tiempo",
+      "Velocidad",
+      "Distancia",
+      "Luminosidad"
+    ],
+    "correct": 2,
+    "explanation": "Un año luz es la distancia recorrida por la luz en un año juliano."
+  },
+  {
+    "id": "30f964d1928ecf14d4e0",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Medición",
+    "difficulty": "hard",
+    "text": "¿Qué fenómeno se mide comparando la posición aparente de una estrella cercana desde dos puntos de la órbita terrestre?",
+    "options": [
+      "Paralaje estelar",
+      "Corrimiento gravitacional",
+      "Precesión terrestre",
+      "Rotación diferencial"
+    ],
+    "correct": 0,
+    "explanation": "El desplazamiento aparente por cambio de punto de observación permite calcular la distancia."
+  },
+  {
+    "id": "87e4c9dd2ded491a5e11",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Exoplanetas",
+    "difficulty": "medium",
+    "text": "¿Qué señal busca el método de tránsito para detectar un exoplaneta?",
+    "options": [
+      "Una lluvia de meteoros en la Tierra",
+      "Una caída periódica del brillo estelar",
+      "Una explosión de rayos gamma",
+      "Un aumento del brillo de la Luna"
+    ],
+    "correct": 1,
+    "explanation": "El planeta bloquea una fracción de la luz estelar al pasar por delante."
+  },
+  {
+    "id": "557621504584d608b4e0",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Estrellas",
+    "difficulty": "easy",
+    "text": "¿Qué proceso suministra la mayor parte de la energía del Sol en su núcleo?",
+    "options": [
+      "Fusión de hidrógeno en helio",
+      "Fisión del uranio",
+      "Combustión de oxígeno",
+      "Desintegración de carbono radiactivo"
+    ],
+    "correct": 0,
+    "explanation": "La cadena protón-protón convierte hidrógeno en helio y libera energía."
+  },
+  {
+    "id": "6f45929771ebfd40e486",
+    "category": "Constelaciones y Astronomía",
+    "topic": "Eclipses",
+    "difficulty": "easy",
+    "text": "¿Qué fase lunar es necesaria para que ocurra un eclipse de Luna?",
+    "options": [
+      "Cuarto menguante",
+      "Luna nueva",
+      "Luna llena",
+      "Cuarto creciente"
+    ],
+    "correct": 2,
+    "explanation": "La Tierra debe quedar entre el Sol y la Luna, una alineación posible en luna llena."
+  },
+  {
+    "id": "fc19d3023847f2a91c09",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Maratón · ¿En qué año tuvo lugar?",
+    "options": [
+      "202 a. C.",
+      "480 a. C.",
+      "490 a. C.",
+      "378 d. C."
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Maratón: 490 a. C.."
+  },
+  {
+    "id": "bd793865193a1e6cb533",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Maratón · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Tracia, cerca de la actual Edirne",
+      "Estrecho entre Salamina y el Ática",
+      "Paso de las Termópilas",
+      "Llanura de Maratón"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Maratón: Llanura de Maratón."
+  },
+  {
+    "id": "8b6b150d75f2d9e9c4f4",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Maratón · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Marco Vipsanio Agripa",
+      "Milcíades",
+      "Emperador Valente",
+      "Filipo II de Macedonia"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Maratón: Milcíades."
+  },
+  {
+    "id": "b1a04b9c14255fd08718",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Maratón · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota persa abrió a Alejandro el camino hacia Babilonia",
+      "La contienda comenzó tras la crisis de Sagunto y terminó con la derrota de Cartago",
+      "La rendición de Atenas ante Esparta puso fin al conflicto",
+      "Una fuerza de Atenas y Platea rechazó un desembarco persa"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Maratón: Una fuerza de Atenas y Platea rechazó un desembarco persa."
+  },
+  {
+    "id": "6d09d46e58adde2e70a4",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de las Termópilas · ¿En qué año tuvo lugar?",
+    "options": [
+      "208 d. C.",
+      "338 a. C.",
+      "480 a. C.",
+      "431 a. C."
+    ],
+    "correct": 2,
+    "explanation": "Batalla de las Termópilas: 480 a. C.."
+  },
+  {
+    "id": "37ac14097b6f0c6d4a1c",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de las Termópilas · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Llanura de Maratón",
+      "Estrecho entre Salamina y el Ática",
+      "Queronea, Beocia",
+      "Paso de las Termópilas"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de las Termópilas: Paso de las Termópilas."
+  },
+  {
+    "id": "c1a5d54c42997a34ddb9",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de las Termópilas · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Vercingétorix",
+      "Filipo II de Macedonia",
+      "Marco Vipsanio Agripa",
+      "Leónidas I"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de las Termópilas: Leónidas I."
+  },
+  {
+    "id": "c1e7aa844966cb1d11ae",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de las Termópilas · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "El ejército macedonio se enfrentó a un rey indio que desplegó elefantes",
+      "Una fuerza de Atenas y Platea rechazó un desembarco persa",
+      "Una fuerza griega defendió un paso estrecho hasta que los persas la flanquearon",
+      "La flota griega venció a la persa en aguas estrechas"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de las Termópilas: Una fuerza griega defendió un paso estrecho hasta que los persas la flanquearon."
+  },
+  {
+    "id": "d934ce1cfd520533b6db",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Salamina · ¿En qué año tuvo lugar?",
+    "options": [
+      "480 a. C.",
+      "208 d. C.",
+      "326 a. C.",
+      "431 a. C."
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Salamina: 480 a. C.."
+  },
+  {
+    "id": "b0032b57686fce0d7e94",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Salamina · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Germania, al este del Rin",
+      "Tracia, cerca de la actual Edirne",
+      "Estrecho entre Salamina y el Ática",
+      "Queronea, Beocia"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Salamina: Estrecho entre Salamina y el Ática."
+  },
+  {
+    "id": "d8d378d07887499c747b",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Salamina · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Temístocles",
+      "Liga del Peloponeso",
+      "Marco Vipsanio Agripa",
+      "Arminio"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Salamina: Temístocles."
+  },
+  {
+    "id": "a374aa996577f8b5bed6",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Salamina · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una fuerza de Atenas y Platea rechazó un desembarco persa",
+      "La flota griega venció a la persa en aguas estrechas",
+      "Cartago cercó a un gran ejército romano con una doble envolvente",
+      "La derrota de Aníbal precipitó el final de la segunda guerra púnica"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Salamina: La flota griega venció a la persa en aguas estrechas."
+  },
+  {
+    "id": "81f2a16831a5ba3be9ba",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Queronea · ¿En qué año tuvo lugar?",
+    "options": [
+      "338 a. C.",
+      "52 a. C.",
+      "431 a. C.",
+      "31 a. C."
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Queronea: 338 a. C.."
+  },
+  {
+    "id": "e48315a3cf9f36bf3bbc",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Queronea · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Germania, al este del Rin",
+      "Queronea, Beocia",
+      "Llanura de Maratón",
+      "Río Jhelum"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Queronea: Queronea, Beocia."
+  },
+  {
+    "id": "ff48da0a5296dbb39ffd",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Queronea · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Filipo II de Macedonia",
+      "Escipión el Africano",
+      "República romana",
+      "Marco Vipsanio Agripa"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Queronea: Filipo II de Macedonia."
+  },
+  {
+    "id": "c900f5ea1bf0db57a175",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Queronea · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota griega venció a la persa en aguas estrechas",
+      "La rendición de Atenas ante Esparta puso fin al conflicto",
+      "La derrota persa abrió a Alejandro el camino hacia Babilonia",
+      "Macedonia derrotó a la coalición de Atenas y Tebas"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Queronea: Macedonia derrotó a la coalición de Atenas y Tebas."
+  },
+  {
+    "id": "90abfb5fc8f37443ab4d",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Gaugamela · ¿En qué año tuvo lugar?",
+    "options": [
+      "9 d. C.",
+      "331 a. C.",
+      "208 d. C.",
+      "490 a. C."
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Gaugamela: 331 a. C.."
+  },
+  {
+    "id": "186c165452cf4519eef3",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Gaugamela · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Norte de Mesopotamia",
+      "Paso de las Termópilas",
+      "Río Jhelum",
+      "Río Yangtsé"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Gaugamela: Norte de Mesopotamia."
+  },
+  {
+    "id": "0a605083b14a9c738ba8",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Gaugamela · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Vercingétorix",
+      "Milcíades",
+      "Alejandro Magno",
+      "Escipión el Africano"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Gaugamela: Alejandro Magno."
+  },
+  {
+    "id": "34ee3a2f05e43201d501",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Gaugamela · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La contienda comenzó tras la crisis de Sagunto y terminó con la derrota de Cartago",
+      "La flota de Octaviano derrotó a Marco Antonio y Cleopatra",
+      "La derrota persa abrió a Alejandro el camino hacia Babilonia",
+      "Una emboscada destruyó las tres legiones de Varo"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Gaugamela: La derrota persa abrió a Alejandro el camino hacia Babilonia."
+  },
+  {
+    "id": "af961428dcb2ce88f85c",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla del Hidaspes · ¿En qué año tuvo lugar?",
+    "options": [
+      "326 a. C.",
+      "52 a. C.",
+      "480 a. C.",
+      "338 a. C."
+    ],
+    "correct": 0,
+    "explanation": "Batalla del Hidaspes: 326 a. C.."
+  },
+  {
+    "id": "aebed1ce0c368884a2d9",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla del Hidaspes · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Río Jhelum",
+      "Apulia",
+      "Norte de Mesopotamia",
+      "Paso de las Termópilas"
+    ],
+    "correct": 0,
+    "explanation": "Batalla del Hidaspes: Río Jhelum."
+  },
+  {
+    "id": "a5f7b90faf9ff35f0b1c",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla del Hidaspes · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Escipión el Africano",
+      "Temístocles",
+      "Filipo II de Macedonia",
+      "Poro"
+    ],
+    "correct": 3,
+    "explanation": "Batalla del Hidaspes: Poro."
+  },
+  {
+    "id": "f289c0d4772fde3cd251",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla del Hidaspes · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota griega venció a la persa en aguas estrechas",
+      "El ejército macedonio se enfrentó a un rey indio que desplegó elefantes",
+      "La rendición de Atenas ante Esparta puso fin al conflicto",
+      "Una fuerza de Atenas y Platea rechazó un desembarco persa"
+    ],
+    "correct": 1,
+    "explanation": "Batalla del Hidaspes: El ejército macedonio se enfrentó a un rey indio que desplegó elefantes."
+  },
+  {
+    "id": "713a7820683a7a42f26c",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Cannas · ¿En qué año tuvo lugar?",
+    "options": [
+      "52 a. C.",
+      "326 a. C.",
+      "218 a. C.",
+      "216 a. C."
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Cannas: 216 a. C.."
+  },
+  {
+    "id": "9bf996ac9abe9b330b16",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Cannas · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Río Yangtsé",
+      "Estrecho entre Salamina y el Ática",
+      "Tracia, cerca de la actual Edirne",
+      "Apulia"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Cannas: Apulia."
+  },
+  {
+    "id": "e6c3844f42025b222692",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Cannas · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Aníbal Barca",
+      "Alejandro Magno",
+      "Temístocles",
+      "Leónidas I"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Cannas: Aníbal Barca."
+  },
+  {
+    "id": "65fef4cc109047e4519f",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Cannas · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota persa abrió a Alejandro el camino hacia Babilonia",
+      "Cartago cercó a un gran ejército romano con una doble envolvente",
+      "La alianza de Sun Quan y Liu Bei frustró el avance de Cao Cao hacia el sur",
+      "Una fuerza griega defendió un paso estrecho hasta que los persas la flanquearon"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Cannas: Cartago cercó a un gran ejército romano con una doble envolvente."
+  },
+  {
+    "id": "e4e75393e3174ec87920",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Zama · ¿En qué año tuvo lugar?",
+    "options": [
+      "331 a. C.",
+      "218 a. C.",
+      "202 a. C.",
+      "31 a. C."
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Zama: 202 a. C.."
+  },
+  {
+    "id": "755f8719ae1bfa38783b",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Zama · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Germania, al este del Rin",
+      "Río Jhelum",
+      "Tracia, cerca de la actual Edirne",
+      "Norte de África, en el entorno de Cartago"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Zama: Norte de África, en el entorno de Cartago."
+  },
+  {
+    "id": "09f1476a4a85216316f5",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Zama · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Poro",
+      "Liga del Peloponeso",
+      "Escipión el Africano",
+      "Alejandro Magno"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Zama: Escipión el Africano."
+  },
+  {
+    "id": "19f99f4a9b8019a65395",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Zama · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota griega venció a la persa en aguas estrechas",
+      "La flota de Octaviano derrotó a Marco Antonio y Cleopatra",
+      "La rendición de Atenas ante Esparta puso fin al conflicto",
+      "La derrota de Aníbal precipitó el final de la segunda guerra púnica"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Zama: La derrota de Aníbal precipitó el final de la segunda guerra púnica."
+  },
+  {
+    "id": "5c7e1e0b044eb0be5795",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Alesia · ¿En qué año tuvo lugar?",
+    "options": [
+      "378 d. C.",
+      "52 a. C.",
+      "218 a. C.",
+      "431 a. C."
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Alesia: 52 a. C.."
+  },
+  {
+    "id": "c0b5abccad67d5740d49",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Alesia · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Entrada del golfo de Ambracia",
+      "Germania, al este del Rin",
+      "Actual Borgoña",
+      "Estrecho entre Salamina y el Ática"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Alesia: Actual Borgoña."
+  },
+  {
+    "id": "a7d3aed43e3ca3f6338d",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Alesia · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Temístocles",
+      "Vercingétorix",
+      "Milcíades",
+      "Escipión el Africano"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Alesia: Vercingétorix."
+  },
+  {
+    "id": "aa1cac36cfdd0504a998",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Alesia · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una fuerza griega defendió un paso estrecho hasta que los persas la flanquearon",
+      "Las fortificaciones romanas contuvieron a los sitiados y a un ejército galo de socorro",
+      "La contienda comenzó tras la crisis de Sagunto y terminó con la derrota de Cartago",
+      "La derrota persa abrió a Alejandro el camino hacia Babilonia"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Alesia: Las fortificaciones romanas contuvieron a los sitiados y a un ejército galo de socorro."
+  },
+  {
+    "id": "3ca4028164ebcf8f5873",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Accio · ¿En qué año tuvo lugar?",
+    "options": [
+      "9 d. C.",
+      "31 a. C.",
+      "52 a. C.",
+      "378 d. C."
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Accio: 31 a. C.."
+  },
+  {
+    "id": "cabef5b4a06a3ea8324f",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Accio · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Apulia",
+      "Entrada del golfo de Ambracia",
+      "Paso de las Termópilas",
+      "Tracia, cerca de la actual Edirne"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Accio: Entrada del golfo de Ambracia."
+  },
+  {
+    "id": "81f5e2aead0ef5b6fc39",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Accio · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Temístocles",
+      "Marco Vipsanio Agripa",
+      "Vercingétorix",
+      "Escipión el Africano"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Accio: Marco Vipsanio Agripa."
+  },
+  {
+    "id": "8e8c55e254794e019d07",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Accio · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota de Octaviano derrotó a Marco Antonio y Cleopatra",
+      "El ejército macedonio se enfrentó a un rey indio que desplegó elefantes",
+      "La derrota de Aníbal precipitó el final de la segunda guerra púnica",
+      "Una emboscada destruyó las tres legiones de Varo"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Accio: La flota de Octaviano derrotó a Marco Antonio y Cleopatra."
+  },
+  {
+    "id": "e1c353603ed5b1691372",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla del bosque de Teutoburgo · ¿En qué año tuvo lugar?",
+    "options": [
+      "31 a. C.",
+      "490 a. C.",
+      "9 d. C.",
+      "378 d. C."
+    ],
+    "correct": 2,
+    "explanation": "Batalla del bosque de Teutoburgo: 9 d. C.."
+  },
+  {
+    "id": "ccc87cec5716a2a9e7f6",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla del bosque de Teutoburgo · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Estrecho entre Salamina y el Ática",
+      "Entrada del golfo de Ambracia",
+      "Germania, al este del Rin",
+      "Apulia"
+    ],
+    "correct": 2,
+    "explanation": "Batalla del bosque de Teutoburgo: Germania, al este del Rin."
+  },
+  {
+    "id": "71b4c6c3855f266e8be4",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla del bosque de Teutoburgo · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Marco Vipsanio Agripa",
+      "Arminio",
+      "República romana",
+      "Liga del Peloponeso"
+    ],
+    "correct": 1,
+    "explanation": "Batalla del bosque de Teutoburgo: Arminio."
+  },
+  {
+    "id": "1288a7c4b54a0884fd27",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla del bosque de Teutoburgo · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La rendición de Atenas ante Esparta puso fin al conflicto",
+      "La flota griega venció a la persa en aguas estrechas",
+      "La flota de Octaviano derrotó a Marco Antonio y Cleopatra",
+      "Una emboscada destruyó las tres legiones de Varo"
+    ],
+    "correct": 3,
+    "explanation": "Batalla del bosque de Teutoburgo: Una emboscada destruyó las tres legiones de Varo."
+  },
+  {
+    "id": "33d85993f998a6a2ee2a",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de los Acantilados Rojos · ¿En qué año tuvo lugar?",
+    "options": [
+      "331 a. C.",
+      "216 a. C.",
+      "490 a. C.",
+      "208 d. C."
+    ],
+    "correct": 3,
+    "explanation": "Batalla de los Acantilados Rojos: 208 d. C.."
+  },
+  {
+    "id": "a38c22d520453c802640",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de los Acantilados Rojos · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Queronea, Beocia",
+      "Germania, al este del Rin",
+      "Río Jhelum",
+      "Río Yangtsé"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de los Acantilados Rojos: Río Yangtsé."
+  },
+  {
+    "id": "592a3b93b8ef30bc0b50",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de los Acantilados Rojos · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Alejandro Magno",
+      "Marco Vipsanio Agripa",
+      "Zhou Yu",
+      "Emperador Valente"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de los Acantilados Rojos: Zhou Yu."
+  },
+  {
+    "id": "99955572dd70c1e08645",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de los Acantilados Rojos · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una emboscada destruyó las tres legiones de Varo",
+      "La alianza de Sun Quan y Liu Bei frustró el avance de Cao Cao hacia el sur",
+      "Una fuerza griega defendió un paso estrecho hasta que los persas la flanquearon",
+      "Macedonia derrotó a la coalición de Atenas y Tebas"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de los Acantilados Rojos: La alianza de Sun Quan y Liu Bei frustró el avance de Cao Cao hacia el sur."
+  },
+  {
+    "id": "503565a489e93f5bdcf3",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Batalla de Adrianópolis · ¿En qué año tuvo lugar?",
+    "options": [
+      "490 a. C.",
+      "208 d. C.",
+      "378 d. C.",
+      "218 a. C."
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Adrianópolis: 378 d. C.."
+  },
+  {
+    "id": "8cbb6d7dda5473677c09",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Adrianópolis · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Río Yangtsé",
+      "Norte de África, en el entorno de Cartago",
+      "Tracia, cerca de la actual Edirne",
+      "Apulia"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Adrianópolis: Tracia, cerca de la actual Edirne."
+  },
+  {
+    "id": "46eae30aab620926650e",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Batalla de Adrianópolis · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "República romana",
+      "Emperador Valente",
+      "Milcíades",
+      "Vercingétorix"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Adrianópolis: Emperador Valente."
+  },
+  {
+    "id": "3c9e1f5f83d6ccb5f56f",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Batalla de Adrianópolis · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota ante los godos causó la muerte del emperador romano de Oriente",
+      "Una fuerza de Atenas y Platea rechazó un desembarco persa",
+      "La rendición de Atenas ante Esparta puso fin al conflicto",
+      "La flota de Octaviano derrotó a Marco Antonio y Cleopatra"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Adrianópolis: La derrota ante los godos causó la muerte del emperador romano de Oriente."
+  },
+  {
+    "id": "f65816f8d8c490bf3af6",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla del Yarmuk · ¿En qué año tuvo lugar?",
+    "options": [
+      "1415",
+      "1260",
+      "636",
+      "1314"
+    ],
+    "correct": 2,
+    "explanation": "Batalla del Yarmuk: 636."
+  },
+  {
+    "id": "4d65cf04cc8488a442b1",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla del Yarmuk · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Valle del río Talas",
+      "Cercanías del río Yarmuk",
+      "Cerca del lago Van",
+      "Cerca de Stirling"
+    ],
+    "correct": 1,
+    "explanation": "Batalla del Yarmuk: Cercanías del río Yarmuk."
+  },
+  {
+    "id": "fa21f4b5a4eddc5b012a",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla del Yarmuk · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Sultán Qutuz",
+      "Jálid ibn al-Walid",
+      "Alfonso VIII de Castilla",
+      "Corona inglesa"
+    ],
+    "correct": 1,
+    "explanation": "Batalla del Yarmuk: Jálid ibn al-Walid."
+  },
+  {
+    "id": "2cffcb58698d407cc555",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla del Yarmuk · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una fuerza abasí se enfrentó a un ejército de la dinastía Tang",
+      "La derrota y muerte de Haroldo II abrió el camino a la conquista normanda",
+      "La victoria del califato sobre Bizancio facilitó la conquista de Siria",
+      "Los cruzados capturaron Jerusalén en 1099"
+    ],
+    "correct": 2,
+    "explanation": "Batalla del Yarmuk: La victoria del califato sobre Bizancio facilitó la conquista de Siria."
+  },
+  {
+    "id": "caab9c772a1618386961",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de Talas · ¿En qué año tuvo lugar?",
+    "options": [
+      "1096",
+      "751",
+      "1187",
+      "1415"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Talas: 751."
+  },
+  {
+    "id": "8ab673b4179f794c14ca",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Talas · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Valle del río Talas",
+      "Bósforo y Cuerno de Oro",
+      "Battle, en el actual Sussex Oriental",
+      "Azincourt, en el actual Paso de Calais"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Talas: Valle del río Talas."
+  },
+  {
+    "id": "ee0cfdd2f78340a34cdb",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Talas · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Alfonso VIII de Castilla",
+      "Godofredo de Bouillón",
+      "Enrique V de Inglaterra",
+      "Fuerzas del califato abasí"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Talas: Fuerzas del califato abasí."
+  },
+  {
+    "id": "109d4ec10fc333995156",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de Talas · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Los selyúcidas capturaron al emperador bizantino Romano IV",
+      "Una fuerza abasí se enfrentó a un ejército de la dinastía Tang",
+      "El ejército escocés derrotó a Eduardo II de Inglaterra",
+      "Los mamelucos frenaron el avance mongol tras la toma de Bagdad"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Talas: Una fuerza abasí se enfrentó a un ejército de la dinastía Tang."
+  },
+  {
+    "id": "57a2e0d481e353dc2367",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de Hastings · ¿En qué año tuvo lugar?",
+    "options": [
+      "1066",
+      "1096",
+      "1314",
+      "1415"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Hastings: 1066."
+  },
+  {
+    "id": "7cff0eafd9ec070abf2d",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Hastings · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Cuernos de Hattin, cerca del mar de Galilea",
+      "Sierra Morena, en la actual Jaén",
+      "Battle, en el actual Sussex Oriental",
+      "Cerca del lago Van"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Hastings: Battle, en el actual Sussex Oriental."
+  },
+  {
+    "id": "7351997c2e33754277aa",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Hastings · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Guillermo de Normandía",
+      "Fuerzas del califato abasí",
+      "Alp Arslan",
+      "Saladino"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Hastings: Guillermo de Normandía."
+  },
+  {
+    "id": "c5e5a1d1b80a2938aefd",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de Hastings · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota y muerte de Haroldo II abrió el camino a la conquista normanda",
+      "Una fuerza inglesa en marcha hacia Calais venció en un campo embarrado",
+      "Los selyúcidas capturaron al emperador bizantino Romano IV",
+      "El ejército escocés derrotó a Eduardo II de Inglaterra"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Hastings: La derrota y muerte de Haroldo II abrió el camino a la conquista normanda."
+  },
+  {
+    "id": "94a6565753280bbeb80f",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de Manzikert · ¿En qué año tuvo lugar?",
+    "options": [
+      "636",
+      "1096",
+      "1415",
+      "1071"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Manzikert: 1071."
+  },
+  {
+    "id": "5c7393f35e4d35b00a26",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Manzikert · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Bósforo y Cuerno de Oro",
+      "Cerca del lago Van",
+      "Valle de Jezreel",
+      "Battle, en el actual Sussex Oriental"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Manzikert: Cerca del lago Van."
+  },
+  {
+    "id": "ab49b5ccfab3e8de761f",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Manzikert · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Fuerzas del califato abasí",
+      "Alp Arslan",
+      "Godofredo de Bouillón",
+      "Sultán Qutuz"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Manzikert: Alp Arslan."
+  },
+  {
+    "id": "8bf85aee0389810cc007",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de Manzikert · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una coalición cristiana derrotó al ejército almohade de al-Nasir",
+      "Los selyúcidas capturaron al emperador bizantino Romano IV",
+      "La conquista otomana acabó con el Imperio bizantino",
+      "La victoria del califato sobre Bizancio facilitó la conquista de Siria"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Manzikert: Los selyúcidas capturaron al emperador bizantino Romano IV."
+  },
+  {
+    "id": "be02ce491d1bea820b9f",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de Hattin · ¿En qué año tuvo lugar?",
+    "options": [
+      "1066",
+      "1415",
+      "1187",
+      "636"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Hattin: 1187."
+  },
+  {
+    "id": "8d2694fdef29991cfe38",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Hattin · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Bósforo y Cuerno de Oro",
+      "Cuernos de Hattin, cerca del mar de Galilea",
+      "Valle del río Talas",
+      "Battle, en el actual Sussex Oriental"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Hattin: Cuernos de Hattin, cerca del mar de Galilea."
+  },
+  {
+    "id": "8ea77059bea30f78ba0f",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Hattin · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Sultán Qutuz",
+      "Saladino",
+      "Corona inglesa",
+      "Enrique V de Inglaterra"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Hattin: Saladino."
+  },
+  {
+    "id": "24ffd843ebd485c884b2",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de Hattin · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota cruzada facilitó la toma de Jerusalén por Saladino",
+      "Los selyúcidas capturaron al emperador bizantino Romano IV",
+      "Una coalición cristiana derrotó al ejército almohade de al-Nasir",
+      "La monarquía francesa recuperó casi todos los territorios continentales en manos inglesas"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Hattin: La derrota cruzada facilitó la toma de Jerusalén por Saladino."
+  },
+  {
+    "id": "5832e71159051f80a28b",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de las Navas de Tolosa · ¿En qué año tuvo lugar?",
+    "options": [
+      "1415",
+      "636",
+      "1212",
+      "1187"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de las Navas de Tolosa: 1212."
+  },
+  {
+    "id": "1671b49340a0f71da01c",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de las Navas de Tolosa · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Cercanías del río Yarmuk",
+      "Sierra Morena, en la actual Jaén",
+      "Battle, en el actual Sussex Oriental",
+      "Cuernos de Hattin, cerca del mar de Galilea"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de las Navas de Tolosa: Sierra Morena, en la actual Jaén."
+  },
+  {
+    "id": "707e9f918bf08cc4e408",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de las Navas de Tolosa · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Alfonso VIII de Castilla",
+      "Enrique V de Inglaterra",
+      "Alp Arslan",
+      "Guillermo de Normandía"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de las Navas de Tolosa: Alfonso VIII de Castilla."
+  },
+  {
+    "id": "c32d4c2ff21d96d1acc3",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de las Navas de Tolosa · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una fuerza inglesa en marcha hacia Calais venció en un campo embarrado",
+      "La derrota y muerte de Haroldo II abrió el camino a la conquista normanda",
+      "La monarquía francesa recuperó casi todos los territorios continentales en manos inglesas",
+      "Una coalición cristiana derrotó al ejército almohade de al-Nasir"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de las Navas de Tolosa: Una coalición cristiana derrotó al ejército almohade de al-Nasir."
+  },
+  {
+    "id": "b9cb5df93337aff59a39",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de Ain Yalut · ¿En qué año tuvo lugar?",
+    "options": [
+      "1260",
+      "751",
+      "1187",
+      "1066"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Ain Yalut: 1260."
+  },
+  {
+    "id": "b93e80b0f2b2337163cc",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Ain Yalut · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Cuernos de Hattin, cerca del mar de Galilea",
+      "Valle de Jezreel",
+      "Cercanías del río Yarmuk",
+      "Cerca del lago Van"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Ain Yalut: Valle de Jezreel."
+  },
+  {
+    "id": "054b1c8d44561edcc308",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Ain Yalut · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Jálid ibn al-Walid",
+      "Roberto I de Escocia",
+      "Sultán Qutuz",
+      "Fuerzas del califato abasí"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Ain Yalut: Sultán Qutuz."
+  },
+  {
+    "id": "355c318c18328a458fe5",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de Ain Yalut · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Los mamelucos frenaron el avance mongol tras la toma de Bagdad",
+      "Una fuerza abasí se enfrentó a un ejército de la dinastía Tang",
+      "La victoria del califato sobre Bizancio facilitó la conquista de Siria",
+      "La derrota cruzada facilitó la toma de Jerusalén por Saladino"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Ain Yalut: Los mamelucos frenaron el avance mongol tras la toma de Bagdad."
+  },
+  {
+    "id": "84c59e87b63deea69233",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de Bannockburn · ¿En qué año tuvo lugar?",
+    "options": [
+      "1337",
+      "1314",
+      "1071",
+      "1453"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Bannockburn: 1314."
+  },
+  {
+    "id": "7e874e843fdd204b5610",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Bannockburn · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Azincourt, en el actual Paso de Calais",
+      "Valle de Jezreel",
+      "Cuernos de Hattin, cerca del mar de Galilea",
+      "Cerca de Stirling"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Bannockburn: Cerca de Stirling."
+  },
+  {
+    "id": "7ee4d05a8ee4ff48c14b",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Bannockburn · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Alfonso VIII de Castilla",
+      "Roberto I de Escocia",
+      "Saladino",
+      "Fuerzas del califato abasí"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Bannockburn: Roberto I de Escocia."
+  },
+  {
+    "id": "97781129f48faf443084",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de Bannockburn · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Los mamelucos frenaron el avance mongol tras la toma de Bagdad",
+      "La derrota cruzada facilitó la toma de Jerusalén por Saladino",
+      "Los selyúcidas capturaron al emperador bizantino Romano IV",
+      "El ejército escocés derrotó a Eduardo II de Inglaterra"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Bannockburn: El ejército escocés derrotó a Eduardo II de Inglaterra."
+  },
+  {
+    "id": "755b5cdff6085cc74daa",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Batalla de Agincourt · ¿En qué año tuvo lugar?",
+    "options": [
+      "1260",
+      "1212",
+      "1453",
+      "1415"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Agincourt: 1415."
+  },
+  {
+    "id": "0c2e0143e6ef316d01a1",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Agincourt · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Azincourt, en el actual Paso de Calais",
+      "Cerca de Stirling",
+      "Cercanías del río Yarmuk",
+      "Valle de Jezreel"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Agincourt: Azincourt, en el actual Paso de Calais."
+  },
+  {
+    "id": "9a219e01c3dbcd6e4a72",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Batalla de Agincourt · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Alfonso VIII de Castilla",
+      "Roberto I de Escocia",
+      "Sultán Qutuz",
+      "Enrique V de Inglaterra"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Agincourt: Enrique V de Inglaterra."
+  },
+  {
+    "id": "c543ddf566e44f521215",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Batalla de Agincourt · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una coalición cristiana derrotó al ejército almohade de al-Nasir",
+      "Una fuerza abasí se enfrentó a un ejército de la dinastía Tang",
+      "La conquista otomana acabó con el Imperio bizantino",
+      "Una fuerza inglesa en marcha hacia Calais venció en un campo embarrado"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Agincourt: Una fuerza inglesa en marcha hacia Calais venció en un campo embarrado."
+  },
+  {
+    "id": "27b0942023bd5fa78016",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Caída de Constantinopla · ¿En qué año tuvo lugar?",
+    "options": [
+      "1071",
+      "636",
+      "1212",
+      "1453"
+    ],
+    "correct": 3,
+    "explanation": "Caída de Constantinopla: 1453."
+  },
+  {
+    "id": "2a3d2ca439dfcbc9bf69",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Caída de Constantinopla · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Azincourt, en el actual Paso de Calais",
+      "Valle del río Talas",
+      "Cercanías del río Yarmuk",
+      "Bósforo y Cuerno de Oro"
+    ],
+    "correct": 3,
+    "explanation": "Caída de Constantinopla: Bósforo y Cuerno de Oro."
+  },
+  {
+    "id": "3b85e45a9fdabfadb925",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Caída de Constantinopla · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Alfonso VIII de Castilla",
+      "Corona inglesa",
+      "Mehmed II",
+      "Godofredo de Bouillón"
+    ],
+    "correct": 2,
+    "explanation": "Caída de Constantinopla: Mehmed II."
+  },
+  {
+    "id": "ce8ccf2bd30ded33791d",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Caída de Constantinopla · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "El ejército escocés derrotó a Eduardo II de Inglaterra",
+      "La conquista otomana acabó con el Imperio bizantino",
+      "Los mamelucos frenaron el avance mongol tras la toma de Bagdad",
+      "La monarquía francesa recuperó casi todos los territorios continentales en manos inglesas"
+    ],
+    "correct": 1,
+    "explanation": "Caída de Constantinopla: La conquista otomana acabó con el Imperio bizantino."
+  },
+  {
+    "id": "ba07794ceda69cf2426c",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Batalla de Panipat (primera) · ¿En qué año tuvo lugar?",
+    "options": [
+      "1620",
+      "1756",
+      "1571",
+      "1526"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Panipat (primera): 1526."
+  },
+  {
+    "id": "450644e8c05ad8934b2f",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Panipat (primera) · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Península de Virginia",
+      "Ardenas francesas",
+      "Llanura al norte de Delhi",
+      "Colina del Kahlenberg y alrededores de Viena"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Panipat (primera): Llanura al norte de Delhi."
+  },
+  {
+    "id": "5faf4ece285ac13c4789",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Panipat (primera) · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Juan III Sobieski",
+      "Tokugawa Ieyasu",
+      "Charles Cornwallis",
+      "Babur"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Panipat (primera): Babur."
+  },
+  {
+    "id": "c6622c44ffdab39dae4d",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Batalla de Panipat (primera) · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "El ejército francés derrotó al ejército de Flandes",
+      "La guerra enfrentó, entre otros, a Prusia y Austria y a británicos y franceses",
+      "La derrota de Ibrahim Lodi sentó las bases del Imperio mogol",
+      "La victoria de Tokugawa allanó el camino para su shogunato"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Panipat (primera): La derrota de Ibrahim Lodi sentó las bases del Imperio mogol."
+  },
+  {
+    "id": "33da104e8bb6fc82996a",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Batalla de Lepanto · ¿En qué año tuvo lugar?",
+    "options": [
+      "1600",
+      "1683",
+      "1756",
+      "1571"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Lepanto: 1571."
+  },
+  {
+    "id": "ddf6b749b461fe0be716",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Lepanto · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Península de Virginia",
+      "Golfo de Patras",
+      "Colina del Kahlenberg y alrededores de Viena",
+      "Afueras de Praga"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Lepanto: Golfo de Patras."
+  },
+  {
+    "id": "2c67f4cd5bca721f8c9b",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Lepanto · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Tokugawa Ieyasu",
+      "Conde de Tilly",
+      "Luis de Borbón, duque de Enghien",
+      "Juan de Austria"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Lepanto: Juan de Austria."
+  },
+  {
+    "id": "5ea10a6548d2d205f5b4",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Batalla de Lepanto · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota de la Liga Santa derrotó a la otomana en un combate de galeras",
+      "Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios",
+      "La guerra enfrentó, entre otros, a Prusia y Austria y a británicos y franceses",
+      "La Compañía de las Indias Orientales derrotó al nawab Siraj ud-Daulah"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Lepanto: La flota de la Liga Santa derrotó a la otomana en un combate de galeras."
+  },
+  {
+    "id": "d786fdebf38517be42a7",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Batalla de Sekigahara · ¿En qué año tuvo lugar?",
+    "options": [
+      "1757",
+      "1781",
+      "1618",
+      "1600"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Sekigahara: 1600."
+  },
+  {
+    "id": "356c8f88bcd10cdae966",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Sekigahara · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Llanura al norte de Delhi",
+      "Afueras de Praga",
+      "Actual prefectura de Gifu",
+      "Colina del Kahlenberg y alrededores de Viena"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Sekigahara: Actual prefectura de Gifu."
+  },
+  {
+    "id": "a6ca14ca9e10ec1645b8",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Sekigahara · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Luis de Borbón, duque de Enghien",
+      "Tokugawa Ieyasu",
+      "Charles Cornwallis",
+      "Reino de Gran Bretaña"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Sekigahara: Tokugawa Ieyasu."
+  },
+  {
+    "id": "87a9b36c86c44bc8885a",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Batalla de Sekigahara · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La victoria de Tokugawa allanó el camino para su shogunato",
+      "Los acuerdos de Westfalia pusieron fin al conflicto en 1648",
+      "Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios",
+      "La flota de la Liga Santa derrotó a la otomana en un combate de galeras"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Sekigahara: La victoria de Tokugawa allanó el camino para su shogunato."
+  },
+  {
+    "id": "bb232c4fcf69f9cc6dcd",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Batalla de la Montaña Blanca · ¿En qué año tuvo lugar?",
+    "options": [
+      "1781",
+      "1620",
+      "1618",
+      "1600"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de la Montaña Blanca: 1620."
+  },
+  {
+    "id": "97904e39e5ca6467e3ca",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de la Montaña Blanca · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Colina del Kahlenberg y alrededores de Viena",
+      "Actual prefectura de Gifu",
+      "Bengala",
+      "Afueras de Praga"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de la Montaña Blanca: Afueras de Praga."
+  },
+  {
+    "id": "85e1f513c3527e33ed72",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de la Montaña Blanca · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Charles Cornwallis",
+      "Babur",
+      "Conde de Tilly",
+      "Juan de Austria"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de la Montaña Blanca: Conde de Tilly."
+  },
+  {
+    "id": "0f7666d83e6e785a667c",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Batalla de la Montaña Blanca · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La victoria de Tokugawa allanó el camino para su shogunato",
+      "La derrota de Ibrahim Lodi sentó las bases del Imperio mogol",
+      "Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios",
+      "El ejército francés derrotó al ejército de Flandes"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de la Montaña Blanca: Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios."
+  },
+  {
+    "id": "9e9ea42facc757c0f29d",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Batalla de Rocroi · ¿En qué año tuvo lugar?",
+    "options": [
+      "1620",
+      "1571",
+      "1643",
+      "1600"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Rocroi: 1643."
+  },
+  {
+    "id": "29f34e0613288babe92e",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Rocroi · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Península de Virginia",
+      "Ardenas francesas",
+      "Bengala",
+      "Llanura al norte de Delhi"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Rocroi: Ardenas francesas."
+  },
+  {
+    "id": "472299dd16f08a20f799",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Rocroi · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Juan de Austria",
+      "Babur",
+      "Casa de Habsburgo",
+      "Luis de Borbón, duque de Enghien"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Rocroi: Luis de Borbón, duque de Enghien."
+  },
+  {
+    "id": "b0c4dc3364fff26943d8",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Batalla de Rocroi · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Los acuerdos de Westfalia pusieron fin al conflicto en 1648",
+      "El ejército francés derrotó al ejército de Flandes",
+      "Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios",
+      "Un ejército de socorro levantó el sitio otomano de la capital de los Habsburgo"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Rocroi: El ejército francés derrotó al ejército de Flandes."
+  },
+  {
+    "id": "65b269dfd28dc1f9b04c",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Batalla de Viena contra el asedio otomano · ¿En qué año tuvo lugar?",
+    "options": [
+      "1683",
+      "1756",
+      "1643",
+      "1618"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Viena contra el asedio otomano: 1683."
+  },
+  {
+    "id": "8469a69e9d8722fb504f",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Viena contra el asedio otomano · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Colina del Kahlenberg y alrededores de Viena",
+      "Golfo de Patras",
+      "Llanura al norte de Delhi",
+      "Actual prefectura de Gifu"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Viena contra el asedio otomano: Colina del Kahlenberg y alrededores de Viena."
+  },
+  {
+    "id": "914a8863855f7900d2ef",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Viena contra el asedio otomano · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Casa de Habsburgo",
+      "Babur",
+      "Juan III Sobieski",
+      "Conde de Tilly"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Viena contra el asedio otomano: Juan III Sobieski."
+  },
+  {
+    "id": "d0f6a009e69f50a6aa1e",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Batalla de Viena contra el asedio otomano · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota de la Liga Santa derrotó a la otomana en un combate de galeras",
+      "Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios",
+      "Un ejército de socorro levantó el sitio otomano de la capital de los Habsburgo",
+      "La fuerza británica se rindió ante el asedio franco-estadounidense"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Viena contra el asedio otomano: Un ejército de socorro levantó el sitio otomano de la capital de los Habsburgo."
+  },
+  {
+    "id": "e2c48f19d4db719fd910",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Batalla de Plassey · ¿En qué año tuvo lugar?",
+    "options": [
+      "1757",
+      "1620",
+      "1756",
+      "1683"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Plassey: 1757."
+  },
+  {
+    "id": "4fe0282763eea54ffe9d",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Plassey · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Colina del Kahlenberg y alrededores de Viena",
+      "Bengala",
+      "Llanura al norte de Delhi",
+      "Afueras de Praga"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Plassey: Bengala."
+  },
+  {
+    "id": "5ec10b299c4e2e73948b",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Batalla de Plassey · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Robert Clive",
+      "Casa de Habsburgo",
+      "Luis de Borbón, duque de Enghien",
+      "Charles Cornwallis"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Plassey: Robert Clive."
+  },
+  {
+    "id": "70e5c093b417c3c5cfa8",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Batalla de Plassey · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La fuerza británica se rindió ante el asedio franco-estadounidense",
+      "La Compañía de las Indias Orientales derrotó al nawab Siraj ud-Daulah",
+      "El ejército francés derrotó al ejército de Flandes",
+      "La derrota de Ibrahim Lodi sentó las bases del Imperio mogol"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Plassey: La Compañía de las Indias Orientales derrotó al nawab Siraj ud-Daulah."
+  },
+  {
+    "id": "c1aa5300f8ca56aa4c7b",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Sitio de Yorktown · ¿En qué año tuvo lugar?",
+    "options": [
+      "1600",
+      "1781",
+      "1571",
+      "1526"
+    ],
+    "correct": 1,
+    "explanation": "Sitio de Yorktown: 1781."
+  },
+  {
+    "id": "e4d240774a58aa42e237",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Sitio de Yorktown · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Bengala",
+      "Península de Virginia",
+      "Actual prefectura de Gifu",
+      "Llanura al norte de Delhi"
+    ],
+    "correct": 1,
+    "explanation": "Sitio de Yorktown: Península de Virginia."
+  },
+  {
+    "id": "f01c7157c5e5984b1a5b",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Sitio de Yorktown · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Reino de Gran Bretaña",
+      "Charles Cornwallis",
+      "Conde de Tilly",
+      "Juan de Austria"
+    ],
+    "correct": 1,
+    "explanation": "Sitio de Yorktown: Charles Cornwallis."
+  },
+  {
+    "id": "72f19b9bd30eca726c67",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Sitio de Yorktown · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Los acuerdos de Westfalia pusieron fin al conflicto en 1648",
+      "La Compañía de las Indias Orientales derrotó al nawab Siraj ud-Daulah",
+      "La fuerza británica se rindió ante el asedio franco-estadounidense",
+      "Un ejército de socorro levantó el sitio otomano de la capital de los Habsburgo"
+    ],
+    "correct": 2,
+    "explanation": "Sitio de Yorktown: La fuerza británica se rindió ante el asedio franco-estadounidense."
+  },
+  {
+    "id": "f1d82b696ef65f4f7cae",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "hard",
+    "text": "Batalla de Trafalgar · ¿En qué año tuvo lugar?",
+    "options": [
+      "1896",
+      "1805",
+      "1808",
+      "1824"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Trafalgar: 1805."
+  },
+  {
+    "id": "d7c62a6433f2cf0264d7",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Trafalgar · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Cerca de Mont-Saint-Jean, en la actual Bélgica",
+      "Región de Tigray",
+      "Frente al cabo Trafalgar",
+      "Pampa de la Quinua"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Trafalgar: Frente al cabo Trafalgar."
+  },
+  {
+    "id": "035969524624aa77c9e9",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Trafalgar · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Horatio Nelson",
+      "Francisco Javier Castaños",
+      "Menelik II",
+      "Duque de Wellington"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Trafalgar: Horatio Nelson."
+  },
+  {
+    "id": "554362e07f6571d48c02",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "easy",
+    "text": "Batalla de Trafalgar · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota británica derrotó a la combinada franco-española",
+      "La derrota francesa puso fin a los Cien Días",
+      "El ejército francés de Dupont capituló ante fuerzas españolas",
+      "Etiopía derrotó al ejército italiano y afianzó su independencia"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Trafalgar: La flota británica derrotó a la combinada franco-española."
+  },
+  {
+    "id": "bdd0269415aec583c0e5",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "hard",
+    "text": "Batalla de Bailén · ¿En qué año tuvo lugar?",
+    "options": [
+      "1815",
+      "1808",
+      "1824",
+      "1863"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Bailén: 1808."
+  },
+  {
+    "id": "318e716f0c3433ec8ab6",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Bailén · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Frente al cabo Trafalgar",
+      "Pampa de la Quinua",
+      "Cerca de Mont-Saint-Jean, en la actual Bélgica",
+      "Provincia de Jaén"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Bailén: Provincia de Jaén."
+  },
+  {
+    "id": "dbc28c75ba9518728657",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Bailén · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Imperio ruso",
+      "Horatio Nelson",
+      "Menelik II",
+      "Francisco Javier Castaños"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Bailén: Francisco Javier Castaños."
+  },
+  {
+    "id": "2620a7b5bc6828e9c57d",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "easy",
+    "text": "Batalla de Bailén · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota francesa puso fin a los Cien Días",
+      "La coalición de Francia, Gran Bretaña, el Imperio otomano y Piamonte-Cerdeña asedió Sebastopol",
+      "El ejército francés de Dupont capituló ante fuerzas españolas",
+      "Etiopía derrotó al ejército italiano y afianzó su independencia"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Bailén: El ejército francés de Dupont capituló ante fuerzas españolas."
+  },
+  {
+    "id": "30079606925a1be164b4",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "hard",
+    "text": "Batalla de Waterloo · ¿En qué año tuvo lugar?",
+    "options": [
+      "1896",
+      "1808",
+      "1824",
+      "1815"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Waterloo: 1815."
+  },
+  {
+    "id": "2fef5679630fe8f8d59e",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Waterloo · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Provincia de Jaén",
+      "Pampa de la Quinua",
+      "Pensilvania",
+      "Cerca de Mont-Saint-Jean, en la actual Bélgica"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Waterloo: Cerca de Mont-Saint-Jean, en la actual Bélgica."
+  },
+  {
+    "id": "be729809666396bb3f8d",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Waterloo · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Duque de Wellington",
+      "Menelik II",
+      "Francisco Javier Castaños",
+      "Imperio ruso"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Waterloo: Duque de Wellington."
+  },
+  {
+    "id": "d0519a38eec018730243",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "easy",
+    "text": "Batalla de Waterloo · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota francesa puso fin a los Cien Días",
+      "La flota británica derrotó a la combinada franco-española",
+      "El ejército francés de Dupont capituló ante fuerzas españolas",
+      "Etiopía derrotó al ejército italiano y afianzó su independencia"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Waterloo: La derrota francesa puso fin a los Cien Días."
+  },
+  {
+    "id": "f8766d6bd961cf9ec476",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "hard",
+    "text": "Batalla de Ayacucho · ¿En qué año tuvo lugar?",
+    "options": [
+      "1853",
+      "1824",
+      "1863",
+      "1815"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Ayacucho: 1824."
+  },
+  {
+    "id": "d710efc1e976caa627b6",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Ayacucho · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Provincia de Jaén",
+      "Pampa de la Quinua",
+      "Pensilvania",
+      "Cerca de Mont-Saint-Jean, en la actual Bélgica"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Ayacucho: Pampa de la Quinua."
+  },
+  {
+    "id": "f94ebef38219526f6821",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Ayacucho · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Antonio José de Sucre",
+      "Menelik II",
+      "Duque de Wellington",
+      "Horatio Nelson"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Ayacucho: Antonio José de Sucre."
+  },
+  {
+    "id": "8ab0305dd7ae28a6d46f",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "easy",
+    "text": "Batalla de Ayacucho · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "El ejército de la Unión detuvo la invasión confederada de Pensilvania",
+      "El ejército francés de Dupont capituló ante fuerzas españolas",
+      "La derrota francesa puso fin a los Cien Días",
+      "La capitulación realista consolidó la independencia del Perú"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Ayacucho: La capitulación realista consolidó la independencia del Perú."
+  },
+  {
+    "id": "e8e48d3708c885bda3dd",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "hard",
+    "text": "Batalla de Gettysburg · ¿En qué año tuvo lugar?",
+    "options": [
+      "1815",
+      "1824",
+      "1896",
+      "1863"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Gettysburg: 1863."
+  },
+  {
+    "id": "7b8493c3c4e778cd584e",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Gettysburg · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Frente al cabo Trafalgar",
+      "Pensilvania",
+      "Región de Tigray",
+      "Cerca de Mont-Saint-Jean, en la actual Bélgica"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Gettysburg: Pensilvania."
+  },
+  {
+    "id": "5adb0b839543917171b1",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Gettysburg · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Menelik II",
+      "George G. Meade",
+      "Imperio ruso",
+      "Horatio Nelson"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Gettysburg: George G. Meade."
+  },
+  {
+    "id": "e27cdb873a0a67bf160b",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "easy",
+    "text": "Batalla de Gettysburg · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La coalición de Francia, Gran Bretaña, el Imperio otomano y Piamonte-Cerdeña asedió Sebastopol",
+      "El ejército francés de Dupont capituló ante fuerzas españolas",
+      "La derrota francesa puso fin a los Cien Días",
+      "El ejército de la Unión detuvo la invasión confederada de Pensilvania"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Gettysburg: El ejército de la Unión detuvo la invasión confederada de Pensilvania."
+  },
+  {
+    "id": "61be1b25dd3703753cdb",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "hard",
+    "text": "Batalla de Adúa · ¿En qué año tuvo lugar?",
+    "options": [
+      "1896",
+      "1863",
+      "1815",
+      "1805"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Adúa: 1896."
+  },
+  {
+    "id": "23b8d62e46dc1eb0c347",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Adúa · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Frente al cabo Trafalgar",
+      "Región de Tigray",
+      "Pensilvania",
+      "Cerca de Mont-Saint-Jean, en la actual Bélgica"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Adúa: Región de Tigray."
+  },
+  {
+    "id": "dfb2295bd6828a8d9cdf",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Batalla de Adúa · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "George G. Meade",
+      "Imperio ruso",
+      "Menelik II",
+      "Antonio José de Sucre"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Adúa: Menelik II."
+  },
+  {
+    "id": "9aefde68dcc4a53bea6d",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "easy",
+    "text": "Batalla de Adúa · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Etiopía derrotó al ejército italiano y afianzó su independencia",
+      "La capitulación realista consolidó la independencia del Perú",
+      "La derrota francesa puso fin a los Cien Días",
+      "El ejército de la Unión detuvo la invasión confederada de Pensilvania"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Adúa: Etiopía derrotó al ejército italiano y afianzó su independencia."
+  },
+  {
+    "id": "82b4b34469352fa63498",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "hard",
+    "text": "Batalla de Tsushima · ¿En qué año tuvo lugar?",
+    "options": [
+      "1914",
+      "1950",
+      "1938",
+      "1905"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Tsushima: 1905."
+  },
+  {
+    "id": "3e1fbe246be4f211aefb",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Tsushima · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Noroeste de Vietnam",
+      "Curso bajo del Ebro",
+      "Cercanías del atolón de Midway",
+      "Estrecho de Corea"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Tsushima: Estrecho de Corea."
+  },
+  {
+    "id": "08ce897b9ef8e0906d49",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Tsushima · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Chester Nimitz",
+      "Tōgō Heihachirō",
+      "Douglas MacArthur",
+      "Ejército republicano español"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Tsushima: Tōgō Heihachirō."
+  },
+  {
+    "id": "66ed09b22bf839d34b84",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "easy",
+    "text": "Batalla de Tsushima · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Un desembarco de la ONU permitió recuperar Seúl poco después",
+      "El asesinato del archiduque Francisco Fernando desencadenó una crisis que desembocó en la guerra",
+      "Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal",
+      "La flota japonesa derrotó a la escuadra rusa llegada desde el Báltico"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Tsushima: La flota japonesa derrotó a la escuadra rusa llegada desde el Báltico."
+  },
+  {
+    "id": "289b74ce1f5dfafab1bc",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "hard",
+    "text": "Batalla del Ebro · ¿En qué año tuvo lugar?",
+    "options": [
+      "1914",
+      "1938",
+      "1942",
+      "1954"
+    ],
+    "correct": 1,
+    "explanation": "Batalla del Ebro: 1938."
+  },
+  {
+    "id": "6125001364ed1ff6eba0",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla del Ebro · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Estrecho de Corea",
+      "Costa occidental de la península de Corea",
+      "Curso bajo del Ebro",
+      "Noroeste de Vietnam"
+    ],
+    "correct": 2,
+    "explanation": "Batalla del Ebro: Curso bajo del Ebro."
+  },
+  {
+    "id": "3bef05cb4574c08515d2",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla del Ebro · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Võ Nguyên Giáp",
+      "Ejército republicano español",
+      "Chester Nimitz",
+      "Tōgō Heihachirō"
+    ],
+    "correct": 1,
+    "explanation": "Batalla del Ebro: Ejército republicano español."
+  },
+  {
+    "id": "8898d558d8ea3a92a95b",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "easy",
+    "text": "Batalla del Ebro · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota japonesa derrotó a la escuadra rusa llegada desde el Báltico",
+      "Una gran ofensiva republicana cruzó el río y acabó en retirada",
+      "Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal",
+      "La derrota de la guarnición francesa precipitó el fin de la guerra de Indochina"
+    ],
+    "correct": 1,
+    "explanation": "Batalla del Ebro: Una gran ofensiva republicana cruzó el río y acabó en retirada."
+  },
+  {
+    "id": "a1014789653464d3511e",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "hard",
+    "text": "Batalla de Midway · ¿En qué año tuvo lugar?",
+    "options": [
+      "1914",
+      "1950",
+      "1905",
+      "1942"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Midway: 1942."
+  },
+  {
+    "id": "dd675e1382e29af66634",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Midway · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Noroeste de Vietnam",
+      "Cercanías del atolón de Midway",
+      "Costa occidental de la península de Corea",
+      "Estrecho de Corea"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Midway: Cercanías del atolón de Midway."
+  },
+  {
+    "id": "193b2ac1ec4f66b7b22b",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Midway · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Chester Nimitz",
+      "Tōgō Heihachirō",
+      "Ejército republicano español",
+      "Douglas MacArthur"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Midway: Chester Nimitz."
+  },
+  {
+    "id": "1510256e5f1342ec8016",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "easy",
+    "text": "Batalla de Midway · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La derrota de la guarnición francesa precipitó el fin de la guerra de Indochina",
+      "Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal",
+      "El asesinato del archiduque Francisco Fernando desencadenó una crisis que desembocó en la guerra",
+      "Un desembarco de la ONU permitió recuperar Seúl poco después"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Midway: Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal."
+  },
+  {
+    "id": "0e032babb79fe949416d",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "hard",
+    "text": "Batalla de Dien Bien Phu · ¿En qué año tuvo lugar?",
+    "options": [
+      "1905",
+      "1950",
+      "1914",
+      "1954"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Dien Bien Phu: 1954."
+  },
+  {
+    "id": "0057b52f8a3937c9d3b5",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Dien Bien Phu · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Noroeste de Vietnam",
+      "Curso bajo del Ebro",
+      "Cercanías del atolón de Midway",
+      "Costa occidental de la península de Corea"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Dien Bien Phu: Noroeste de Vietnam."
+  },
+  {
+    "id": "8e1ffdc8f3202c81166e",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Dien Bien Phu · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Ejército republicano español",
+      "Võ Nguyên Giáp",
+      "Tōgō Heihachirō",
+      "Douglas MacArthur"
+    ],
+    "correct": 1,
+    "explanation": "Batalla de Dien Bien Phu: Võ Nguyên Giáp."
+  },
+  {
+    "id": "d65b4d9d87c2bb46ebbc",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "easy",
+    "text": "Batalla de Dien Bien Phu · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La flota japonesa derrotó a la escuadra rusa llegada desde el Báltico",
+      "Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal",
+      "Un desembarco de la ONU permitió recuperar Seúl poco después",
+      "La derrota de la guarnición francesa precipitó el fin de la guerra de Indochina"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Dien Bien Phu: La derrota de la guarnición francesa precipitó el fin de la guerra de Indochina."
+  },
+  {
+    "id": "312e6588c58c693e6f13",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "hard",
+    "text": "Batalla de Inchon · ¿En qué año tuvo lugar?",
+    "options": [
+      "1905",
+      "1938",
+      "1950",
+      "1954"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Inchon: 1950."
+  },
+  {
+    "id": "9a72be7fd3c6b76837c6",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Inchon · ¿En qué lugar tuvo lugar?",
+    "options": [
+      "Estrecho de Corea",
+      "Curso bajo del Ebro",
+      "Costa occidental de la península de Corea",
+      "Noroeste de Vietnam"
+    ],
+    "correct": 2,
+    "explanation": "Batalla de Inchon: Costa occidental de la península de Corea."
+  },
+  {
+    "id": "686f5feabfbc94781203",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Batalla de Inchon · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Douglas MacArthur",
+      "Tōgō Heihachirō",
+      "Ejército republicano español",
+      "Imperio alemán"
+    ],
+    "correct": 0,
+    "explanation": "Batalla de Inchon: Douglas MacArthur."
+  },
+  {
+    "id": "06a3c84512e8436b7aa6",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "easy",
+    "text": "Batalla de Inchon · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "El asesinato del archiduque Francisco Fernando desencadenó una crisis que desembocó en la guerra",
+      "Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal",
+      "La derrota de la guarnición francesa precipitó el fin de la guerra de Indochina",
+      "Un desembarco de la ONU permitió recuperar Seúl poco después"
+    ],
+    "correct": 3,
+    "explanation": "Batalla de Inchon: Un desembarco de la ONU permitió recuperar Seúl poco después."
+  },
+  {
+    "id": "38d8821889d265715898",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Guerra del Peloponeso · ¿En qué año comenzó?",
+    "options": [
+      "52 a. C.",
+      "31 a. C.",
+      "216 a. C.",
+      "431 a. C."
+    ],
+    "correct": 3,
+    "explanation": "Guerra del Peloponeso (431–404 a. C.): 431 a. C.."
+  },
+  {
+    "id": "31b6f04640d5fb7f45fc",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Guerra del Peloponeso · ¿En qué año terminó el conflicto?",
+    "options": [
+      "404 a. C.",
+      "218 a. C.",
+      "331 a. C.",
+      "201 a. C."
+    ],
+    "correct": 0,
+    "explanation": "Guerra del Peloponeso: 404 a. C.."
+  },
+  {
+    "id": "0c7ea3c5e900088d2701",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Guerra del Peloponeso · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Temístocles",
+      "Liga del Peloponeso",
+      "Poro",
+      "Milcíades"
+    ],
+    "correct": 1,
+    "explanation": "Guerra del Peloponeso (431–404 a. C.): Liga del Peloponeso."
+  },
+  {
+    "id": "f2169390f37f51845d95",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Guerra del Peloponeso · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Macedonia derrotó a la coalición de Atenas y Tebas",
+      "La contienda comenzó tras la crisis de Sagunto y terminó con la derrota de Cartago",
+      "Cartago cercó a un gran ejército romano con una doble envolvente",
+      "La rendición de Atenas ante Esparta puso fin al conflicto"
+    ],
+    "correct": 3,
+    "explanation": "Guerra del Peloponeso (431–404 a. C.): La rendición de Atenas ante Esparta puso fin al conflicto."
+  },
+  {
+    "id": "efd3dbb1e8522f03e36d",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "hard",
+    "text": "Segunda guerra púnica · ¿En qué año comenzó?",
+    "options": [
+      "378 d. C.",
+      "218 a. C.",
+      "326 a. C.",
+      "216 a. C."
+    ],
+    "correct": 1,
+    "explanation": "Segunda guerra púnica: 218 a. C.."
+  },
+  {
+    "id": "841e6e9028102e9bf245",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Segunda guerra púnica · ¿En qué año terminó el conflicto?",
+    "options": [
+      "431 a. C.",
+      "331 a. C.",
+      "201 a. C.",
+      "404 a. C."
+    ],
+    "correct": 2,
+    "explanation": "Segunda guerra púnica: 201 a. C.."
+  },
+  {
+    "id": "fb736f755675ec193e21",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "medium",
+    "text": "Segunda guerra púnica · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Vercingétorix",
+      "República romana",
+      "Zhou Yu",
+      "Alejandro Magno"
+    ],
+    "correct": 1,
+    "explanation": "Segunda guerra púnica: República romana."
+  },
+  {
+    "id": "57f15e2bae8322e70246",
+    "category": "Historia Bélica",
+    "topic": "Antigüedad",
+    "difficulty": "easy",
+    "text": "Segunda guerra púnica · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una fuerza de Atenas y Platea rechazó un desembarco persa",
+      "La contienda comenzó tras la crisis de Sagunto y terminó con la derrota de Cartago",
+      "La rendición de Atenas ante Esparta puso fin al conflicto",
+      "La derrota de Aníbal precipitó el final de la segunda guerra púnica"
+    ],
+    "correct": 1,
+    "explanation": "Segunda guerra púnica: La contienda comenzó tras la crisis de Sagunto y terminó con la derrota de Cartago."
+  },
+  {
+    "id": "b9a3e62b0fb6a5609148",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Primera Cruzada · ¿En qué año comenzó?",
+    "options": [
+      "1187",
+      "1314",
+      "1415",
+      "1096"
+    ],
+    "correct": 3,
+    "explanation": "Primera Cruzada: 1096."
+  },
+  {
+    "id": "721653c61a635669a0e4",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Primera Cruzada · ¿En qué año terminó el conflicto?",
+    "options": [
+      "1337",
+      "1453",
+      "1099",
+      "1763"
+    ],
+    "correct": 2,
+    "explanation": "Primera Cruzada: 1099."
+  },
+  {
+    "id": "4968f59f654ab563192f",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Primera Cruzada · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Godofredo de Bouillón",
+      "Corona inglesa",
+      "Guillermo de Normandía",
+      "Saladino"
+    ],
+    "correct": 0,
+    "explanation": "Primera Cruzada: Godofredo de Bouillón."
+  },
+  {
+    "id": "b0d4dba8ba46288b990f",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Primera Cruzada · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Una coalición cristiana derrotó al ejército almohade de al-Nasir",
+      "Los cruzados capturaron Jerusalén en 1099",
+      "Una fuerza inglesa en marcha hacia Calais venció en un campo embarrado",
+      "La conquista otomana acabó con el Imperio bizantino"
+    ],
+    "correct": 1,
+    "explanation": "Primera Cruzada: Los cruzados capturaron Jerusalén en 1099."
+  },
+  {
+    "id": "eaa3c0d4c98c65f81d42",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "hard",
+    "text": "Guerra de los Cien Años · ¿En qué año comenzó?",
+    "options": [
+      "1337",
+      "1066",
+      "1415",
+      "1096"
+    ],
+    "correct": 0,
+    "explanation": "Guerra de los Cien Años: 1337."
+  },
+  {
+    "id": "a3e57c3a22740e480fda",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Guerra de los Cien Años · ¿En qué año terminó el conflicto?",
+    "options": [
+      "1187",
+      "1453",
+      "751",
+      "1337"
+    ],
+    "correct": 1,
+    "explanation": "Guerra de los Cien Años: 1453."
+  },
+  {
+    "id": "978d5efa809c896afe97",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "medium",
+    "text": "Guerra de los Cien Años · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Sultán Qutuz",
+      "Godofredo de Bouillón",
+      "Corona inglesa",
+      "Mehmed II"
+    ],
+    "correct": 2,
+    "explanation": "Guerra de los Cien Años: Corona inglesa."
+  },
+  {
+    "id": "43fadcb2f05ca6ed247f",
+    "category": "Historia Bélica",
+    "topic": "Edad Media",
+    "difficulty": "easy",
+    "text": "Guerra de los Cien Años · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Los mamelucos frenaron el avance mongol tras la toma de Bagdad",
+      "Los selyúcidas capturaron al emperador bizantino Romano IV",
+      "La monarquía francesa recuperó casi todos los territorios continentales en manos inglesas",
+      "El ejército escocés derrotó a Eduardo II de Inglaterra"
+    ],
+    "correct": 2,
+    "explanation": "Guerra de los Cien Años: La monarquía francesa recuperó casi todos los territorios continentales en manos inglesas."
+  },
+  {
+    "id": "d1d7585230af1d3b6be5",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Guerra de los Treinta Años · ¿En qué año comenzó?",
+    "options": [
+      "1643",
+      "1618",
+      "1756",
+      "1781"
+    ],
+    "correct": 1,
+    "explanation": "Guerra de los Treinta Años: 1618."
+  },
+  {
+    "id": "36bf9f7f01538af98242",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Guerra de los Treinta Años · ¿En qué año terminó el conflicto?",
+    "options": [
+      "1918",
+      "1526",
+      "1648",
+      "1453"
+    ],
+    "correct": 2,
+    "explanation": "Guerra de los Treinta Años: 1648."
+  },
+  {
+    "id": "558c4374b53b470fbb0f",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Guerra de los Treinta Años · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Luis de Borbón, duque de Enghien",
+      "Robert Clive",
+      "Casa de Habsburgo",
+      "Juan III Sobieski"
+    ],
+    "correct": 2,
+    "explanation": "Guerra de los Treinta Años: Casa de Habsburgo."
+  },
+  {
+    "id": "baf75155cb8a09697728",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Guerra de los Treinta Años · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La fuerza británica se rindió ante el asedio franco-estadounidense",
+      "Los acuerdos de Westfalia pusieron fin al conflicto en 1648",
+      "La victoria de Tokugawa allanó el camino para su shogunato",
+      "Las fuerzas imperiales y de la Liga Católica derrotaron a los sublevados bohemios"
+    ],
+    "correct": 1,
+    "explanation": "Guerra de los Treinta Años: Los acuerdos de Westfalia pusieron fin al conflicto en 1648."
+  },
+  {
+    "id": "2d90f97fdeb34895ac7d",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "hard",
+    "text": "Guerra de los Siete Años (inicio convencional) · ¿En qué año comenzó?",
+    "options": [
+      "1571",
+      "1643",
+      "1620",
+      "1756"
+    ],
+    "correct": 3,
+    "explanation": "Guerra de los Siete Años (inicio convencional): 1756."
+  },
+  {
+    "id": "f8f2e89b755c01f0f974",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Guerra de los Siete Años (inicio convencional) · ¿En qué año terminó el conflicto?",
+    "options": [
+      "1763",
+      "1643",
+      "1618",
+      "1453"
+    ],
+    "correct": 0,
+    "explanation": "Guerra de los Siete Años (inicio convencional): 1763."
+  },
+  {
+    "id": "e9af0ae09aac51b8dbfc",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "medium",
+    "text": "Guerra de los Siete Años (inicio convencional) · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Reino de Gran Bretaña",
+      "Luis de Borbón, duque de Enghien",
+      "Conde de Tilly",
+      "Babur"
+    ],
+    "correct": 0,
+    "explanation": "Guerra de los Siete Años (inicio convencional): Reino de Gran Bretaña."
+  },
+  {
+    "id": "1f9e19718b2e8216057b",
+    "category": "Historia Bélica",
+    "topic": "Edad Moderna",
+    "difficulty": "easy",
+    "text": "Guerra de los Siete Años (inicio convencional) · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "La guerra enfrentó, entre otros, a Prusia y Austria y a británicos y franceses",
+      "La derrota de Ibrahim Lodi sentó las bases del Imperio mogol",
+      "La flota de la Liga Santa derrotó a la otomana en un combate de galeras",
+      "La Compañía de las Indias Orientales derrotó al nawab Siraj ud-Daulah"
+    ],
+    "correct": 0,
+    "explanation": "Guerra de los Siete Años (inicio convencional): La guerra enfrentó, entre otros, a Prusia y Austria y a británicos y franceses."
+  },
+  {
+    "id": "78e828eb62a33761c161",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "hard",
+    "text": "Guerra de Crimea · ¿En qué año comenzó?",
+    "options": [
+      "1853",
+      "1808",
+      "1805",
+      "1863"
+    ],
+    "correct": 0,
+    "explanation": "Guerra de Crimea: 1853."
+  },
+  {
+    "id": "05dce979ce0886636c4e",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Guerra de Crimea · ¿En qué año terminó el conflicto?",
+    "options": [
+      "1896",
+      "1099",
+      "1863",
+      "1856"
+    ],
+    "correct": 3,
+    "explanation": "Guerra de Crimea: 1856."
+  },
+  {
+    "id": "f29879ef2f8e542aa14a",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "medium",
+    "text": "Guerra de Crimea · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Duque de Wellington",
+      "Horatio Nelson",
+      "George G. Meade",
+      "Imperio ruso"
+    ],
+    "correct": 3,
+    "explanation": "Guerra de Crimea: Imperio ruso."
+  },
+  {
+    "id": "c5f4ae10f44c9d5347d3",
+    "category": "Historia Bélica",
+    "topic": "Siglo XIX",
+    "difficulty": "easy",
+    "text": "Guerra de Crimea · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "El ejército francés de Dupont capituló ante fuerzas españolas",
+      "La capitulación realista consolidó la independencia del Perú",
+      "La coalición de Francia, Gran Bretaña, el Imperio otomano y Piamonte-Cerdeña asedió Sebastopol",
+      "La flota británica derrotó a la combinada franco-española"
+    ],
+    "correct": 2,
+    "explanation": "Guerra de Crimea: La coalición de Francia, Gran Bretaña, el Imperio otomano y Piamonte-Cerdeña asedió Sebastopol."
+  },
+  {
+    "id": "dbae192335116a32c370",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "hard",
+    "text": "Primera Guerra Mundial · ¿En qué año comenzó?",
+    "options": [
+      "1938",
+      "1950",
+      "1942",
+      "1914"
+    ],
+    "correct": 3,
+    "explanation": "Primera Guerra Mundial: 1914."
+  },
+  {
+    "id": "f0a70466d3b30187ae06",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Primera Guerra Mundial · ¿En qué año se firmó el armisticio de Compiègne?",
+    "options": [
+      "1918",
+      "1099",
+      "1938",
+      "1763"
+    ],
+    "correct": 0,
+    "explanation": "Primera Guerra Mundial: 1918."
+  },
+  {
+    "id": "36c9d63b15b58a75e0c5",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "medium",
+    "text": "Primera Guerra Mundial · ¿Qué figura o fuerza participó directamente en este acontecimiento?",
+    "options": [
+      "Ejército republicano español",
+      "Tōgō Heihachirō",
+      "Imperio alemán",
+      "Douglas MacArthur"
+    ],
+    "correct": 2,
+    "explanation": "Primera Guerra Mundial: Imperio alemán."
+  },
+  {
+    "id": "d0764f99de7da266adda",
+    "category": "Historia Bélica",
+    "topic": "Siglo XX",
+    "difficulty": "easy",
+    "text": "Primera Guerra Mundial · ¿Qué descripción corresponde a este acontecimiento?",
+    "options": [
+      "Un desembarco de la ONU permitió recuperar Seúl poco después",
+      "Japón perdió los cuatro portaaviones que participaron en su fuerza de ataque principal",
+      "Una gran ofensiva republicana cruzó el río y acabó en retirada",
+      "El asesinato del archiduque Francisco Fernando desencadenó una crisis que desembocó en la guerra"
+    ],
+    "correct": 3,
+    "explanation": "Primera Guerra Mundial: El asesinato del archiduque Francisco Fernando desencadenó una crisis que desembocó en la guerra."
   }
 ]

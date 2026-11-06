@@ -4,7 +4,8 @@ export const COUNTS = {
   'Entretenimiento y cultura general': 150, 'Cine': 200,
   'Filosofía': 150, 'CrossFit': 200, 'Gramática de inglés': 200,
   'Capitales de países del mundo': 180, 'Mitología griega': 200,
-  'Historia de los mundiales de fútbol y Juegos Olímpicos de verano': 200
+  'Historia de los mundiales de fútbol y Juegos Olímpicos de verano': 200,
+  'Constelaciones y Astronomía': 200, 'Historia Bélica': 200
 };
 
 export const BANK_SIZE = Object.values(COUNTS).reduce((sum, count) => sum + count, 0);
